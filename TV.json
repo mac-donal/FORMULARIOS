@@ -1191,7 +1191,7 @@
       {
         "name": "DIRECTV SPORTS OPC 2",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-  "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzZPPSrE9GVC6YVfZQAliBTgMrH9JkslK1k9+ToWyLBlM+FTJXsgD0oVY/FRlO7T7sK8xf/OFDBW1Uwa2pY/rWAKrT6vX+WuGGPNBc6teJDDUoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRnxF3pWRimAh+2/CVpohGlvRFT8PDM+H8tzfxEWBNC8nBDyXqhTHYoGdnsNe0oosSuDwNRZAvSGfoolQ1WlPpO2izPN9alxsavnOW/i53JyfQ=",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzZPPSrE9GVC6YVfZQAliBTgMrH9JkslK1k9+ToWyLBlM+FTJXsgD0oVY/FRlO7T7sK8xf/OFDBW1Uwa2pY/rWAKrT6vX+WuGGPNBc6teJDDUoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRnxF3pWRimAh+2/CVpohGlvRFT8PDM+H8tzfxEWBNC8nBDyXqhTHYoGdnsNe0oosSuDwNRZAvSGfoolQ1WlPpO2izPN9alxsavnOW/i53JyfQ=",
         "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS74JgS3Q4NyjWUw+cMUcYBriuFQHq8HyMviVSn/1YOtam10nrGDZDIA82J3LCp3PU1T7xls8h5McCQwzTTPzAeJGElMOmRA9rVqCC5wrwfOYR7ml/BaasDOrgERwZ9HK1kx4E69evWPM1uOXuDbI83JiKfEeV6ijgFgAKBs91fxjIfPbF3mAlf7NzuQYkQWqkSYR0vML6MBAzQCDS+Z6v6xMZXahHIBxKfNmTVM5JDnw8SDg9Ktm+YBcIp2DvHHEw0lBrzQ1w8w4lNdrYmLv3zt//EKRzwABnPRHIS6WN14/IgAPr3070K2jYYp0GRQYkvEcXuIvLiPWvNpUzq2pNOrLJYqlnT+rx6szhkHVufNkr6RTxytyIl3vv3ZzR7UEB+E2IehTjvNGbbcWDjensdaf5fhrLSIqcuURJtlr4/CbDluzApmi0bW5HhEVu2Frk1H3r1tqvMb7nzkHDu6Iw/ozsmny924civ6adfXfIj7KQbV8qrtKqF2CnFrKgJbxBWTV1sSaJvEwZ1c/KvYKTKze2qcKvD+bAht+LyRYzL4eA=="
       },
       {
@@ -2339,6 +2339,12 @@
         "name": "LOS PITUFOS",
         "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg",
         "uri": "Bd8xwwcdSMEPoMYitgWvPpPYJKQMfZiSWQid6Stq0/B6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck0733wKgvgwNVX8h/zFN1N9tvmsRM731DeE45eP184Q6pRgGSBR6+7NLD1u67DaGCM="
+      },
+      {
+        "name": "ANIMANIACS",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/8a/Animaniacs.png",
+        "uri": "WaI57VB80PbWPyTqBvuR4o6tlPLgtevp3NtNO5MQ3uqt/YRaAAqL78R58MeGokXS",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xvpir6fDTPsomXFKp0AIkHTSabUJm+vgkDYB/8BA5Y8opS69rSX851EObrWW4TnG7FFu15NQTlLw/+jpuGlrB5OaE9F920ZV8zOMcuPu0q9swQ2GVIqRMHrTNoGlYlFZ/t/4iI0i+pswWnkfHiMjFSIcC2MVm9pEStlepdnkRVgdVWsSg1GHWqJ4A9nOZCo6nbkh1YLZXLSqcSF/aW3hmKzgGBP6S4dXXiBgEHttZXAz4l/woG3JbJ07vCIdv0SA8/iGlILM7ZR09aVQ+jtyFqJqYDzUF/KSo2hpmLJRj32Dk23BOkvPD4+4oabpzv21bQ=="
       },
       {
         "name": "ALF",
