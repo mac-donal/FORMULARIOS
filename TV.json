@@ -3,6 +3,25 @@
     "name": "⚽ EVENTOS EN VIVO (Solo cuando hay partidos)",
     "samples": [
       {
+        "name": "FOX SPORTS PREMIUM f1",
+        "icono": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_450,w_5472,h_3078/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F12up_es_international_web%2F01htn5zb94kczzh5hcye.jpg",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlLPyOBQXN0B0h2i9q+fpR1VePqrl6zKhk3kX/a7Z0JOm5/L11bEy1KaxFLrXVANl57j9s+aqg5/i+j70eiExkNE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw=="
+      },
+      { 
+        "name": "FOX SPORTS PREMIUM f1",
+        "icono": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_450,w_5472,h_3078/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F12up_es_international_web%2F01htn5zb94kczzh5hcye.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzV5hSzl9sNRQZutvn8ir5U+9mZomUrQiEx+/LCnxypOlDGo8PtJvJQ71dn6Rm6H8OdRRahvD4JngNZ2KBKvq7sgpSAJOWIsX6jQKt5k/zsUZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/If/EZk2wIhGUvfy+Gog2gGz8Ce+zyZn70D94rzvYp2RK8qlF7+UntvXiCFdjkAjOYdOK8/cYDl35H3AADXsmRmVm62prt4OCalffCTBRG6cE=",
+        "drm_data": "1gwchRkLEVbXQAh0hPQziUphUTdpi6dbmc2MbIlVOZJ5yLLnmGSS7p2YOSuCHSLWYSn63qyihvv8N8tOWOr7EeX1Bt7OSKlvrElru2U0OYQEVUIO+6PovFwXNegiDu2YLsxdHJeF3mrg1VA7K7p2dtrW+qYAo+Qh2DsdMLXNdCeJPfh4Trxd7pZfMIEONCfZ0NpChRJywYbwzZdGjI8/xKiLSY5pn6hsyJ6PvJxHAnr7wMiokAmzx8y/AePR3kD5p7dLbe/L1IhJt/WuXmh77wKoAU4WyaFG5V1ZCmEmAmCanzP+Q4HBqWPAokNfTnyYus4wH5OaxydyY9IiZc1UEknYNls7xbnXuPLObJPJG+M1jVUDp+4FMjJqjcBhSTt6qVirJ2b0RHL7eu1HokZfe7pFkSP+MSbprBpL2G5vP4Xdjxl5xme91/OKhEvTRbs2uZz4G94U9vjY+x9yff2eCoTJgwrzX19MhDuY4N+BZcm0NcCheAsOVeqIHc+kLv9J"
+      },
+      {
+        "nombre": "FOX SPORTS PREMIUM f1",
+        "icono": "https://images2. Minutemediacdn.com/image/upload/c_crop,x_0,y_450,w_5472,h_3078/c_fill,w_1080,ar_16:9,f_a uto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F12up_es_international_web%2F01htn5zb94kczzh5hcye.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzV5hSzl9sNRQZutvn8ir5U+9mZomUrQiEx+/LCnxypOlDGo8PtJvJQ71dn6Rm6H8OdRRahvD4JngNZ2KBKvq7sgpSAJOWIsX6jQKt5k/zsUZ NdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/If/EZk2wIhGUvfy+Gog2gGz8Ce+zyZn70D94rzvYp2RK8qlF7+UntvXiCFdjkAjOYdOK8/cYDl35H3AADXsmRmVm62prt4OCalffCTBRG6cE=",
+        "drm_data": "1gwchRkLEVbXQAh0hPQziUphUTdpi6dbmc2MbIlVOZJ5yLLnmGSS7p2YOSuCHSLWYSn63qyihvv8N8tOWOr7EeX1Bt7OSKlvrElru2U0OYQEVUIO+6PovFwXNegiDu2YLsxdHJeF3mrg1VA7K7p2dtrW+qYAo+Qh2DsdMLXNdCeJPfh4Trxd7pZfMIEONCfZ0NpChRJywYbwzZdGjI8/xKiLSY5pn6hsyJ6PvJxHAnr7wMiokAmzx8y/AePR3kD5 p7dLbe/L1IhJt/WuXmh77wKoAU4WyaFG5V1ZCmEmAmCanzP+Q4HBqWPAokNfTnyYus4wH5OaxydyY9IiZc1UEknYNls7xbnXuPLObJPJG+M1jVUDp+4FMjJqjcBhSTt6qVirJ2b0RHL7eu1HokZfe7pFkSP+MSbprBpL2G5vP4Xdjxl5xme91/OKhEvTRbs2uZz4G94U9vjY+x9yff2eCoTJgwrzX19MhDuY4N+BZcm0NcCheAsOVeqIHc+kLv9J"
+      },
+      {
         "name": " EVENTOS URUGUAY OPC 2  🇺🇾",
         "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
@@ -1578,67 +1597,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG1YlOl5LNZfR1advvuGOMspzgNEe75jL+ydD89NvWuDjq+7N4gbRL2OYUhKONoOaVqF3gVvCg4Ys0nteKbabfQCLYPj5nZKOD5nxjOKdo8kLEdHMvfPB2uiDO/hT+L/Kw==",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png"
-      }
-    ]
-  },
-  {
-    "name": "⚽ DEPORTES DE DAZN",
-    "samples": [
-      {
-        "name": "DAZN  LIGA ESPAÑOLA",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://i.ibb.co/TBYfrWjJ/images-q-tbn-ANd9-Gc-QCHAV2-Wc5gz-b-Tzi-F1w-EInmbibm5-R4-Ac4-Jzw-s.png"
-      },
-      {
-        "name": "DAZN COMBAT",
-        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZQg7DDFmfDkoyOXuRV18oTED1GFJExQGBcKP9tp0Rxgtdbc+kwA5Y6SNNAUT5DN4H+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iN74PkxdU45vCn1tYMmOoS/g==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5"
-      },
-      {
-        "name": "DAZN 1",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlAULIuuYvYzju6S8JuEbyqJBgAJCHxSBFZ3rvam6E3E2Llm23HPQwGKiGWllfT5euBBPGwBlv5IMjCgyNLRIjug=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJbsfGXzzPav0b6CLARrJ1quPRwGreUioDw0wpjjKtBnfhQ0lKIpw8v2NIOtNfT6JoT/Dzd9Ro2HBzzwBoGkahS5+0Ar/AQ6IEBN/mEnkuqqMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/v6nvc377/D1.png"
-      },
-      {
-        "name": "DAZN  2",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlLrDtCmYz+a2/Kib5VBwFb4grblXnbLOpUD5GJfBfWimXJxQfCubFgDb9+sHvLTNVSOZ1pP5KJzH18bcNPZXvz4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDa9V6/ZRkVFUQaGGppyWU1ueZj1h56+jWBgyuBGx2GT5dD//QkIeiuJ6eBn5QbxLa7wuw0TJzBC0wbeJlwcdWf/UgsxaX8My9uj15s0M4jmBO5Go2FGO9lkkyuFQX/RAA==",
-        "icono": "https://i.ibb.co/TM3ZHJvS/D2.png"
-      },
-      {
-        "name": "DAZN 4",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://i.ibb.co/JRVqj5MC/daznlaliga.png"
-      },
-      {
-        "name": "LA LIGA",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://i.ibb.co/TBYfrWjJ/images-q-tbn-ANd9-Gc-QCHAV2-Wc5gz-b-Tzi-F1w-EInmbibm5-R4-Ac4-Jzw-s.png"
-      },
-      {
-        "name": "LA LIGA 2 ",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlPujXMRwDEvTbNHYVTJ6jjUc8mOjWmUTaCMs7DvxkAoniyAJ4OFqV6MrjHvv5JWtzq9JT+dXRqJ0sejc8Izd254=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE8W9QZI24Ac6sqJNKy40tuOwARQQqMyDxiFp+qifE397io1bRqSdCIoEJnMPV8wae9w0E2ua3cgxWcW0Ojo70GdHU3/UeRho7Rw0QxZC2beQapq3rnPGSNCVJwX+If3eQ==",
-        "icono": "https://i.ibb.co/TBYfrWjJ/images-q-tbn-ANd9-Gc-QCHAV2-Wc5gz-b-Tzi-F1w-EInmbibm5-R4-Ac4-Jzw-s.png"
-      },
-      {
-        "name": "DAZN FORMULAA 1",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlAIkuKGm/9Uo1Nsjoc/+8xZfgmrbw+0yYUwYE9HyBZJYM8PXl/5shVr83rYJ1pZfxfQUsUGXjNtV+J8mRHGPGso=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEbsSnzm7pJHOlNucwUI4WuF6FEZeZhEt+kgdrkwYCtkxScLLiHZ8dY3xmLTekOIJNywrua5IwkQmZmtujcyNBpN9eeOmsDbLpASu5QbtOGC9zoucmogmd+2fywR7y3TLA==",
-        "icono": "https://i.ibb.co/pvnxnrbp/daznf1.png"
       }
     ]
   },
