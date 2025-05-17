@@ -1,6 +1,6 @@
 [
   {
-    "name": "⚽ EVENTOS EN VIVO (Solo cuando hay partidos)",
+    "name": "⚽ EVENTOS EN VIVO0 (Solo cuando hay partidos)",
     "samples": [
       {
         "name": "FOX SPORTS PREMIUM f1",
@@ -2242,7 +2242,7 @@
         "name": "DIOS TE VE",
         "uri": "YtoYruFcbeONwiMybiokl3xelLv8PZ+T+UwKX2QsIE9hGGvduXQVJbBhTYpYEYmjaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://play-lh.googleusercontent.com/-4OhvRG-BNBSloTMXVTKIax7uGElDnybRLC7qw0waJHUWafazWoprNyQbhG_n0MMRMg=w240-h480-rw"
-      }
+    }
     ]
   },
   {
@@ -2252,6 +2252,18 @@
         "name": "LOS PITUFOS",
         "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg",
         "uri": "Bd8xwwcdSMEPoMYitgWvPpPYJKQMfZiSWQid6Stq0/B6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck0733wKgvgwNVX8h/zFN1N9tvmsRM731DeE45eP184Q6pRgGSBR6+7NLD1u67DaGCM="
+      },
+      {
+        "name": "ANIMANIACS",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/8a/Animaniacs.png",
+        "uri": "WaI57VB80PbWPyTqBvuR4o6tlPLgtevp3NtNO5MQ3uqt/YRaAAqL78R58MeGokXS",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xvpir6fDTPsomXFKp0AIkHTSabUJm+vgkDYB/8BA5Y8opS69rSX851EObrWW4TnG7FFu15NQTlLw/+jpuGlrB5OaE9F920ZV8zOMcuPu0q9swQ2GVIqRMHrTNoGlYlFZ/t/4iI0i+pswWnkfHiMjFSIcC2MVm9pEStlepdnkRVgdVWsSg1GHWqJ4A9nOZCo6nbkh1YLZXLSqcSF/aW3hmKzgGBP6S4dXXiBgEHttZXAz4l/woG3JbJ07vCIdv0SA8/iGlILM7ZR09aVQ+jtyFqJqYDzUF/KSo2hpmLJRj32Dk23BOkvPD4+4oabpzv21bQ=="
+      },
+      {
+        "name": "CAMTINFLAS ANIMADO",
+        "icono": "https://images.produ.com/noticias/0414/big-SerieCantinflas.jpg",
+        "uri": "WaI57VB80PbWPyTqBvuR4pbNb9tOf9PJK5hbi2uY1QGrIACViIgPBEogg0zGFjS1",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xvpir6fDTPsomXFKp0AIkHTSabUJm+vgkDYB/8BA5Y8opS69rSX851EObrWW4TnG7FFu15NQTlLw/+jpuGlrB5OaE9F920ZV8zOMcuPu0q9swQ2GVIqRMHrTNoGlYlFZ/t/4iI0i+pswWnkfHiMjFSIcC2MVm9pEStlepdnkRVgdVWsSg1GHWqJ4A9nOZCo6nbkh1YLZXLSqcSF/aW3hmKzgGBP6S4dXXiBgEHttZXAz4l/woG3JbJ07vCIdv0SA8/iGlILM7ZR09aVQ+jtyFqJqYDzUF/KSo2hpmLJRj32Dk23BOkvPD4+4oabpzv21bQ=="
       },
       {
         "name": "ALF",
@@ -2272,7 +2284,7 @@
       },
       {
         "name": "EL CHAPULÍN COLORADO",
-        "icono": "https://pics.filmaffinity.com/el_chapulin_colorado-834427314-large.jpg",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/7398332bb1251226a6cc1de19c16c07e122f08772f1ab53e506c33e28249633e.jpg",
         "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiLWvgXZ+pe2ZCFJQgTCqFVAjJFDi5JVrs0t72jWbT6Z+/TvJDqulJtow8MphkmdVZY4SsyqQLh1OiKQ4+9zTIzEJJ8AfUSPjdefOFGQvPBipJj2C/vQFDyGFPqk+x9MXQ=",
         "drm_data": "Mr6cAc20IgpuefDPu8hl0Pq7TOjQI19IX3nKlmMe8wpWoyEJRK1cgwLAiVikka5vvkLGr2h+JP1GbQk3LCilshMww7uB2ESqqFAi2KrdV74RPxlQ21iD62ySMwwYrZmIk03sflYx3sTq1dvCue3N1cF2U4uEuZsC21/YqChckaRdgTEpHRl8B1iUJC3hreDBfs5xcOKKMXbN7Ta1eK+ymAfajU2TXGdVk49nevZGKRJHt68WNgZixV3rzR4smXwzEg3mOP4oSbYZm/hUfFp1E9UFwpvIqP71yOlk2dzKS33bsqfHNGXMKSxaGNFbTqbo/mdXHxwhJWeb3ey8/Pwv6l3OB1dN6FlaxXMTwZl3AiZUQT4GOrGGt+dp7D9Xn3RO"
       },
@@ -2291,8 +2303,8 @@
       {
         "name": "DRAGON BALL SUPER",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEivF1HQ/8vj0dAdP5iZwM4ejGPzFS1BSBYPXa56PewwAuYETQYD95LcSLF4N/YALkVVA/q+TShage3UG3ixztHnRkEsD2Bhv6fIpPJsby8KKdkM3t1BMIdYX6EUTYr1tPI=",
-        "drm_data": "1gwchRkLEVbXQAh0hPQziR03pQU5uRKIUJvo0Z1t/oVXxOsrzGW3fHgvEZ45UE7o99uDjLOA/dyFh1AninLJy3G5ZbZ+matv8H1Uqv60ZGeEu5uJCqqWQxLANou6THNtNt4vFjvuYZsVvEO9xN/HEsXVVwFZB+uR6Ipp6KkKfmsNdcpQPNnlsArRk2NN3nYAqcxBANdjROP4vKgkZ9tF6USHfUDE0016AgJA1aWpxPoAr+ouLMdgFFcsU2uTXLSNXSvi5QJ8f4XDcLfs+qjqS3Iz2zqRxLn/thEMtdfQmcm9k6nduTmfuo+8p321WbdvzZ3ukm4n/bprB8CBoc/LqvqMA5im9Z5/HHq+4dtHcj4pJKLjyYA6YipAaD9hsqP2"
+        "uri": "WaI57VB80PbWPyTqBvuR4pbNb9tOf9PJK5hbi2uY1QEszzfWpcbGr5zlv4udycn0",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xvpir6fDTPsomXFKp0AIkHTSabUJm+vgkDYB/8BA5Y8opS69rSX851EObrWW4TnG7FFu15NQTlLw/+jpuGlrB5OaE9F920ZV8zOMcuPu0q9swQ2GVIqRMHrTNoGlYlFZ/t/4iI0i+pswWnkfHiMjFSIcC2MVm9pEStlepdnkRVgdVWsSg1GHWqJ4A9nOZCo6nbkh1YLZXLSqcSF/aW3hmKzgGBP6S4dXXiBgEHttZXAz4l/woG3JbJ07vCIdv0SA8/iGlILM7ZR09aVQ+jtyFqJqYDzUF/KSo2hpmLJRj32Dk23BOkvPD4+4oabpzv21bQ=="
       },
       {
         "name": "DRAGON BALL GT",
@@ -2317,7 +2329,13 @@
         "drm_data": "Mr6cAc20IgpuefDPu8hl0Pq7TOjQI19IX3nKlmMe8wpWoyEJRK1cgwLAiVikka5vvkLGr2h+JP1GbQk3LCilshMww7uB2ESqqFAi2KrdV74RPxlQ21iD62ySMwwYrZmIk03sflYx3sTq1dvCue3N1cF2U4uEuZsC21/YqChckaRdgTEpHRl8B1iUJC3hreDBfs5xcOKKMXbN7Ta1eK+ymAfajU2TXGdVk49nevZGKRJHt68WNgZixV3rzR4smXwzEg3mOP4oSbYZm/hUfFp1E9UFwpvIqP71yOlk2dzKS33bsqfHNGXMKSxaGNFbTqbo/mdXHxwhJWeb3ey8/Pwv6l3OB1dN6FlaxXMTwZl3AibVBEQuOgYtVvumwWutUrcE"
       },
       {
-        "name": "LOS SIMPSON (OPCIÓN 2)",
+        "name": "LOS SIMPSON OPC 2",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzQjjVdBg/JvY3jEFlmbwYgs/jWlpBezXFYvXstvt9pAHpAuKk5i+5IPQDaU+23Ayn3hPnAY0SmX0Fh7ZNIzTpuuId4+0cFujyPwLQIA8bdgUoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRn8k8kjFqcKjPD/AZoJkNmbgHbuKvklLoiZz3pnR4F+Q/cDaU8s2sGWF3ctaD93ZWlwWHFH/ZhSOsAoLIEDx845yIT3yhdl2JzflKta4M2hBc=",
+        "drm_data": "1gwchRkLEVbXQAh0hPQziWVuyn/UeL51HZy0VSNc24NiT/dVaV1tc+/raLqz2LCDoTTDg2TrH69VFWL55LnO0wJS9tZVzOVSXhDj+WBvREXrh7lb6flaH77DrjYcaqjtH02tg4hQY7ASlk1tfsUiXgfm8/yIqn+gYbS+1y1mgY4pFJuSMmSQzk1NhH0SYtj+WEjseJZyUUHjjtd/MyzsTDcVxyXqYlRxmN/w2PJrWnvU0qTdEFUs8+F5VKvVv6T5N0h6S2CUlrTpNVCvr3yq2EDJAGQADKmCk7cBOQkL7UlJT8nuI56CL3vkMvuPi84ebbCW8roZJHPfzebV2Pd/qqxAweCZfYSn0iQ0BeOAfbwdTKwyjJA/1Wl7smc4wKd4SE2JZGXHpIgWN8vnSDxWG/Syb7enaJ5Kka8hpWS17DoDsrnYg2APvE31ZTYEyS88U9b7KWmWh4XKUjai1P9z1p4Hwpx63qbVynhfCD0wNoHNne6Sbif9umsHwIGhz8uq1DflQj11y3hmUNC7Pw46ZpNtwTpLzw+PuKGm6c79tW0="
+      },
+      {
+        "name": "LOS SIMPSON (OPCIÓN 3)",
         "uri": "qjrqksmEeZXss/rITggQWcFf0fK06d1wSENnJK14ZctXkQlXN1C/2os7HnKrJ/ScnR2kpNdNfEV7yj1ym5AfhbBvz5G6SlKIAhcyCRVSj54=",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ"
       },
