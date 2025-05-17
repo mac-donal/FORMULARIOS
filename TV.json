@@ -1831,32 +1831,12 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "GOLDEN MULTIPLEX",
-        "icono": "https://i.ibb.co/BTjfF3p/golden-multiplex.png",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jLqnDvj0h6aoTgeUAi8NZiPaZnb9POzIvHRM83jp5ZWpB74pH5wcNyJLOqXlY0gu0=",
+        "name": "GOLDEN EDGE ",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87BjOeGonmHIuCRA7WiJDMRu1HBv5nFi0jFwGnasI/ei3cpZ/+sP65TjNsiZvkFx2WU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPv4W+wdjd8r9PlnvNdePpXKRA/YDjkqQRJQgvqnCAxcM6HXa4URcboiOUiaBevvfM1HdVH/UZQLKFa1ilGCZYHBmHHLLefT6bXE1w/O/fwjqJjlH0rEmS85sNQwWp23QA=="
-      },
-      {
-        "name": "GOLDEN PREMIER",
-        "icono": "https://i.ibb.co/6D60Brn/golden-premier.png",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6h4FqHtwoyuCnzplzz4osY9czpZVXvNm7ZeqlGMeIosc5YqC3yz5gdfQ+UBRW8OXEo=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEuN5i1tUT+Ufm8OGql7lDPtbaLWGOX0ubYhneELHC9Bwv09BjM4VBWOOYOmHFffwcRcuRN8/zCsx+IxdkXtvoeangNcpVfuWKL9QrrRCM1ESKSJVo1J0rFtzMblU96/Cw=="
-      },
-      {
-        "name": "GOLDEN PLUS",
-        "icono": "https://i.ibb.co/NyNYXrx/golden-plus.png",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jLqnDvj0h6aoTgeUAi8NZiVW3kGPZ++0gA3u6prTZxN67OHy50iCio8r4pjfESODs=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKAKjPRAAyo4HPmJ5tOk/ZcWKZkJ3M5udR9Grx7tmSvJtSQU53oP7Ux3iEAG7TmLcR2wKK1ZHe527tWA6//BaOWii+WkRnD87wvEiFRGy9OmB5vcr+HAJVY3/rUzAhzL4l"
-      },
-      {
-        "name": "GOLDEN EDGE",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jfIc39YtyiXCxTwEFcL43kSRn8Yv7fxr58sNUilN91VtTeLOuaw1tUCBGYFI70QVc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYqexshP4Sb+yLYVFZLEfNHM+VT+TGgbK0WTIBgUSoMoyCGqeqGr00kxAavFRL6yPcGMMwi+GKqVsofvJDwhTz5/eUVEV1SgEftZ8eGzMJNCTbZa1xrwKGTk7fD5GGXug=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGvgzVabHkfLkpdkmH3Vm0m3EC/8yPzmgKCmIgA2ApJC0OJxTqj0KYl6NXtnwhT5AAJ3xn/sntoGREcpTD4MaA10QUlKhymHKbnXbUlT2FhNDw14KLRoHBpRqrGIi7eF+g==",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
       },
       {
         "name": "DE PELÍCULA PLUS",
