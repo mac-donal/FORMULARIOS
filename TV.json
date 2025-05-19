@@ -1526,12 +1526,18 @@
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
-
         "name": "DAZN FORMULA 1 OPC 2",
         "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnD/7zNP/WfkKfSFk5ucysYQghxwhm+G0Vts4Fs4T32wzLyzPFtjLiQT4ebEoXTtK2+xou5xpBf1dgoBIGGIpcjaSr6lcaO4fL/ls++79ljfMI=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv5Y6zNKondZtCJmfIIf9ME4foosBcicRJyHwtxm8Zd0nF7yd4QrY5Q+VXhNI2XkvogRa+ohoUEQ2VfwIH5AS0pF8oPB409MvsewsGq45oncaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "DAZN LA LIGA PRUEBA",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDIMCkvOsxIyebnz+wjjcUM9XqGndxkomNqoyDliJzHsaqou3n6PQXz17/36J1tZEL0ZRBcoIOLQ5sgBBTMxxCMSr6lcaO4fL/ls++79ljfMI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEuHy/AcyTbsbmpWfZfuJ6LvZI5WtdH1wVvDuV4xSO+rSyMh6mZjb0HQjtfz1au1TYfC3exZLi1pC45JZl0pbNtnPNXMS5IfSrZKYf257jX7zaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png" 
      }
     ]
    },
