@@ -1556,7 +1556,14 @@
         "name": "DAZN LA LIGA PRUEBA",
         "uri": "F9yutVMOgRhgqM2SFN/bekxlf0B36mSKeML7TpVE9mLlPquxY9sjF2pxjNAwAhfY0MzrByFvWsLk/nYgGWdV1+RS4Di3ZsiTEWvBXK0hB3Y=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEsMQxrxIfCiwUvv5AO8AyV9fRq6W91+mkLaBwsZrHedquALOnBGrhN4dNoGm/L14gxdcDJjSX2Nn8GdUVSqfEzXZJg9a1obB53R4NFyyG7TdaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEsMQxrxIfCiwUvv5AO8AyV9fRq6W91+mkLaBwsZrHedquALOnBGrhN4dNoGm/L14gxdcDJjSX2Nn8GdUVSqfEzXZJg9a1obB53R4NFyyG7TdaeOQC5B3HMPhPFrje2g56Q==",  
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png" 
+      },
+      {
+        "name": "DAZN LA LIGA PRUEBA 2",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6gmKkjTdMIdr31kwjg/w8eYWActCCOEleeFrL8ui1lVm2YzQQDpU62CO9pjYDvJpHc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCf8Gut7Efeiztn2jhcTPtwfaKeKpCYnT/+g8IYSYySMnGRyR7757EDbtj9nllMY1zbObgK+79srLctSOJn2qr0tmJae+G2DMhmi2St44ioV0timyu9icVu5o6c3DOa/jw==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png" 
      }
     ]
