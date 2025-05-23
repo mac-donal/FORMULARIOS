@@ -3731,9 +3731,9 @@
       },
       {
         "name": "DAZN",
-        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwes3QOFJll1U7UdTVQoXCcuQZw2nAUxtWbmZJLQczLYDo=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPhOsqZL7ZoS8N6LihOQoMdRV7xHVrpHOg82MW1YUyPjTzukZlR2MIaNNj1AIsqpXcCT2vr6zvYSOZM/8n3nFqFP4GMFNvZyI6Chc+j9/3SxZBwu/4MXv4stS4KnB13hAA==",
+        "uri": "cEpYEo5n7VplPJEF/dbw1uxlEMtgdnwSIzZk0tW1JSpz0u5zOeBA0PbnLtZyYyzi5zgjnptWO3pQ5J2xT9cHQlNW+j71FMd/Zi3y5qiMd7Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRTMlwSv8TZ20ADAaYrQAXpoCdaiRBGlY2WZKvyVKy3TbIs9e75UC5KWENHBJSqKdo6+y57bZUp7SHFliA1UNiWEcKwzRJtAElPKyDf+Q/Mi5fVx9PBJCOoUOubpmtr5p5w2bZOmEe1XCTOLcAr8sms=",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       }
     ]
