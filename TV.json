@@ -1628,7 +1628,7 @@
     ]
   },
   {
-    "name": "🎥 PACK PREMIUM HBO ",
+    "name": "🎥 PACK PREMIUM HBO",
     "samples": [
       {
         "name": "HBO",
@@ -1640,11 +1640,22 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "HBO OPC 2",
+        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwe+ijYzUchyOtH8VIJIBJ80zOckawFzPT5dP26ogsWDaaCk7cjT0EYx3CPVG+bU0xqfPYLvGIyDVfwhHLkBugMxQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLmLpPmqseULgPRipCvNkJsPiMrSNY13wtkbduR3caIhRmFGNWpyl0jOcUMy0y1jyZegULI4SUhDdw8hKqMWCw4jb3BvPKxDgTiH1kTiHCPUFwdjdEIo902nBbPUjnbp2A==",
+        "referer": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
         "name": "HBO 2",
+        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
         "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwezI7CAfSISS+DEk/dLM+3IXBtrXI2ZzwT64bff4h9pTd2bklHozENJQEJN/Pde490fPYLvGIyDVfwhHLkBugMxQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOXiGXKYvw+yG2Zi19aXpm17ZQB33e/1ElqTx62fZblP055uhQ5wHUmqjRmOahuow6xoXX/D5ggN7QCai9cbG0b9KNCBuqOfoFqNoKEcz7Eap5E4Et0hYIz0nSJENV5nag==",
-        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
         "name": "HBO XTREME",
@@ -1656,11 +1667,13 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "HBO Xtreme OPC 2",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6gVaiWSjYIDz6U6NLEYq1LeE47mFsVUiKhIMUCit9FlUEhI8gQBPiQU+EkubGlanoc=",
+        "name": "HBO XTREME OPC 2",
+        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwewBeLbEsKFJ/eCFpdUiOf3gnRqOJ8iL2aD+svQUIL+9to6WcGylZI4wASwiR/zsujfPYLvGIyDVfwhHLkBugMxQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVjJ1Wk6Xh4Yx0dxqnK/aPNU1QLuIf5+INtBkD3rONjIn9BAgxaXNVF7EzOq22uEjnx1cXY86IfvHL9HZTP+hGDuU4YyGvvp231ipxvuhxuZMQ==",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png"
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAfQQQD0kg+0PUk3Uf0DN/DYc4JeBDWHnnYMmknowg99rzU/awf+Z9JspVfFgMOFpn3RNPKDpYGdb3xsQRUO+7uhh7QSS8YaUnE6EHfIf7oa3/nDk1a3W+DSy2GA5eKf5A==",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
         "name": "HBO FAMILY",
@@ -1704,9 +1717,18 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "HBO MUNDI OPC 2",
+        "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwewG9OjRL8MOdNX2r9kyovnw/Mi/wcIN0Sk+hj2WrCxFyMq0x5Y8SFlvjhTjG4f5nyfPYLvGIyDVfwhHLkBugMxQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGl5WkIfdwX0hJjwaK9kOfFoiR0D5YABc9YZ++Ccik5oRiQi0URIHK52iZG6TXkz5AxknX4niGSKKybaiUi6Hz6m37ebxUuTXY22fMMJbVhNSwpWGK3YkYVTERbvpLL9jA==",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
         "name": "HBO PLUS",
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKxkq0bZUFMO6W0vSaEPwNB6xhN1ogyTN6E1gdGN6zW7GFzS2/UUuGWA9hQUF6/Mt7BzWmualXeQ1rQpP+n411V",
+        "uri": "x/xWkNrovMYmGeIV76G4pAyXxca9ueFohgavmm3H1Y76hLrJV0xTwhdMFtihSmReJYcMEM1i03IU+Vk6RK5Ds+N3qgH/U9VH4p/Inl0Z5Fw=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEvoLw7ezRxzv+fsQ1rmKvoAOjkvsXB0HxI1SMl37sUHZ+UldNbU7DOu/HSobM8ZnlApffRPk1Nu7nEAXCoV/+Sfu2qShWYmGA+d+Jg+1Lg1EaeOQC5B3HMPhPFrje2g56Q==",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1725,6 +1747,15 @@
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIpA8+hEZobvgNfsuFsgdhmryOwJVXG9v0XAfvAHV4X+3jsvz/I624oCtxBHSPwWmtp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkmNoozjMWx/9IdekSu9YYfyQiMHmuf4AFlmFjDNLrJAGXecAPG926RTAi5Aqlam1VHEjV3FXqnwZWdmItGzZH4b6MM8HEQMUZSEpDFB311yaeOQC5B3HMPhPFrje2g56Q==",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "HBO POP OPC 2",
+        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwe6ioUQjF/0CI2+S9ONzouRMR/+ztl3+mnHL9SfrbP8TE+vmkeLt9SB3cNiLpY2k1BfPYLvGIyDVfwhHLkBugMxQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvI/OFr88OJiDXEY/tHTKU39ktuQDKpf8l/XgHm8IM+MvyyeHbXAWbNWBJRiIUC5xRxuWQsgiWRlhe68b7Mhj2h/54UYOXvE+b1vRRfM2+A1xsjUytVrdVbEADRNDvZuIbA==",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       }
