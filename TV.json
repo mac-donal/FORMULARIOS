@@ -1851,6 +1851,12 @@
         "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
       },
       {
+        "name": "CINE EN CASA",
+        "icono": "https://elperiodicodevillena.com/wp-content/uploads/2020/09/2.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9G9iMAnSzIrJPI+abGUXG+D",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7LGrrlSzBl8CqYlZCQ1DRRhorfA8eMYIttBnnBTjQo4Ce2qcKvD+bAht+LyRYzL4eA=="
+      },
+      {
        "name": "ADULT SWIM",
        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTfW1azWsW9b9z5VB9HOJPJKfRGfx8145jABGMZZQICPABRt33AnTTtdmMpSpJlBqs=",
        "drm_scheme": "clearkey",
@@ -3780,10 +3786,10 @@
         "drm_data": "USIvh+0hlftJM6EOhpfrIoej9xz1iVdhkHfmwg+NbnxqQpJr7EpNTJhW8fghztFlGiTPfxz1UJ5aGVdLTjOWold7IfvABxnjblND+e/SUS+P0XD0ZUvaLYt4lAF5vcJo+BhS+xy3qE3+mUJvtUAQ1buaDnLpL0F/xVKd6jkDSErNOBbnJeyzzxRBVT+bxu8F82NNNkuoqmLOCwx/Ba4sruDggAdxhlVXT/ODHj5qPspZdDGYQB7Y71MRKOZPMbEqDlJgsE/J9+I2eTE8HV+yFkbnLkVKQKOZpXSRZ70TzFUBo8Py0X082YDZmXIoQIGBMGz01jM/uWGIozv+QDXp2G+O2KdJmhUm+Gh6SbEQxvdA6/E7r1llDZjkAkj9Rij2S15TJe3jFyborgiw0v4zwg=="
       },
       {
-        "name": "che14",
+        "name": "TNT",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/0b6aa3172f181d41d2176c85c61bcedd9e6db2db1b9725cf9cef0443c1b3d440.jpg",
-        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9G9iMAnSzIrJPI+abGUXG+D",
-        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7LGrrlSzBl8CqYlZCQ1DRRhorfA8eMYIttBnnBTjQo4Ce2qcKvD+bAht+LyRYzL4eA=="
+        "uri": "svI/eur6y09o3V4TkNMeHyP5lmfKA1Lr6MkgbFYh/K2p9Xk6v2vIw/KHQLwlGlEOeciII3rorMT2zr80arq/xg==",
+        "drm_data": "qwABu8lEWJ7OX8r2gsNVspSlurm+7Q6GdNA7Zpsyf/p5DQANx1YiBEdSJ7lyPhkkNWhSkEiqKKVM0+XWK6+VvTR7fZn2MW2ibpCdt1jQshg/jjIfjloRT+YHYTRHadegS/lRw/qzH+AJLz2KmEETXVOmNCXzE1tF90iderYQSAFI5wZWF/oYHqhiX0Yehq3j6ZfGzulnMcaAO2GFg7BYQbv4VqUPoTFtdW1g/PsUS+5CFzZLhxK2vZmu0IuwT+5JywPFQh7QrBk5a9fsA1zwHqslTcyB75i3YQsnVpUbnFnfVSGYlK3KecKNfpPl+cb513rlOzOc4KOE1NgMnArCnSgx1BnSvgLIHwHpW1es5/Azssl0eZGvP8GAae0GOD7CJY1eDDg0se2FxSiPWUhKZDddH2JvxoDbq6VC+wBmVwEBATXRVanm6A8IclTcQo2ijaX8dFIpi8EI05wEHxfwGA=="
       },
       {
         "name": "PRUEBA 1",
