@@ -1,6 +1,6 @@
 [
   {
-    "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas1234)",
+    "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas12345)",
     "samples": [
       {
         "name": "EVENTOS URUGUAY 🇺🇾",
@@ -3122,8 +3122,11 @@
       },
       {
         "name": "SNT OPC 2",
-        "uri": "kACRGPW5VSAZd6J1KThEaVkh52bfSLsAn1IC4cD4ZvnhULW2YPfYLgXxbq2eUxQato045rz3w1NR2G+R7LhOLA==",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+        "uri": "kACRGPW5VSAZd6J1KThEaVkh52bfSLsAn1IC4cD4ZvnhULW2YPfYLgXxbq2eUxQaE07tZ2uKjdJnbWE33BA1+61ueiw4Y6gVEEZ1N4hEAJqgtryys3nSlYcMXOkIUqRb6ukSMc113M7zeoFg9kRR9A==",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFMJ5UCXW/AUt7MWkY6QE2TyLkfTs3HK1+LPQuSsFqj0BetU2ThDTxLqGRlSYXRl4L4rUmn141tvPGRiCeITMmYLyzk3i9mmm5cOiM85i93u2l5hxkCldVq0XbNOATprjw==",
+        "drm_data": "BDsPId7eGPLEBh8A4kE7Tr+9m9xWHelWS4w53TfViTH5eTnxPPX6m5lp4sNcSAxz2CXtRbtxn3qWZZwj0Xb87sZ0BEPMU7/3tDc62Ylso0s/KQGYqT7ZH68TVZNtg6574ItNltDn58clXEm64BBG2zpdWRArHxO20xQdbw1Myem6kXuK86kbmrT2AHnOyjvWAxyWKyB2A6ajAWLJBh12jqgjVq3Z8SAHxUEpVQL4qw0E/Iyrg+oXPTPeC91Drzib46QKPps0S8ydJBGPMQr7cVbkb4QBGDweY6U12ifZ9SJUQT4GOrGGt+dp7D9Xn3RO"
       },
       {
         "name": "TELEFUTURO ",
