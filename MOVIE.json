@@ -1248,6 +1248,11 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿 La extorsión (2023)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMDcxNzMyMmUtYjYyYy00MzE1LWIyODctYjgyOTI5YTA3OGQyXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtw6zAWbt6NjHrLSaGsQAiNg="
+      },
+      {
         "name": "🍿 MERLIN (1998)",
         "icono": "https://static.wikia.nocookie.net/doblaje/images/f/f0/Merlin_DVD_Poster.jpg/revision/latest?cb=20241217000606&path-prefix=es",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt6h1K7vS5xdKVnGryE6JCpRhCxMmmYjxrAZPsldYcAkn"
@@ -3356,6 +3361,11 @@
         "uri": "x/xWkNrovMYmGeIV76G4pC/UyMsFDwNuhHP+Wu+CQeHYuWtgGj9D/nica0sFjdNu1Wrwc1rqB/50bYfVfI94uoLynpY5MNykfZoDsArhXzRw/xAA3JVz9UUlSuL8U8uj6xrU4OgWOV9c2YAhgGNuJcj93ZshlSLdjkKLb5nYc28=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIbEaYWqG3f8a0MP4bfUNlR1vGt+IFTyTIaQ0zf6K61BXWkniwUhlDojBe3/wewLMZmFMODLGz3AYtaSezVyP+WCfy8P7sRFhK4D51pz4H06Y="
+      },
+      {
+        "name": "🍿 La extorsión (2023)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMDcxNzMyMmUtYjYyYy00MzE1LWIyODctYjgyOTI5YTA3OGQyXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtw6zAWbt6NjHrLSaGsQAiNg="
       },
       {
         "name": "🍿Bruja",
