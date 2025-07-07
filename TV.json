@@ -3733,12 +3733,12 @@
         "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
-        "name": "sensa",
-        "uri": "HisDhulg00Cqy8631r1sfvRETbdotp7s3oAnX3EzopKC7xmZhbnr1tiTJzSMIbkDdjEl56OorGWC2yXYUOjDHrzO8wJ+8MNxdBDTLrvRpv8x554+69fTPmjc76nezkND7m51xyc6GJu1XdejUFNeeQ==",
+        "name": "sensa11",
+        "uri": "AGBcwfz2Ey+agK2kAkDGKZgnfXhHsXrTv54Y8p+SOb4/EJiWIZgLcG8v0Bmw6PdL5osonzn16CtyMYcKjgpn+dtmGMSS3fHGWfa68nuRUV9p45ALkHccw+E8WuN7aDnp",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJajoaUIlxklMrZbUs1RGKh42AtGULmvqygbbafTfHricr6imUhe7R5YjgGuHttaKXrDERPljBvG8Marg4hjSOsNT2K00wLwuYUeMC4N4Ri2nn3zpyniwxLb+mIEfnGqsA==",
-        "drm_data": "j+Ws5Vhu5yX927RTjhElj/9fPDujVUaGzsxGO26ywcX5E2HnIsbeCQxR9FD8tXjehB4iaiGM1HIG0iaLKvL3berP24ee4nKyLdJRNCKqAZ2KsgKEbY7xTE7nxOr5yzTJtVuBz6wGk+Q5LmUrnNMQUE+71apb5J5J0B9omjO6hgVaHM8Vw9+WzpLe8e9n7eJeDyogn0BcWrbR+VNWagmDnv0YjElz+1WsSwJHQ1wPiTpaPmZ+JZ3oODpfzzdR5sjgKPsv9aDrlgWUbBW5wJy//Q=="
+        "drm_data": "ub3+4YtjpFx+U1sZemYKHc9Nm8k7j4xEmWkzkc7ZJavqERntj7ujo46kc9h39w0AoOyEQ7fF2xEUvYcdazuTBbBzQsIu3r1zPN1m39M7WxWYWvEGPx51y9EBw8JLau5RJCvwvsIDX2bxFdHKMqD/U4WvWOioPwysKU7unuU8pmu/aqZjgeFyO78DqbmDUeuAQ9lqOroDk1hrrdpU7DqmxrdZ/o+sbUItaqAcy8GV1o3D7eNPL7z8TIPezDYkT5kfrCbhqFsZALlZOGs/3KZW8w=="
       }
     ]
   }
