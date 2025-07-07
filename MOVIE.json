@@ -2,6 +2,16 @@
   {
     "name": "🍿PELICULAS 2025",
     "samples": [
+      {   
+        "name": "🍿Dora y la Búsqueda del Sol Dorado 2025",
+        "icono": "https://i.ibb.co/PzttG3JT/ds001.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1qpevuEUdbbS0tVwHfN0LY="
+      },
+      {
+        "name": "🍿El Esquema de Fenicio (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/uy3ojOX8Ppp4ZFtBZobYxbvIiyn.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt22umaq+wtVQ5eCp/VOQxqVgS6BpYg7FouptrBH7yibq"
+      },
       {
         "name": "🍿Jurassic World: Rebirth (2025)",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg",
@@ -2754,6 +2764,16 @@
   {
     "name": "🍿TERROR",
     "samples": [
+      {
+        "name": "🍿 Carrie (1976)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNTc0Mjc1NDEwMl5BMl5BanBnXkFtZTgwMzQyNjYxNjM@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4sguKSxZWi7cumeyB0EjeEQ+1DyioZ545VHSIL12wQJ"
+      },
+      {
+        "name": "🍿Carrie 2 (1999)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNjA3Y2YxNGMtN2ZkMi00MDQxLTlmMzMtZTYxYTE0YmI4NGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt6eBMyVQ2yZm8NYHIWJWxS4="
+      },
       {
         "name": "🍿 Camino hacia el terror 1 (2003)",
         "icono": "https://m.media-amazon.com/images/M/MV5BNmVjZDk4NmUtMTMwYS00YmRiLWFiNWQtMzIxNjFjZWQ5Njc5XkEyXkFqcGc@._V1_QL75_UY562_CR13,0,380,562_.jpg",
