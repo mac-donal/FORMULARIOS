@@ -1035,13 +1035,15 @@
       },
       {
         "name": "DIRECTV SPORTS",
-        "uri": "0Oa5LOsxrdn3JekRuLZ1QX0WJZYWKqoL1bost2JjfET772LFBaq3PLm9mgsb7REI",
-        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg"
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhfxquczctRTQcAkOyUQdh74KQZNc8Xl9Vp5Dfg96RukAOijpSBMyGpifJncQliLKOQtqhU10a4ADxaxzL3mNO4",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
       },
       {
         "name": "DIRECTV SPORTS 2",
-        "uri": "sTbA9NkTtVP2bNs5qq3Dto7isa7yfru58Ecrm93aWSa6vqRflwPVMpTAiUl9udvfNv29f0sABZ6fVyWvgRaTZA==",
-        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg"
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEgmE+CCiaXJWwTR4vLvy9gB4KQZNc8Xl9Vp5Dfg96RukAOijpSBMyGpifJncQliLKOepmLbPOTv5uH9HayRkSSy",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
       },
       {
         "name": "DIRECTV SPORTS PLUS",
@@ -2600,6 +2602,12 @@
     "name": "🇨🇱 CANALES DE CHILE",
     "samples": [
       {
+        "name": "MEGA",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiNEfxInPhFv+Pr+bcRtUYEc+uw1Me6WldsQznCjsJO4vg96zbYM/YCtvyak74TWtyQtqhU10a4ADxaxzL3mNO4",
+        "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
+      },
+      { 
         "name": "TVN 3",
         "uri": "MPyTvcd0a4RldnJzh5NdlJ8x85SIiM/MJHN12NdG7taH+rrFKGFE0iIgwjXrvZvAPa3rwOXqFzDzefkXSLOLWbaNOOa898NTUdhvkey4Tiw=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png"
@@ -2608,26 +2616,6 @@
         "name": "Chilevision Contigo",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNWzxnOS8DRq+qK/XmkAHUaQ==",
         "icono": "https://cpng.pikpng.com/pngl/s/330-3306197_chilevision-logo-clipart.png"
-      },
-      {
-        "name": "TVN",
-        "uri": "Wf3A6FOGB3p1GJMkruYPHj8Y1YYrJmEQXfbeLKzu59OO+rTDNrLz0ltkmn9Pq8aX1c/72eQRlh4MsHL0UMIsiA==",
-        "icono": "https://i.ibb.co/7yLNbHd/OIP-2.jpg"
-      },
-      {
-        "name": "LA RED",
-        "uri": "8ZJw0UUv0Xe/ExtodpANuk6RyKTgqs1hzA59+rjXlN0grV/Suy7lOxuKvjSRg9vGIHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.ibb.co/7YXDfVd/OIP-3.jpg"
-      },
-      {
-        "name": "24 HORAS",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2rSxwjg/zTVoT9V+Y8+8lF0KBl8wNwAFN8WvgLSpia7Xg==",
-        "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png"
-      },
-      {
-        "name": "CNN CHILE",
-        "uri": "7zzruDzD+AOgHLnop0uleb2JGwpGEpYvIiHlWXew+0Hbkj/E+TXlvfYDcQk09VwRQIGA6qXLZuj+sP2tLVEilpm2KLa/GxZ+F+V8evEOJG8XJZhE3+C1aSGbgKQCeNVQZWSKKKqtJetY5FdBjljEzCjbUR6dchPUGtJdr7X/bGUWyHlwvRYcgaA4BEgubkEFyZyBvRR6spWOwaCaAIz2RxAg+EamPd2xpI9c0WvBKDa3OS2VGgeAu5hnVwBP0V8X",
-        "icono": "https://i.ibb.co/Q8xdWSk/R.png"
       },
       {
         "name": "ADN",
@@ -2754,10 +2742,12 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
-        "name": "MEGA",
-        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiNEfxInPhFv+Pr+bcRtUYEc+uw1Me6WldsQznCjsJO4vg96zbYM/YCtvyak74TWtyQtqhU10a4ADxaxzL3mNO4",
-        "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
-        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
+        "name": "sensa12",
+        "uri": "O9mvHaBn77bDxLa/1WE4HWRXaQKjcIfZx7zxWyhBcd9Ki01fbWMWVIEyRqSt8F5XHOtk7k32r58lh6nERfpQAVYZJTxwdd4eu8f2ATeOtIAvs8cSsjxxeFU92Ix7uK/r2pnjOke3SVs3aGO0qzQNojXhauv6Tu6DcCYdxwgP2P0=",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj650QWeBCcVMCv5P6PRpjQFwaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       }
     ]
   }
