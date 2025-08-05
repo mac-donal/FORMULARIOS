@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -386,6 +386,11 @@
         "name": "CIUDAD MÁGICA TV",
         "uri": "TvEhvcyWEtmSkNSOYtg2ehIHQDhpzHBTTq6dXSXmoE+bSE8X2fjDxLm9SQrMDYU8gvTEj4Nnl0N1vd8MZxvxTg==",
         "icono": "https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"
+      },
+      {
+        "name": "TV PUBLICA (Tierra del fuego)",
+        "uri": "k99rCl0HjmQR+fkVtqaSDuFaOGRJdhOtjlnrFr4Z1vkZl5Wmd9RQnG+1I73DIQIe8R+cBoVxMl5w4gqgJB7oRCi9Fue3Q92xHB12WeteIW8=",
+        "icono": "https://i.ytimg.com/vi/G9vDv6eaSRs/maxresdefault.jpg"
       },
       {
         "name": "AIRE DE SANTA FE",
@@ -1018,6 +1023,11 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
+        "name": "TYC SPORT OPC 3",
+        "uri": "k99rCl0HjmQR+fkVtqaSDuFaOGRJdhOtjlnrFr4Z1vkZl5Wmd9RQnG+1I73DIQIerI8Ns9zSkiItIC8WLQwc9anNMiCt+213Y6KoGGXj6brwmIuPk79lAn1xYS62hIdz5FLgOLdmyJMRa8FcrSEHdg==",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      {
         "name": "TYC SPORTS INTERNACIONAL",
         "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6HicG0I34Hgzsh3Pv+B9RMlKixlCGKJqhCtzJRvAoL1/XHYvnUbItgYiWdVxPWX2dZLVnMhgemesyv3rGSjCJEraeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
@@ -1079,7 +1089,7 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
       {
-        "name": "TYC SPORT (PLAY 11)",
+        "name": "TYC SPORT (PLAY 10)",
         "uri": "wZKRazi0V9CUb1ZRFtd/73zY0W6fPexNaCdVdY/2XhuVZ9XLctwbpCyUNPLxD3rOepBOiOvrSSyQCXaYo8VR97hNweDM8xE64j1lHS/UP0h2BTmYAa0QSE7BwaoYKp1A",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
@@ -1302,10 +1312,10 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
-        "name": "EVENTOS URUGUAY OPC  🇺🇾",
-        "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
+        "name": "EVENTOS URUGUAY OPC1  🇺🇾",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhfxquczctRTQcAkOyUQdh74KQZNc8Xl9Vp5Dfg96RukAOijpSBMyGpifJncQliLKOQtqhU10a4ADxaxzL3mNO4",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+        "drm_data": "t7oEDObBFtUpMRrG11kSfVgcKMPVMvrmXJJbBLHCXZf+6y8pRSuKbhUzfwatwOz2iC+V19MGGjNpJLD/HginQpBqBrhCR9r6XIpgO6gVPbNDvQJPM6Nel0+4H0rKpt6+T1PvWWbEnE9/HjNTyTRWjgT/HWzSEiuKaJeR3z9Vbv3S8y87GD8jlb+Zj806uW6Dy+o+DQ3iESq58fbGRFfQa8Y1KtHcHN3bJrwQyukI2lLuM/BjzcDxc/BW8cZbRsBiUYs/V7mcXa2NQhQYK4X5t7y2Pd4oAnxZ5F1XwTmyMnXABR3COpidolXSXvONplPuPFmHD1/q+cssVOlMQU1u5ShQamcIsND+9pNF+SyjW5Vhsjgoiz2ud+zmK2X/JEFbe1dyZzw6odqx+4s7yYE+Ls9LXDMncZheouHRL/OZuJrq+izeFkW1xZj85plfry77SqSu0nih++395CTJAwZr+V1dyOCRdKUDPnlOPNUgURZvc/SGgvn2Q3AQt9JAEDyLPO5r4sCw6jK6awGoByUfesezAeB1MY2UKSZgsP9710sm20qOSWfU9F40fUZTaAzkKWlP9vvpmguMobTlbkBUv4M7Dr4JCAUq73EQD8Mx6CP6/79HW7tUKroLx/XVmEbe7iYl7cgeZNW5IGpJRMM5WpjgfuCjyvGaPLeW+fBvr9gTinRTxfQXaVqVWYgA+Rsl8Q5P+iaxo8PwhU77PzuTjcn16+iXlRIGLa2IXurKfBFWMk4QVGAGvL1NWDf+Zu6oIBqySiF9mjxNBugJDSp08qgqPKp0qNep1wXDsMuiojLRoVfq0goD89pezkDwYAJ18RTO0L38iRhMVTCIDrQHkK+xW7p8HczmKLGG5WcMbpt/RrWGQmm8LvVYOOYpA7TzVW2L6P45ebY42vB0GJxHdr95RAwpAOSfvZmwO1X48Bb2NU/uu+jEXPLMNcBlQKsutWZ5cJnUcfgLW2toWvUslA=="
       },
       {
         "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
@@ -1333,6 +1343,13 @@
         "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlLPyOBQXN0B0h2i9q+fpR1VePqrl6zKhk3kX/a7Z0JOm5/L11bEy1KaxFLrXVANl57j9s+aqg5/i+j70eiExkNE=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw=="
+      },
+      {
+        "name": "DAZN COMBAT",
+        "uri": "WP7+OZX+xlBKRAR95YV+dbh9ZScYCdlDX4XtWh3kjwvCg4Y2faMBwN7fCjA+oetOtLFFw6SQczBetu+YbJqsNpbkZ691H93vOugjXD1ucY0KQJyJ0R1B69gTSWWkURp9to045rz3w1NR2G+R7LhOLA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
         "name": "FORMULA 1 DAZN",
@@ -1373,6 +1390,16 @@
         "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64ain9JiqWlDXrlyddIc6tPbQD7gcgrA4KtGDbJVvA0qNlGNkPhn3vTe12BjK4P4I9w1s9d4+/Rs1uLbm5hKKtCxqsDOPEJHajHzrp/x90+15aeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "SPORTV 2",
+        "uri": "XXVUrlZPpI8XOEdMzhdL6S3NlIRi+84I2eazpnP5keukfNhsTTXqGtxSNBjUWC4RUU84N73Q80+5d4hz0ZnUKESm87FD68CrQOQyVSrX7xCsbzhQeu0ZpgXEy7WmT4ZTsObFg5vmRJULnMvgrXkO4cwtLCotLEbubFc5VTLxaA2Okq2Ntx78otZ3OGesXFPzYHUQihi5CPzvgo2htIGdd6lbTQltnT5+2fghRu8W7jI=",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg"
+      },
+      {
+        "name": "SPORTV 3",
+        "uri": "XXVUrlZPpI8XOEdMzhdL6S3NlIRi+84I2eazpnP5ket6RgXuu2Cdx/3W3Qw/yE+XoQUp7dRkb/sqZcCCESLvHuVdE+gM/XpYzncVMbQ5y19pzQ/RG7kLjdtcVE7eZiv7hL4jJWCdjdip3eOvsXtZlQAHXiSV2SgBASqVkcPI7QyAbQ7DA0i+yz70gC+CJytPH/ezPLzpLGmz1xeuRxQ4mLqiooBuHV/dMolfM7EbO3kJqucEhHrf55JrP+AfIDCpsjH3cyrtR4l9cF8FM8LP5WWXRV9/cI5n5u0r+EKsSIBzgoQbt2w4EOGJCCWMx4lbMp4xMVOfr5rr0X5n8tmV1euGS0kGXSducNeCP1uAQOUsHIzJPEMhS8LKaQ5qNQctMxuHY9YH/bnkdEOY+iyhbZV0FNVCRChP67168Ocl+UkrUPJeoush7K2WWH9Ru3eYJyiEX35SsZXRtFCQDM3CP7IbEhoCpzhURJ+ny2uE3Xd5hmz8bD0xMBVBtdSiOweKnSel+dbQSgNNf+YFBX5ohNlh4uEzS0t4cmTb6xmegDlPew88UgoF3Xgs4VZ2UZTo",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg"
       },
       {
         "name": "BAND",
@@ -2319,6 +2346,14 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
+        "name": "RPC OPC 2",
+        "uri": "qTs0Qzmcbc8eu+657xpysBybvj6tIwxhonbPmfDRg/08C+kJpdQJUPy79a9Hb8k2JCPidmlXshAnk2cE572TnyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFluF2a369itUetrQ3ZkKMHcQNPtbPYauFM5rg9k+FXrg1Gxa2wwqpMwP1bOW5Z15LkAQtaja9MAjq8VWL1XMS89TzSPP7CGNGooqObxlnkdCxjOHw3q/5tYdMrngHwH8g==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
         "name": "UNICANAL",
         "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6Gh/hs1ASrGw7dPkJtzMdCLmvOXz/8se3JlFXebbxxMO6raaUHmXSCO1eEcL5ZzzOeMJsskEhpTV72EG6tsMNNB",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
@@ -2568,7 +2603,7 @@
       },
       {
         "name": "SBT",
-        "uri": "EswrIe0t/2VpYmHpWFngSH+e/Arg/QFs77zlvkz9qAiNfWU3bQpXdOUtv8J3K6is",
+        "uri": "O9mvHaBn77bDxLa/1WE4HWRXaQKjcIfZx7zxWyhBcd9NodIAQuHLRCTCb6ya9tv9R7Pinnzj3J9GoHesmxx6hLRzYh1pOpxV81qSx/hfxH5GvslfXvnazhaYo5YQiPbFvTwSQHePvg/nqalzFDAq+Q==",
         "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
       },
       {
@@ -2747,12 +2782,12 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
-        "name": "sensa12",
-        "uri": "gvuZ39gDgv25mT0cbuHVGof16zwi3vTLHbFf0PwQk9ZJclrta4LKlEpMs+skpRkrFQrnJci8c0m5CPLJR3Ij/V6FllclqPknZahmQzlu44WFOqC7IpkqzM5sA0fHQke4KTCiZRbu/bgXzYqKKyBeOA==",
+        "name": "sensa",
+        "uri": "bkpTO/EOiKMKX9/7196HSC696c5lmX60TcsVho/OjsGyqG2lGoDvoxAV8AokKcL3ztrTM5U6f/xVcV3saP8xFZAHmAjn3ZebA+WGsjn7V2Md5TmHt3Dnbl0g7BWKWiXg6+K+e1Pn+etnbPOGMkzGqA==",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj650QWeBCcVMCv5P6PRpjQFwaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfea4TetpPtiL13Y71TtCpyCTKCwkZLnnHxPpjETRuunA//MS7rE0iDW5QCk+tTWx/UWsz05PsR6SF2ZxrEs7eR9j23w+oe71nVNx2GjagKMa+5XvhD+W2559H12T33s3VCw==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYuvgYZyE7Hg6qlDrPCAsrHx2OiGeFm2B094fIlzrawbmoHYD6QeLWQ4CNjOezVqP93RtBtDix3yIA74tb/FmLGkrbKOs/QuUG56YHE9RovirMc8dFy/RuEWKZ42RPPEX21l0MZhAHtjvUxEo5k8xsSoOUmCwT8n34jZ5MTwdX7IWRucuRUpAo5mldJFnvRPMVQGjw/LRfTzZgNmZcihAgYHEsVyVuJ9lUChaz20KbAtQ"
       }
     ]
   }
