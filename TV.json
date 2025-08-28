@@ -374,6 +374,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Canal 5 Colon: CATS TV",
+        "uri": "SIuqRfOOFPC0IkDdZ2A0YFBlId16KIom9RtslOPGslE96u9aokJkex1H0Pr3Fpoy",
+        "icono": "https://i.ibb.co/FkkTqnZm/Whats-App-Image-2025-08-27-at-11-51-34-AM.jpg"
+      },
+      { 
         "name": "LAPACHO CANAL 11",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA==",
         "icono": "https://i.ibb.co/DR0Fdyv/lapacho-canal-11.png"
@@ -1391,7 +1396,13 @@
     "samples": [
       {
         "name": "MSL1",
-        "uri": "jlf0wql4HzIgvs6LqoR+QMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzanHRwIQ/OA60cKcVQLZAtCIT3yhdl2JzflKta4M2hBc=",
+        "uri": "hPbmrl8edX4Re/IwuV4ausmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzMT3rv8Lzg6D83/tGWr5STQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
+        "name": "MSL2",
+        "uri": "eDOAo0jWZc5sXiRwyP2fOxj9ar6zR9VPMhlX6RR2a+KCVUn3WLXoGbmzUhrP0y2zLHmvSQNyRCa+Cu+QH4yYjeBC2t3bqI6ZkctfG5ntfaubgsQg4ZHo6yfORWa+IvVd/6ErwHMgntpxFe6yS/aWaM/75dewmpA6NSS5NyuTwnTdNX09wit0r+8w6F3URge7/K2iJL5HmMEcPWTWJbaIpJH+RFP/aWx26qDrI3a0FDOYFo1p6GhWO0ZuGxTXOjAoa04mdMwCEDeacnM50Xg1XeBLPwSy6TVX6XogahX5dvgeKiOHGIRgm9C6ncV4O4Io615Muej/jC3I7ZlDlBoubyNobTZ2rS0GMzAyK7tsA10=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
