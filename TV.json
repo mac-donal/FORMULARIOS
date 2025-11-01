@@ -17,7 +17,7 @@
       },
       {
         "name": "MIX TV",
-        "uri": "KusJ5ShfomSLrFIJxHev/ro+GOUtLVOUjNDvbv9qrw9S+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrVuUufvH2nxYdf9xX8yC0rk1M7zd1JiXSznKRW+RBJOsjyKQ9o/2WnPScYYw0fge2MMQF6AnRePi0TtQp/e70oPEDd5jWWioF3+V9oFjjZYVG/sLpDbrPl6iqn6yk07k9tmVkQLYy8QdSzkLPWFkx9fQm9tgq16aVTRftyX7pBjXZXGv5QLqVfyqEQW1xiX0AEMo/75Vq4Eay24Ya3PmBYxy6Y25AvpyOt5l3TMOfHIyokopMVvxkhUQ8a4lDrJSw4c/vKu5+7oFHnkadRUCHNW69TxzPRmmiLRM4OS6c6+fqTDLsWxQovIYnfTA6N8krlzcOsBFyXUxIP7IoJNiOVcMC/3nM93DYZJ5EEeNSh+xCD6v13l8WySacNT/M3bdBg/yyTvhSAY61FZe1Nga0frXnvDDoS4uNxAph7RITGU4t0iJr87WwDjrkRXeANcv8Qkd5e9KwL7YpwZYu/tjqCD4GRYspR/Jjaz4OQfuQTpDG9gmzjd2X6OWJwEVvOi2CfWRpUTGsw9jyvjAa01nNunZ5dP4lrcmFENOYi0IOvjzJ1bsmy/2wQ0FRWPtxNhiklF63fGWPFg9TxjOEoRunm38tkQuQonsPZYBYR7mlEO1G0mq9ocv7NafbXe9zRsRoqX7LG0B7i/WLGUFtNNrZBGbjxf3P6QEWzPg86r18LhNIaoaitRjEMMI3ip6a/7/7DBAMrvV1rhWD2Zif2/1AD3gHHPaYUJ6nz+1wvfYL6JTMNjz/04wo9nY0YMMHGzPNbkUuA4t2bIkxFrwVytIQd2",
+        "uri": "KusJ5ShfomSLrFIJxHev/qvY141pLEc3Fvs0YA4HPl1S+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrWff9XIBjKQ81Zgtgds8Yh9T+mcub8UDp356bqXMRXf8n+hta1pgIWKVuvMHG3aZA8YEJVRXkxEznH4wAjCgcfIXNXriQbB6zwYhGBUvKz38y6YOHm+G7jPAVHVgmufzhpZ1V5OhyR64hQzw4HFz4JkcgE1agrglGF2un5lapQYqN7zIq+88P9jZG6fzdSMDhAYFyLEB8BphElJo7igejhqngZqsK4aeYQRm1UwNmKGTU+ZJcrVgUd8cT4RAhtEAs2+9QoOPNOC3/NliDgl3m+xeFk+cDJt/3hEw/egWZFJ4rOo0cgPzsN3vki5oAgYsEAMwQ3jJuPgNx3s8sVwXArgm5LvRe+EtpacoNG1PCmonXAO6Fz6ouk5HROpfPB2ZmVVyCSSbOu+Ay88CNuMcTNEMwONcEUW+e79GhjXhGpLdIYY3RVKAZubQXn5l3m3h2JoijzGtcjLLKgK1Jz3dB5wpidwPCDbwQxjzLE3s2G316vMvBIZmsmBsqC8z8UEYCRVwL1t6s+jOifVQbVvZDAIN0eXgoUmMDdjMpt4BNzLcGJc/DGqgjZcGdofhWPB4oQiDFBiCEcPOT6h+eOJaBysFphvXl6yusB4YnLEAvEZGFOlUr4EGKdE8PY978DOAkNvsR8jciZcLPlfucc3mCw3knACWI2g94C30O+LzyKurg==",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEs0flUWutRnW2v80H5dERDp8xRqNXJWdwxFNQITNzMLqtCqi+ZLmhZm2inozblKRzXZuXGMH8n8TYb8SME5zrcbA8R//BKU9UMM6w0osjoe5aeOQC5B3HMPhPFrje2g56Q==",
@@ -1297,61 +1297,68 @@
     "name": "🎥 PACK PREMIUM HBO",
     "samples": [
       {
-        "name": "HBO",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9q/g4JjPesrVx44c39LzqQz9C8rHcG69Zy9qXhEeqx2Zw==",
+        "name": "HBO0",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DFvD5KnQFlzEeuJQb2O1UVAkunWMdwIVmPXcYanrZHjQ==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFFUTJzVKX9VywlGN+EJOT7uurPC0tibjdaLcCo8EFU0bQeAU4wCs5xAvYMatqttAaJQcUs0pAIbAJq4Nc1pNRRCSa6Zky9JpG8no7X7j7U+Mny0mT87SmQhARzx7E3rOA==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYvyhSsygj29mNnjd1C/Ywmxo4yi5RJW0Ahvx2YCUMs/ZB7qMG/t8X9D28GNHfT9DNQur7tC0EjaJl+9uq8NHtVC/eUQMKQDkn72ZsDtV+PAWx3ScFgiLEsmedpL0vCvIjDduZ9JbzCbcStBP3YI0QEzLhKafaUoyGkqTXW9Ea5BehwgsajFs8pPkt6uYwrPjljaBQxVF+egNEvT2Bt+yS2Lhc0t6PDvRCAA1SG0Ckvq+gB8CgaFwr1NC55WD3u1xPpNtwTpLzw+PuKGm6c79tW0="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLgLqRj5ZTJl17xCJ+SYPo0m8HMlthyL1Vgo3J3W8hB1cnF/gTn+SOx6wU04en8wIpa/8KkKxBv23OA4nJYfYugPgiw7ko6C9B1Jdwh+kblrxL3D3Q2XT9ZSyjnHcBijAA==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO 2",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9oExpt1rUAaUhCXcPKJYm1O5L9JcV+bADzyGAhhW3KEjw==",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87BC40bSgTpYChQ/D8LtGYAa2KQTt0woqeAYTuW41lroKw==",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNBWEOr/kdH2cnniHuMQZaTWkIWLNNJWe29DPqbNW2ORE+uHXVdvSBbVS8dNwue1Qbe0Z6hVRXts/WPUDwRQJ35Wfk6CDz1Z9yoBlpyzX32/EH6O7df60eejnlxPAR4zFw=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOQdpRhXURzuoCJgXwssx/EOCgbNtvZb6cXAM6hYF4UNa83iGYtZKjH15+U1hIghSVfD3gfL9C1xbyAPdpsr4AL209xkmY+P75Wmj0UtwRTWuOwFeVFJ1mELeTocxicKoQ==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO XTREME",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9pZgqZx9HUo/4ihHcZYoEFrE6r2z4oUjUbCcQP/bp0RPsupEZ2KkCZ1VQRhLPzv7Sc=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87AlTttEYennS1x6zwJqce9K3Mhk8qfZzEChv+tIVhOO5xDFWru+6OehqQ09rpVO79o=",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVjJ1Wk6Xh4Yx0dxqnK/aPNU1QLuIf5+INtBkD3rONjIn9BAgxaXNVF7EzOq22uEjnx1cXY86IfvHL9HZTP+hGDuU4YyGvvp231ipxvuhxuZMQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEZX/RWTEH7H2b/GD91tH821/dHelIL2Sib8gaMHk5GAWWRYOLZITe3GUEkHcRS3ceQ3CNUbvJ2uadtVY96IVslt9fHmMpdzOjXLN932Ff9I78gGH+Dz+rGTjHt7xM+yCw==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO FAMILY",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rMj58wP1soL3ZyAzRg4bhPt73XmuFyAK+KiXXjmhMJ2cupEZ2KkCZ1VQRhLPzv7Sc=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87A4xXKLhjHmoy6RXhnwlaU1Qn1xGQjhqz7o9E7PWZVfztJQ/8HK9m8v2b6YqENijQk=",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFkUu56JhimqmnrT+H0k24ozPInvjqRvtadf8MTBSRqlu+9zZgIZl84U2WOnCuvGak1oCG+gfbFXGXn/PK7Y7rRPFM2Zu5HbfIB6Ec+gPGTeXFr1MVxm7n+zlRjwMrEWZQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLwZommsqUfTxqVqQ/mUoqhibBxIC9RTZUuiky0TCGGh2JxU+F6rHgM9jIUbGAoWP2zcWZJQNgtMV47e9KAeKCzqouVN+i0sVOqSEIrYxz21EbAnC6Na7bFwtiE1VTibpw==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO SIGNATURE",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9omANawfHS/Gz5WWAFvKJnWd/FSmk+qD5TyweSy78GvGkhI8gQBPiQU+EkubGlanoc=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87AR1tBInBBHLCdcpf6RcJfuJdOlDm8iDpwusFFyTG0lo7VotcYhfp+11a5i8nUVamE=",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTtMv7Zt/ZcFPzWjePCLdLu0jtKpx48VWIVxh6E0y2hrDyiM5HzoryWD1Pz0dYEG3+HjzdsmQP1MP+18vwBREFsSrFpkdcJZEsfvpGTqqNkntZ0KvoNFxURJwKknOpCxQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAKysna8ImS2egm2YTKCIafzNN2RRC9JlZmK2X0DgRx9215gAlci2PejHIjOmHvObB6FzokTRu6+o764QZZF5GDKfDA93kw0fyvZFhv5mjJVhNyk/JL/CZ8jWElPPYp9+g==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO MUNDI",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9pdNvD8v3jF8tvslTkWF6Ky5AH9kzdy6kK1+bQF14cC3sHNaa5qVd5DWtCk/6fjXVU=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DWZ5Xvuqco+r7+nVWmzy/VkEU6lr/jaxLrY0ak6ql7dDCyNBd/BuVZq88cMYCmD1I=",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF87s2CfW7zCWzkVbpfU2Yqtn53RVUoKCj6Dr3kLokQ7dCpPls8UqRTuJsU9VK1SQPd4x/pIH0Kr8ar9Psv+2ne/x84W4FdaCLwPSKv7Wzkz8ZlCygNs4gu9V+i2yHALag=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH9c3mxwQWaFpy5v4DJRA4dL0pdlxbkDBCNVRv59Yr5L7f8rpNmy76eZwhRLx3DgNw3HrC+VPVbjDNRDTv8RQrh7bqqXoG342yEC+QqafcfWy462PhEuhSoEirxyoDgNaA==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO PLUS",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rW/HZ1YgAVHZR77rRNtj38tgXVxjF7enuCRsobyT6Eb+RS4Di3ZsiTEWvBXK0hB3Y=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87C1xCvzMrcuoyuHq28DB79BSjuQaDHwTYJEygbfwTcKWsupEZ2KkCZ1VQRhLPzv7Sc=",
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLehwRCDs0C4bShRldD1eljNAHasUG0X7Z9bUdDQBjB2Hj4fo4y/OszHSnVJrKaFhn/+uD1EjrROoaobE9Qc8h25Ihi9vd7AQ/E7BPzADjs+hNyk/JL/CZ8jWElPPYp9+g=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLwZommsqUfTxqVqQ/mUoqhibBxIC9RTZUuiky0TCGGh2JxU+F6rHgM9jIUbGAoWP2zcWZJQNgtMV47e9KAeKCzqouVN+i0sVOqSEIrYxz21EbAnC6Na7bFwtiE1VTibpw==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "HBO POP",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rW/HZ1YgAVHZR77rRNtj38KgM2ncARGB1SNpA+FC+eHmnjkAuQdxzD4Txa43toOek=",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87A2/ZB03gK179jK+berAiSwHw3skXQ6aoGs88Bm9DFWauRS4Di3ZsiTEWvBXK0hB3Y=",
         "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIt7L4BbFZkMF7EOhnG0IBL5kqmZzaL6GBho1DvwarkcBZQOM0zf75gZHd+898Mq9AskSen5VVgknLQs0whkAGQBrdkOctoW1od6NY57qtnk8170ZGPZ6gkaNl+aARGEAg=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHStrmNUesvkmTqCsha4O3dN+BYluvSllTR3dehidK7cz+QlZeNMmJIZk3P3nYRqs/H50CfQ25Vg9kGYZssMuxCsyKlC45ABhIYQieWucOjAwPkZroCTYot2VbMDZ8CRZg==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       }
     ]
   },
@@ -1468,7 +1475,7 @@
       },
       {
         "name": "FILM & ARTS",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/gTGLu6EgGKOLLamgNBRgXsmTqEU23h0m+U/zFJCMMtrYLRKmnYM+pyDLXw2Zsy9A=",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3qVf1YUPC4TMMz1GLsZJwhZEu9WWxl91fnGiUuGgi82U4wmyyQSGlNXvYQbq2ww00E=",
         "icono": "https://i.ibb.co/KmT9Hbw/ar-film-arts.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJb6yA6fbcgrcrgXgkxCII4OAONFK3pp5PDLdKpgvaS5HI87mpGlS6ChCMpC14qYg4/+tTPK58WmpTvdLR6hQ8tzVmRAPgd47dJktQxmY1iX/aX/7Bc2djrIY6QLRNAjaw==",
@@ -1476,42 +1483,42 @@
       },
       {
         "name": "CINE CANAL",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdjNjlRqYkc/tMZh5S6dFA1HMaXEUMbbwn2fkw7rehOv+supEZ2KkCZ1VQRhLPzv7Sc=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTZQDG8de9a/z/MeLP8AuAWc4w+Lxowv0dx+b5vGot4n3Fq4Q3BZg8hX0BSFaBLZKI=",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGXopKq6d8i0RBkW9jABcY0UiWAew2FGip3AHyj+6uqX25ZA8Sm2Dje18ltKfqiO8vVcB8Kjry08kwiF71hKMqmUPl6zrSv0JoW/oy13mWP8AUsBqOxskNY5KW6XJw+FiQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKab1w9RjEgjOJGs5YZkpojqNSh4ZVipM8ml6WyZlmfsv7Pw6+DuxBogVb5OAcSkA036WwQaRkrEE936bLLoz3wUWaU4fhSRNSh6722q6xqfEvDPR3W68iZ4YpYsZDZgWg=="
       },
       {
         "name": "TNT HD",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi5T5MFGcTUpcnT8RWuCgCbn9C8rHcG69Zy9qXhEeqx2Zw==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRXem4Y2uIblamrsM1UFCFke2IIDUclkI3F7KgbnxzvSA==",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMCvrzioZtVBw8d8qG8KlWEnABVN9mMphRdvDqcfzCI1VASigQKyG6mPicFTq49rDcRkytHTM66AT87LGbJnOVM5Ehw0eBYXxvHfrbII/flTabgy5Pi3qZYIw5F+E9C88w=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC1xteudhl0MUmJesjm5FJPo3h+7TRdblkwQwX//EAWq2feSwdKcskTc2LWjo50EdeZgj+bgzQAVGV5UTVkWCrgs5HI9j1fmMIUQgW0VXEBD6uwuh8TRU+44TYYyRWRk/g=="
       },
       {
         "name": "TNT SERIES",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5ui+UZLdvbjcSoMbiw1K0jth0QB6FkMWlEHDNxuYqsPpMupEZ2KkCZ1VQRhLPzv7Sc=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSnqqcg2iu4Nffxl0wk/5rPQNUskO4j9DuVXLyrWFe0Y7MIjWgI++1G7joxgHHFbIQ=",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFL3F+MSvZyHGdn5XY6VqSzhKWk2l2LFc3YeWmLyAs5MPg5MKSRZnZP5JjbQBG5a0U4rGXTj7kpEB/L/33kJuHMmx6gteTjc2Rbdso/Gp7unuEFu7y01kNiZKkMsEHOmiA=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCjBVU7z4v3vG8h5Zqsn6+RYq4mraeKOumQisuj5Wyz8s+46/xrtXLFH7xxF291lMbaBz3Plpp+yfdNqGtFj6WPegVVyS94tz9xy7Z6BoV66QOCoBE9GMCVafWlLRbkTdQ=="
       },
       {
         "name": "CINEMAX",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rNjlRqYkc/tMZh5S6dFA1HWoJj2+X/XXJJi86EORy3puRS4Di3ZsiTEWvBXK0hB3Y=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oQYmG3/2cyyQ2xt+28I9evJFTsBXHMkviTC7imIErEJsbhDVorAIS8sBuA4xpnWODk=",
         "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLw5EpYErTOPN+6tzRqvfUTVPjVshGXiNkBhD7e9dQXrzNriImFHx+yb4eKawaW3mpOJBIDNibI/fkZivgPk0aJlFZ4ebrtwPQLLeBFVgtTmMBV4oHbmMUmtty3pbO/gRg=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP201RHX+QxxGLxo2cdPHf6L7iZ81newQk4JPXrVuoB04/TeYJ+bQOobuOlKE4g73bHIZV1UyYMQE5csEtOkL1pY5VlSV/iqjGpxauABPCN5w7xsnimFWJxZzXom4VXfZw=="
       },
       {
         "name": "SPACE HD",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5vYBN6fl1SedcxMy8sj42VGB3jQi9r5FzaES/zw4M/+Pg==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSe9tvC7B7P0J7v+02YTd3llSuW+tAuY2ttIx7oJcV/YcHNaa5qVd5DWtCk/6fjXVU=",
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJA1WdOYMYdBf0wyyv9+AocowR5ofqhsa9M1FBoFJrNHvF7bE/KeYk3TKDpu91Th5dAbAuD4h/P+582ML3Tt4Y2a79PWWIongLWhmMB7k7H+ezJdsfZD/9/0A7kYGDMUJw=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGFabgGfXqLV79rSQ3X4neIozfTsBEgxI0SDHk2VKlnfeMSBjbjmqG0jQhWoRCDgLcRj+2vZ0wu/u1hUB5HaHJ3cBApt0sbLQ+7ZS36rpFsWoSRmQylcKfDgneLubUvb8Q=="
       },
       {
-        "name": "SONY CHANNEL",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/wp2UwcRzYfehkjAuQ+pOMUQcWwRbuwee30/NsuwClyly79A6KSQci5tn3Rz24lhs=",
+        "name": "SONY CHANNELL",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3pPg9dSYiQ2fsqBInlSOyN5DpksaGHZesfUZir6uyHWPw==",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJx7U9MdRs9eQ4yZrDb7gtxeKJKvzeyjQPv5Il2IpP7JpP7QjFPdLHJbIPTsXLHn2DWFJd+ekpryNdOlVU+YJzMJJdUwZKI1bjCISgYd48NuR2OetXD1bkqYF4LKL5skxg==",
@@ -1519,45 +1526,45 @@
       },
       {
         "name": "SONY MOVIES",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdiwCk7sF21qnzJBixROsTsIxQAZa/DopWHpIW0jKdWFvIwmyyQSGlNXvYQbq2ww00E=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTx46J+Vwt/EfuYScWENIqDRU1svQ1FWAz/vAsRiKhqcUw8I5ih+8IwWBmQRoi49lk=",
         "icono": "https://i.ibb.co/t4nrcdk/Sony-Movies-Logo-svg.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK9X4D4elkG4HNS2xVasvmX56U1UPd0W9YhKqEoDIbraLlwpvoJIHay8bli8s2vVOJIYHE4T5bOHEMjNeKB55Gp65yyR+c6MXOB0weYbHaBCQs+pzu3VDlFWll4BD++QDg=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJrqjocZiUncTFkQefWZjFzUoqBqr9H6aGnDioiWwNwLIfxWy6xOaR392RgbKgaAUjP1IjL5GDUZPOvg6iCwqLpQXWmW1Brrpsh4b1+am7oP2KrgZGg8VDomaB53NjkRTA=="
       },
       {
         "name": "AXN",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm5jZtJZirCZf9iDAyF7G+RU9C8rHcG69Zy9qXhEeqx2Zw==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oQW3U38D0sINdBr7gEV4eAj8bzFjGTE2sEBlDw7+oTKyg==",
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDCUXyhq8rCNsYbQuSknc2+ER1UFsSs689JOf4qVF0VW9NA/8ghRKY2oPl4kpM4LGo5tl5V4kw9sjX7Jfb2MXqIDhQdG3SFWzmQ1GRMB6EnrJOgtvwidkplYdeyNlsideQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDyrFwJ9AbHhmK/sFq3TLWi83StcYbHFrXP6Dxm/WeR0u0fo2ZsoQWex+Pl+nIwY4Dit7hZezsYfaTofJHYL4w4nUC2l2/5afWUXY4tDc490YJB2hWZVLn0j/HQ6KsZ9iw=="
       },
       {
         "name": "AMC",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdjaDYie8GXqp3+bIAeSIkYQ9C8rHcG69Zy9qXhEeqx2Zw==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRwuC+0hoCB0+JkUw2+eDwNQYzuTPpp25P75Rj52kgBew==",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDtWohwAWNCK1fl8J0tkWF/iEPkAGzvqsRf78K7mJy/2aTZV3l0T1UbCEooMwXQnXmkwiQucEmKUUCOsCPM5MIBGhuSIzUUG0nTT3jwuNUl1Iazv2J+/9YLh0AekNlNv1A=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOZU7wqS6LafA1uxQusITgbXEJ1i73lukQNUDGAxJfi3DgeYo4dELhUz83lDBWW74OaGtqGjTBnoEtG8EkAOhT1/WWE1teqCWI28OTV3C7aCaBUt41jthyH4b4brRDpChg=="
       },
       {
         "name": "PARAMOUNT",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi6w7AJ40nPF/YqgRimZJVPV+wia69azbo5BJ8f3hK+xVcupEZ2KkCZ1VQRhLPzv7Sc=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oQ7msh5gZwa8PXf0EJnJ6J3WuTY2zekYvLxepbTsC5it1JxKLXCMPPPASbWT1rJyqw=",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLndcWklZdKweg20ywuvEWdyhPYAu7/+YVYJ6FIif5Wd3HE/Epsp9Dic6dvV6J9X8EK/UGEEg4jYi5ABZsC3M7lN9/8vmHiWLTU3wrOes0FQ8ZlCygNs4gu9V+i2yHALag=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGtRs1KgBXz2NFIz21vKlG+tPUpKNgsmHjg0byVA681cQ9gv3PRjXrMIjRyCOfQjX1EaWCG4lynZ9rf7mYJZgrO8Em2QusHMWASolMUDb7GRxL3D3Q2XT9ZSyjnHcBijAA=="
       },
       {
         "name": "FX HD",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm7ZTuvUzRVh/mgcLbQjMVjM4hjs9UaojGfO8q/yl3qxkw==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRWxupbFSTB2ksrk/zIhDKClpuWeaMTy1q75sW7DtlGIw==",
         "icono": "https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOYwadTnTD2lAXY3Se2wawsHQn/t3nHeRY7BkMeo/lT+uld7/StDk646ir0+XjMjFZQcaPoeHBQ9zlmNgDdKOXXRpShJ/QGVG96QfzUZ1y6ihfsTRFJzIM2LBqV+dAMBYQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMoqVr/0W3Rmmu31zCYQM48GIVS142uFApC4uUbQ4QnulwoaLxMt1zMfe9F05FlQKfarCYiHmHyHmgwF08alWEod0fMlPKbpSa09Z5hzUGXYUpu9ZgzCFv4dNsdNToOXEw=="
       },
       {
         "name": "STAR CHANNEL",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi40Nt1PShj7ysuvmCRm5ELSV1UWppXhX5HV/n5b8H4bMq7OHy50iCio8r4pjfESODs=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oQ/1uRHcwyh7pfBF/wpkicN3oywbQRe0LYH9LHEAF6wT2njkAuQdxzD4Txa43toOek=",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP1/UMABR09RCM8LLbYr0pM7r3AX8sTUUZsoCGThQ32UK3POxfYaNXtEPc6gUHEEG4CG+q1FqDoDyY9vsCNFtH2quHeF7RnFpq4qtkKo7cs7i8l4p/AGiywu83vl7c+sWw=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGXopKq6d8i0RBkW9jABcY287HRnzqN0kzeWnGYvBQN/oDDLWG3Pi37Vv1vpQw41P7UC4a8ZypkLLNqNhq8chAKiTXpX2nvzxKmzaQD9/uL8hNyk/JL/CZ8jWElPPYp9+g=="
       },
       {
         "name": "TNT NOVELAS",
@@ -1581,31 +1588,31 @@
       },
       {
         "name": "WARNER CHANNEL",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rBPyqt5qBwuC71viPi3qqqI0bHX5KCK/I1SYfNeEyCgGnjkAuQdxzD4Txa43toOek=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oT2Vey48mc9oKJQ6QnJO5qYptZPq8uTtjRMuMWgMgznKYwmyyQSGlNXvYQbq2ww00E=",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPsdyOXBLn74CkdC3plRHPGlif1CH0gPKJzSUVuSOzgtm5fQgqqPtMzNbwXmMvo2MT2Z9e615r2rLMEkNjlwFnQFa5gYBUdjv+kv7/sk2tgL4YJDdCRjE88FQB1ZrUemJA=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAFvK5FKNlDtgKfy9XqepMDUoZ6qNYGEGfjS9awGZQG025rReCY3kKFGqvoYfVfrOLs+L2zF+ul1YkoZj4ukpc8gAef9ISr6oExBvO4sxfvFoAA1pb0v1bXSld8vaHH32w=="
       },
       {
         "name": "TCM",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9qc2pzQZLlKyRtMd3yodWWP9C8rHcG69Zy9qXhEeqx2Zw==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRvP/ky5yPtaxqiZOX408j+QDEETASdRxbcrBR8soiuIw==",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNsLDes3ILTQAYk/oskqYrUIGJacOIjqeTXURWYYJgrAnUlUC0zjsRzFmLYkofzi6tnv81YYSemTTsuS9i1AzD4h97QPhFAlHi6LkcAdfVBNMaJDB/n4yeKxdq8jW8gpig=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOV9I0+cNRDl42P4d1VY03mYwQ0O4fGrl+RmXwyiqDzLKnUPqvshhINZxbWfC/6wtoCJ0rxPifYFvA2kmCpqaVwSEng4oJAQBbMdHIuCQMXkFefSP9R9Fpgdg8tkk8iSBw=="
       },
       {
         "name": "EUROPA EUROPA",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5uulV2ZtmTCFKA+6jjM7aMj/eauj5AeMnDSxDWZkkjyd2njkAuQdxzD4Txa43toOek=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTNHJO2v5P0w9X/NjZtn8onH3Gn7M3auEcmLMCWjf22jjM9fCeP8gJj1uaJ1V6G73LBzWmualXeQ1rQpP+n411V",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKg9LO+2P8mArB3GQvGtxUnUsibHCmvrAe86zrooQJpcreS5wYLwGyJ7vv0X2A0K/l16ZK89Oaim0oH3Id1j7SbU6g1paVgzvfYI5+Ua5FuFR2OetXD1bkqYF4LKL5skxg=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLwCaYKflmT4ACca6+VefH39Wz9v/JwDoY8usAYW45/nUhZMYKYf4ZmktGeNlMYJz/qpxX9lcnEOdKPNv4BjmSwYFLQGzOdlykV/0HFLTXpXabgy5Pi3qZYIw5F+E9C88w=="
       },
       {
         "name": "A&E",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5tRjPwDtsczwwJsf/vSQVUt//wMU8AswkdDadP/3hgS3WnjkAuQdxzD4Txa43toOek=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRhonxcM6KORqIUj1UVJ+20tyMAF22U4G9TtLRGfa5uiw==",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHmWhuekkCERDX8qdJ382rLuMm/6PMoOuQjQH9ipBPVJbiC+thqT2R/FfabPxr9TuOcKrIIQb+X8TkoBEATWiVuLhG0cmQyfO+tFsX9T1eNW2tCPFDSWlzPWZt5GCZKmMQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE3O0/avG9UGruemxfIsudbto0xZnFfjKJ9dwE0ILZw6+X5TFiMwEboJXsXL3GGTOSHF/K6efiIc8WztZ+eSGAGtf/DGHjg2F1FKPS0XVGkQ2KrgZGg8VDomaB53NjkRTA=="
       },
       {
         "name": "TBS",
@@ -1623,7 +1630,7 @@
       },
       {
         "name": "A3CINE",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm7ADuYWN8UwWKIS2j3cc2s58uhFAKxirLB6OgsqTPvi7WnjkAuQdxzD4Txa43toOek=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEqcfSMX2OKeOV+kNCsqOd556Jw4NtL58x/mWFymcWXndQ==",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCpbqJjstIQkEdgT4f1sKHWZl+DbGSm3k/ogZtJ/2gwWMMc+cshDEm88Nr7Q8r4sDbGFT3d5PmhGZabJVkGkVPBW1Z5veVi1klmu1m52ek05Za5JnlP5eF3cJHFa8hfCGA=="
@@ -1650,7 +1657,7 @@
       },
       {
         "name": "PAKA PAKAA",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC+zH3A2Fiiv6dX5Vy1ahgjOupTpjJmb0WLCCxRfpFs87vEUChFbnihbgREwpiiZHao=",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3pbIS0rABSjrvzDu0sss481AAnirjYTRmh70IfzOHUWt4wmyyQSGlNXvYQbq2ww00E=",
         "icono": "https://i.ibb.co/LXp8XVrV/OIP.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDqgsIBkwEyZRoGqHDovr/dkE38JoOSWbHBVy0/SMjq0gS33ewd7PjQEuXZLslL271dEp/E1i7a9Nyufk4Tiq/tZjhE1fjAjuKrntfjgYkFGiKXyRXNhe+aNAWoLSxgJwg==",
@@ -1658,7 +1665,7 @@
       },
       {
         "name": "Plim Plim",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC9f91SmklZwBrpTdZb7QtuNwFC9TtllltnQo3258mtYr4wmyyQSGlNXvYQbq2ww00E=",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJoixEfLT4649i2kDI2Yf1u5YrO++8i48ASIR1yi8XAOd4xU82iRETfX/h8i4JkLqtw==",
         "icono": "https://www.ecuadortv.ec/wp-content/uploads/2023/05/plim_plim.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGm+8+q4SlL9x64UI34KR0fP3aJFC/SLsbH5V0EBSpLIvvrFjvFe8WgrOQnkVuAwSqKmvz9n1XYBL7M9rd9XtP3yJWtlHEtyYKE4uAbZOdl480ra00gS+62LlCZUGCgc+Q==",
@@ -1666,67 +1673,45 @@
       },
       {
         "name": "DREAMWORKS",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi4HB92dwm4TVLYTKsReG8Id4M+GxFOf3/h5a/S733GLkowmyyQSGlNXvYQbq2ww00E=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEq2kXHlea0FOfoY80gjmjtznj1jpTSrvKGoYPGUK63K8Q==",
         "icono": "https://cdn.iconscout.com/icon/free/png-256/dreamworks-282637.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCvTyZ3FngAaQ+Z/6YdA/+0Qqd3WnIu+MfcLq/DRRrY+hnbPi7LtBVtPYD4JQIyfv36QvdtvJ9VHkAA/KUdJZPDU52ukJSqvuzM4ksDIupqPXjp8WpoXHdWUSawJhIsNRw=="
       },
       {
         "name": "CARTOON NETWORK",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdiNk0PkdmjQDhVdECnHqiBUle7qD+eoHqHcFZUJyDNbLLbX7IS7Xo5q6Nqsx/Ah588=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEqMiZrAm19Gm+TkaoCEBmFox4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvElWnJHryQfB/3TVviCaiGGBg6IhoZr2hXatcLJ/GAvJWhuqW4mG1NOCXV/m4cEknXzUqjitqC8BAB1JlP+TTYxAC/whNJS3y5EnX9eRQfeo3/nDk1a3W+DSy2GA5eKf5A=="
       },
       {
         "name": "CARTOONITO",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi6Nk0PkdmjQDhVdECnHqiBUqGSQKVcgfKhgzNBEaoddkowmyyQSGlNXvYQbq2ww00E=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEojGNtDw0uzSrqPu9VStj7Fx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://logowik.com/content/uploads/images/7354-cartoonito.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM+8ogbL6bPZPJVL0FN3BR5cksetDyf8D1dwwl8KTe6D18RaEnU+NXmz2Lm7/s4FxGf3/eRLaPLqwfnVFdY7EKe4vZtUfKcC98PWtYH5Wb4gqsS5kWZsuIgWLDLpUrTfIg=="
       },
       {
         "name": "Disney Channel",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi58exoMYNozciplcGnOYCsv4TRWN3O9G557nAU96pRfJ9TeLOuaw1tUCBGYFI70QVc=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPBgOMSLve6UiXl5zV/cJvtg==",
         "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/275/CH_LOGO/512/512/0/0/13885222074367.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE0YW54Ozekwnzkf19OClcWYvr4xwac5sonHDYDsnSbSc12D2YwJRPZ+aJu9EUat+x3vjnz6pxfENQNppufwnNgC3mXXQLssDbPWef0sFQ4/QGVRWqpKFp3ZSJDqqtvf3w=="
       },
       {
         "name": "Nick Jr",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdgC3AbTm0LKnBih3yd5raq9gvczTjmSynue+Khlocf5XmnjkAuQdxzD4Txa43toOek=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEp8PrKIk6gQ06tvYa/ARRHyx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMjzwwUbTkoNCZb4Nasc4RjuPAwQR0XszCeYm9oFoz9Y8Lc5pYgf9l0J/WLBwAySKfrwxP7sD5iQZHiE20pNa6vnzfw9Ay4yEA/0L1Cawc8ZQ02OdSt+racJsfD0GZOmkg=="
       },
       {
         "name": "Tooncast",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9r1jnkRMEQlhGSxsKAA9s40ThNaF3ISoeP6t3mug/BGDsHNaa5qVd5DWtCk/6fjXVU=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPM2zmZG5QLH4390khSwsjk2njkAuQdxzD4Txa43toOek=",
         "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGd0VDlxIGq5NZdSuCy7KDziybVrol1rsOeNExmH+ofeBYTfoCcYoEAUuTKdL8ofFTeYgAkCNC1YExG8hRwz8y5gcQBRc3W1y3NHRl4WC4IJqsS5kWZsuIgWLDLpUrTfIg=="
-      },
-      {
-        "name": "Discovery Kids",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5utHBuhmli7dXSB7YKDKgFqJRpjsWeFEmS6pvyGsTbdw9TeLOuaw1tUCBGYFI70QVc=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEy3CQHprK+xYVDv4NI6dWmlLXPi6pPskZ9ewHOWmJ+kZIkv2cCWya63plY5FLMalC4VzBkBclzGVranQJcqgC0TBcSRuVb1M2W3XlEkTG1tDDkw/nSWDLThyagMKWqMGw=="
-      },
-      {
-        "name": "Nickelodeon",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi4C3AbTm0LKnBih3yd5raq95L9JcV+bADzyGAhhW3KEjw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHIeM/yHFnmXeTJCj9YFbjcREtnzEEx0eQzcAMXdoelqumtdMIoTrBetFkYUT96lib4KcJIKdtFW8jw8RABPugPmNuXEnbYhWw1moSDtRDh96udGRJ9QGmDAJUjg3I71ZQ=="
-      },
-      {
-        "name": "Boomerang",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC+mq2pSMTcqkxeTno4IMYtJmwvvXeaY8zkoWEAiveaG2BJsKZxwqDzC2R4cA0HjEwXkUuA4t2bIkxFrwVytIQd2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOVQq0EpQzVdfiI2aLb3lIDWIAbF4h8w9ha+dczCzyIU/yLKArvHIlUkXcpTTcbU8CvnnZvgnbpU7q4g4X8Yq8d6m8kbGUOPZsk9FSmJir5uEbAnC6Na7bFwtiE1VTibpw==",
-        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       }
     ]
   },
@@ -1857,105 +1842,105 @@
       },
       {
         "name": "HISTORY",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9rJl2pmul9jWnFujBacTlr1uHL7svKYSQlnQG7EqlVWW7bX7IS7Xo5q6Nqsx/Ah588=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oT8e0oIHT9fZcOp+Snh1bsbhYGuP7IbM83t0+1wYi91DqiYhkzI+y9dq8HJlwyL1l8=",
         "icono": "https://uploads.dailydot.com/2020/05/history_channel_logo.jpg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDA30uX+WTkfezIAJdE+5Q/4ZFWBzY4N0jzeYLhJgsZH47srUEKX2IQd+c6isRKc/tTH7UiXTxyxgcghmAui+oPzdUw8srmxPjCBv9QEQXky90axxL4bVGjksXUCJUindQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPIY2PCKXBOt24lBoR0oSEc95PL2G51DeVRBCvR8dii6LTsK3AtfDHhFmfPsvAcykVOrjD2TZnqHaPIEeA6WSKPxjawl3ZBMOlNyJX29oTAbQapq3rnPGSNCVJwX+If3eQ=="
       },
       {
         "name": "HISTORY 2",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm7Jl2pmul9jWnFujBacTlr1kvA/WcRrOjgH+VSGGVutCsHNaa5qVd5DWtCk/6fjXVU=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oR9Yst9+ssgiRavXuxS0070ZtxRx4G/tsJKNn39NbGAuw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFec9iRrIyybu8xFE9KxH2kZvQOtVsLpN4D/q0y/g/yuIafXNr5Qmxi6TAA8qRtkCnvFL9LeJTg1ZUbZ8T7Deo1M5e84m9jOk6xa2WdCZY0VUpu9ZgzCFv4dNsdNToOXEw=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNWRq6+0LW6VXCXXwQP1cyOfmpJUh0wKXS9iwzeEPVwm4umTig19zoPH71WWNpMJgIxJQ0RTX/w0GlXRaDo1K5iUV47HqVPILfuBME8jBSUeZrobHiaD360MsO89lswE4Q=="
       },
       {
         "name": "DISCOVERY",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm6tHBuhmli7dXSB7YKDKgFqnJNQRCOoKELeeCRDbkvxAJYqC3yz5gdfQ+UBRW8OXEo=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPqIRUS9DG2tBs6qb4xmIivA==",
         "icono": "https://i.ibb.co/PGnpKYtd/discovery-logo-antes.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMkU+6rRc+VLy4wWoM2/mJlSu7n16S5lhz627uM5AYywUdYAe9mCmDygfPFr1LDLbtmCoLjIRATDDiTu+BVG/ZUs4WtrHp1y7EyQ67phwak2LaveYJ51+jX/MYewqSDaAQ=="
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVditHBuhmli7dXSB7YKDKgFqQWHb0VR/ZiMlb4ghg7sTNZYqC3yz5gdfQ+UBRW8OXEo=",
+        "uri": "q0lqAc8StRblIedF1DeiDr4kDgi4EEhb3dzZo+kjg0dV1RzdE1oDxVmt8Vdx0aLUA2KVCngXVdBXYK8HOOGmAw==",
         "icono": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO9CEbK9gaPpNTLmMcIjnmmqjdeMr7XuHe5hV5tyZ329i2vFcfMTTjy7bf2Qj7UgonjvnSOZywIUFvHWzCcizexUb/c+4bPnorxGcav79e6Mi8l4p/AGiywu83vl7c+sWw=="
       },
       {
         "name": "DISCOVERY H&H",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm6tHBuhmli7dXSB7YKDKgFqRG03a+MLSH6YckP+08SE1M8ANOy26W02x+N52nPUY8Np45ALkHccw+E8WuN7aDnp",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPQE9dC9tNIO2F//cXfvr9nw==",
         "icono": "https://i.ibb.co/BHN05BNM/R.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEdqVaJpNGJNLzX7HXsvjJGVsbRcdoXo5lbzP2siMc6JO5CLcV1qLaZlGv/4utXMSTaa3o3nj8AbnOwFC1xJiFB/W62ccnNtZQY9CLClHXdgshSAOv8Ci2yVtrn+zAJCug=="
       },
       {
         "name": "DISCOVERY ID",
-        "uri": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm6tHBuhmli7dXSB7YKDKgFqFsKlCVKlYZBP3Ji2y/h1U67OHy50iCio8r4pjfESODs=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USErqkq5fUYf2IUC9ZA8cGkPHx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Investigation_Discovery_2012.svg/revision/latest/scale-to-width-down/1200?cb=20200414032351&path-prefix=es",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHdu2AgdsooXKeY1M/68Ybpt8qy16GKoIV2cphr7RPAwYlf2cE+sHcDI1IYHHH+Y2uAyi3JFCsfW27ivOPzdfx9huzKe5WJ26esvRNkiG2qM8170ZGPZ6gkaNl+aARGEAg=="
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVditHBuhmli7dXSB7YKDKgFqQWHb0VR/ZiMlb4ghg7sTNZYqC3yz5gdfQ+UBRW8OXEo=",
+        "uri": "q0lqAc8StRblIedF1DeiDr4kDgi4EEhb3dzZo+kjg0dV1RzdE1oDxVmt8Vdx0aLUA2KVCngXVdBXYK8HOOGmAw==",
         "icono": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO9CEbK9gaPpNTLmMcIjnmmqjdeMr7XuHe5hV5tyZ329i2vFcfMTTjy7bf2Qj7UgonjvnSOZywIUFvHWzCcizexUb/c+4bPnorxGcav79e6Mi8l4p/AGiywu83vl7c+sWw=="
       },
       {
         "name": "DISCOVERY TURBO",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVditHBuhmli7dXSB7YKDKgFq+WYtSkjmNGo7wENfPN+GY7bX7IS7Xo5q6Nqsx/Ah588=",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS/D4mLCuDEsPK2K8mGwt/XixKoHRg2E60Mom/2F7fsssHNaa5qVd5DWtCk/6fjXVU=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Discovery_turbo.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJjTZUpSvIopoItgLXCfbWxdC0keXZ+6rbXlTpzOga2l6WdDxN9kf2wnePPpMJOxVjzQ5tAp9AsMuffKWqC117QWJpEzXEsqLsyw51VEtFgc90axxL4bVGjksXUCJUindQ=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDljlAXdMzT9N1ngt22opqrQ9QULajQIDoDi0BQ86dZ2r5JeDHLv2Hh3HWfWmoJljOoj9F1pgn+2hSyOa42kvp+4hXvw6iZpwiL1FMDf9zPmLS98EnlJ9Hlsc/FM+nllTg=="
       },
       {
         "name": "DISCOVERY TEATER",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi6tHBuhmli7dXSB7YKDKgFqXFBmzN19WqaOuye/ivksc5YqC3yz5gdfQ+UBRW8OXEo=",
+        "uri": "DDT5EJmamar5omvCeJJJOJz4XFLyI+m7TInldN8Jv1ZWM0jbF5bLfBspFB/24psr3OqOkGLZf0sJYFWsuypUIZes3OrisrAvcn2nrOyh9a05aV3etj+Oz5gbvy/i492y",
         "icono": "https://www.ipuntotv.com/IMAGES/Discovery-HD-Teacher-Logo.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFBFH6WFkeJDEDbmS4GmF7pXwVXdXaKahIx7XJdkPVdYDDRdgFslyz0YN/Qap+yRKcKbFZ1OTq7w0pxh0YKF2Nm0ZMB5WKqEAm+DpqD6qvJIQOCoBE9GMCVafWlLRbkTdQ=="
       },
       {
         "name": "DISCOVERY TLC",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5sQGhMfhyTVLnqHCNJOmBSN9C8rHcG69Zy9qXhEeqx2Zw==",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPm3FtUyo6gnPM2daC5mSPUw==",
         "icono": "https://pbs.twimg.com/profile_images/1372582266568904709/0OvSVtae_400x400.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIAjBa4fCLI+QGXL9cRpCdpUpGIEuYmnRxjjgFS1t928wIGx2g0GTH/uAIvXE6iPTp3gSumnpdTURzVjhJczaWtdCqwjm87gUi4xQm24cFM+YFZE7PROfQnEH6KvmT6lmg=="
       },
       {
         "name": "DISCOVERY WORLD",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi6tHBuhmli7dXSB7YKDKgFq/6HOwXZ67YlNgoY+B3GEZbbX7IS7Xo5q6Nqsx/Ah588=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USErQV8MncCpN+tlQeZ0bNzLMx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAka8UWmxDEr2uIqgd+zc+6Cn3dzi5uRd6N0ebjwobxIzsXpBlX21oCnP3gNPhtLZxAN5569ngG5l5x1to4TE/yrwXyRa12jAxC/Pypt3s1SsjUytVrdVbEADRNDvZuIbA=="
       },
       {
         "name": "E!",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC94sw0QbQ0IyOSauC9VU+fUVM9mRqSHPJSTNHh3QOvF/i40nr7rQw3dsctFoLdWPb8Sny6DE3h/yPf0Z5h72QeI",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPQE9dC9tNIO2F//cXfvr9nw==",
         "icono": "https://i.imgur.com/Pcr6ci0.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE+w7Aw1/dgyLFt1L9Iag+99rTmzuLSZSFSrC4vZ8ySmbuoQtUlty5KVNUsppaA4kXXKPE8gAfRMKtAXZxjIAy/PGyD9ityYEx7MHHwdS14TLa3XwsBb5FyRBv0gtw/cgA=="
       },
       {
         "name": "ANIMAL PLANET",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi5uL87bqtY3/Y4T4/HMdpREEs7yXM5QX+4yW+90R1Kvp0hI8gQBPiQU+EkubGlanoc=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPEtAaqldjSRCzK0Zh2z7ZqA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLMmJDFZTJ+GxbSTbAXa5/w36RqFEHN51n+u1XZiVaxE2U4C1zAPOU0vzXcag6zvi9L4q2+o9Hea8hYSemDdlSUPGz67V3kMTEvyEmkzdZ2rvTHIrUV/EgtGXGChh04imA=="
       },
       {
         "name": "NAT GEOO",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdgEjCsBEzaKzeJPiVQnpvVgU5v2Y9pjgsJF/WCIpZSTtmnjkAuQdxzD4Txa43toOek=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USErZlGCOH5YkO1HB17iuiCFFx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHMhMkuLe1CQr5RsV5n/ZqCUtwgZa7BUcmiQeUma7VKWLyBsEUyaIPMJbNQQ06goqnfWC6j/mEI21YB8Ii3O7+y5LPY3qUFrXwAGyzo0Ogo0UIiiJbHFIpyIVdBO88LR4g=="
       },
       {
         "name": "GOURMET",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5sL/A55dyg/U1qVDc3CA769K0xUYiPmZAnHQrKe1HT6EeRS4Di3ZsiTEWvBXK0hB3Y=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEq62DOp4nRw/uDDJngqDLnYx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1200px-El_Gourmet_logo.svg.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNWG+Mo6CWjanXxuLVFvPvnqpMfkUTHbMspli8qbp1YTtx5J+C4B1XqaRFdD+f7QAdZHvYZTwMx/4KS7IE9ifhgyVjN3KvzIbzQiPOMT8o+zopdFtMdtkKXoy5qCHM00YA=="
