@@ -40,14 +40,6 @@
         "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
-        "name": "TELEFE OPC 3",
-        "uri": "dBHQ1O5erUOUk3MErt+BmgE0HVhkZSzSzRiwzq7aLiCpVX14h30SOXiufb0BfKW+fdSQxhMXqWrzj9fJ+xBYMw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Nwg8prx8yp9/yKH9iCtDU8BKyjvHTtMKE6vfCC4M4lPYKUIRk/0/OLUdtizwDZE0faf2hOiMwy6A+ioA5qZJWC/Gjt5wQZexMaXqcKRe0Oc=",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYicqyWikNfl2aoJ3BwYtydtJ/c0FE/3wQzybUYGC7PpK23No6Te8krrWt+MqS0Hn91Mj14mcobin0vLRwyRE5TSXg08If7BUKpF8IWSaPhO184lwwQclhESOjZLyUxwbrc+Aprk83T43qLHyGyFzq9u61oUGJIcf6T/eIqTSRo5Qca96Ps6S/xSIdgkrmz8Jqg2rlYmtLmOXjS7XLOXtYbk5Ab6GrKrpnB5d4CaavlGY/ai58LSQTICLsdRR5HRo/Q=="
-      },
-      {
         "name": "EL TRECE",
         "uri": "+MfnLcFKX9s8iwaddVSeoz7+G2eMKi14zQ+YnTRTTDQ2sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTySIJ8dEQVCjzH0bxNfQlvZbKKqSGjcN93Sc4w2JpkGMRis7B3AFhdiOQs710I21ckI52cSlKJm1yLhIvjBpmXjGd/fyxIQ+0i+48BIfqiOaHvhEZYzjH6eVpEnCsc2M174n0pfhnOhzEAYHsr4VZYLx8O7ITMhGhfqUTzX2o+uRUqMG2DRpMxNK4OarkLIOAT7cANUp58ITNArbzkfK3YeXJmsLqeL5fEPwd49+SJjjRcU/QJJdm4iuiE0WerlRueCYRfic9Su/Pynj9NuBf2r4IY4h6PAAZah1p8zQC1anJX9Gcmwr6FFhqnD1XcqJDVuj55BeOdoingW6N/4HfACfYIT6EJz83iVKug7Y9WHtmfhUtbcsQihMkVqVdWgZUJb/WQSfDlspB2XOKrBinPf/VrlUigJJsiV+U0EICmhD8Doi16yCmkJCNvAnAymz4l1UyMQGwYVtDtvjmW6AnEithtuGfqLBe86s7HLif/lDS+SIqsFDbVJn1UOs/fDIUFVV6AKaqkmjLJ94ESM1kpxbgG+mX5NBCMIM2H1kPWpwSri7T7hJDTzpOKL/BjGw/NOLZNN77lkjRXMFb9N4zLsAsjYYKJlbYQtM2JjB+hHLbfyIV5DOVX7SLdyvqQAH85vsR8jciZcLPlfucc3mCw3TrXe0I13mN2tqn89lOKkEw==",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
@@ -237,14 +229,12 @@
       },
       {
         "name": "Canal 4 San Juan",
-        "url": "eLN3lNSHxYoRNUW39GkjzhlOBn8A3LdgoQh5DIDlBwwRyRgDHX2qoI4ITg/KW2gdklv8Pnt2Ugits1ycNwQOVA==",
-        "type": "HLS",
+        "uri": "eLN3lNSHxYoRNUW39GkjzhlOBn8A3LdgoQh5DIDlBwwRyRgDHX2qoI4ITg/KW2gdklv8Pnt2Ugits1ycNwQOVA==",
         "icono": "https://www.tvenvivo.com.ar/wp-content/uploads/2023/08/canal-4-san-juan.png"
       },
       {
         "name": "Telesol San Juan",
-        "url": "LQ53tXTVsIUqMAbWDNzqT0OZcjfbneDolKRaAPf/wWlCl6PEzu2/HvtOE1nh8HSFm2FSVaCR4wsuPIumsFqKRg==",
-        "type": "HLS",
+        "uri": "LQ53tXTVsIUqMAbWDNzqT0OZcjfbneDolKRaAPf/wWlCl6PEzu2/HvtOE1nh8HSFm2FSVaCR4wsuPIumsFqKRg==",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png"
       },
       {
