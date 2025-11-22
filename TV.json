@@ -979,11 +979,12 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIx/nd3zw8dr0nSgP7ScQZUOVTpx3KQh5Y44uURUOr2zVqp8XOxDGAjyVyzDczvtrh7ibYWPcawLa4xXQhIu8Hk9"
       },
       {
-        "name": "ESPN PREMIUM GIG",
-        "uri": "GRMlpqDltI5thYVPaGN9oiLR9Bmt+Orq6ec4Z3TWzKQGeppFjAHNvNoOiSNYrcLrqr/XMcUvhktYZBjnQNwUj6dzOzbV3MYwRQzP1Li1ImVp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
+        "name": "ESPN 2 SEN",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3o+9GReLqcQdYz312AZh0Qf18U+MBkTxMX/gtcmGZQU4w==",
+        "icono": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEl2B1nlI5YPnyuAQa6Z5ptjOlY8M7HCTmRoGJQyaBqZIBGeC56L6dCjUfmtsl107CwCjn39rUwMRktvnDNocQD8fGR+qkCaFwPOAHKp/BZUXaeOQC5B3HMPhPFrje2g56Q=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvD4gBbnr6WqeXy6zE1FvXWrcZWGcBf4XsJqwpa4pzpC5gMSu3W0aKv20fgtPdOobS+lB0Fu9mfMNp6sqaOvMsFwel1Aog6nfhHfakWWSxG4Vm91J1p5XC3YXqdj+Gi1zig==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
         "name": "ESPN PREMIUM SEN",
@@ -1275,6 +1276,11 @@
     "name": "⚽ EVENTOS FLOW",
     "samples": [
       {
+        "name": "Pack Fútbol flow",
+        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW39eEXx0krwfIHsTdUACSNOwTnwqHHkGtXZ5TXSsrm0h1C6KlWaHV8s23Ks13WBP5wHFNO0+uKWuln6ZSYHqdsp",
+        "icono": "https://i.ibb.co/5hRr60KQ/floweventos.png"
+      },
+      {
         "name": "EVENTOS FLOW 1",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJz9OOCqdmo4Lse2lswlTHRfGBguSZ+OltBSRYNIMpIl7qXs2OFKXIhj8ugM/WvKGA8XcWqdrR5gh9/kj9jty6k",
         "icono": "https://i.ibb.co/YLjMyFx/evento30hd.png",
@@ -1385,12 +1391,6 @@
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
-        "name": "🟢 TIGO",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcMggaGuPKfnJFbsG54taP/53wpT5f22uWjtk9wg119CT",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
         "name": " EVENTOS PY 1 🇵🇾",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
@@ -1417,10 +1417,10 @@
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "MSL",
-        "uri": "R4LLtxOZbm9JVZWMFIlUy+dViBYc++JIuMIrKVgIeUD97xANFACUuzNzgVNi+S5MCMCLVJlNk3gCfKxsNZTI6ZRgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+        "name": "🟢 Estados Unidos vs Uruguay",
+        "uri": "QEQWF0D0LeO7qt2VqUgTvffC5Ygl7shqH9nD2hY23tErupACj1U5RRTpa2M7lADn56aUoBGKmUiv+rSwz9HG95RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjlA9qAXAjDaikKyDGRMG7626QZSk0iAKrtihA_SKn7g43RAVGx8A2Iw7x6AFyhyphenhyphen0NkbDMtjQE0ELOR1M8dedL3FXpx7Aqpo5j0jMPV3wQjrXeJSfbvJMMiAVg7WEfvqorBUbfh2K3v1k6os3eSwHLc-ylF1H_S7Yxz3kFNyPi0BfniOEgqDb8V1P5Sc4/s1600/Estados%20Unidos%20X%20Uruguay.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
       },
       {
         "name": "EVENTOS URUGUAY OPC 1  🇺🇾",
@@ -1452,14 +1452,35 @@
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw=="
       },
       {
-        "name": "FORMULA 1 ",
-        "uri": "+qbbwiZyoHj10caex/amMlf4LXFkwz54Ju1zPGajEhA8lPmg7ueuFQU9LTaDTjm+",
+        "name": "FORMULA 1 pro",
+        "uri": "nainWZNQ8Iqu28VsYRPIFhUmnirrgSg2MoJBh/plmpWUYBkgUevuzSw9buuw2hgj",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "drm_data": "nQN9+xkpj8yS0UqKMu1uBJ+YjKXHwCsp2DAKDrqS2FJP6vG+6EMdBkXyixsRZhumnfhD9RvXUt5f642VJTgsRnMa8Jo+95RjnZnw1j/MNtVFManTNnd29/vkjpsAS7eqeS1Ue0MXdSIDM3CU3IBoJMN/FhX+JtJ7FPv1gt+gZ5sKn2DXRmDTbqqLm1Vedah3aQYLSfaUEMO7dMvFexBMLTN0kEcFvGIM4E4MCqJtomCJ7EB5BYo5JB+YNt13q32aIJ/Eq0+wYBesYWYQysYH2Ymo3X3ERUwtAflzklln8LIALr3nHjAvN5tCNaF3hkzuZ7wfrSL4XBo3s/p7VXUi/xwszQhopBuErldWbEPQxznZYJrzKgQpVgPZng0DmDa82+6PkWuWIFtQ/BoWv5oG1MVcWxbVj6xKxwSryVM4x7jVEug0idZYJQCv6+bIx5+g+C4yQ+pwgENuMXCWx59DsLCYfjWp27Zr9ZHFC8ChhOWTBTDOL3tNcH80E0g/t/lUlA0A+lISA+5Nxsyr9UU2o29o/YgCku4ptvwMD9ugrAgfa85jhVcqNpi4up9C+8O/emI5lSkzv32FW/ZWCfScG8x7EPC2xM/PflO61H1hHccOcVFS6rlw3Im2X3tjm+Gaogin4ezyVZbN7Zr4LiWK25r0YNX6RSYBl+plBz9vws+9aZaYqpiYyZVFEgQlzaD2pvC4MQEIEfpLgXlCv1OVQ7zxMDWlzqi9CByhTm8U6npLF5kKQQotOiZ0pesCbTLfgGe31eTt02NevRTb6Jp0TEl35mrKQGVxsIbblkMGbVZMT/0L01USQd3Ht2k+hxBIYgq6L0drF4Z2o8zhoXrUJZSyaPD8yOtL9Zcx4gZ+2T7THEkjDXpYrvji9jm5b55Lvqzy9387lxt008+A1qRrBP9EwC0oElJ0j0hEghr1Pv4="
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
       },
       {
-        "name": "FORMULA 1 DAZN",
+        "name": "FORMULA 1 HD",
+        "uri": "U9niqMx5IcnAZe8thwbVnK18fLXsAApTQMdUsBKkMgmfYHa1VnQCXx4a10WoSXHXaEnkV7LLkCZjCUwXyPJAN5RgGSBR6+7NLD1u67DaGCM=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "FORMULA 1 PLUTO",
         "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZjjt6B+U6scUd9tm/EJQlZK+O6hQVD4Dq0mEGAwOynWmeLpo04YBlIJ/cuA0alb5LoLSnaRaSzfm3mA2dxd//PGjGaCnBlRIqujF+QtUhoMnEZeHrv27k6Pp2yW8yaqgl77dczvhZNwF1YOifelotW1rwBQCT9ho7fnART6Io5ZE6AOTUgfgRwDtx4WQAtS5fFsh9dZcSVKba8K+uvK+G2OMuNx0htV5vcDZwhW4KOM87Og3LbF44KCKvu5Ujh+k8Hh9bmnva4HfFPuIE1vBpioSJiUbTRe2bdtMVDUsaCp9zg4jniOAjWJJ1yAWFFM9",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "FORMULA 1",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEozU6PJs7LCOl+bjOUSVbOobs1prX+TiD+/9e2s44CZyg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "FORMULA 1",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEozU6PJs7LCOl+bjOUSVbOokfViDdHDcf6s4kpIRcUeDg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
@@ -1469,11 +1490,6 @@
         "uri": "WP7+OZX+xlBKRAR95YV+dbh9ZScYCdlDX4XtWh3kjwvCg4Y2faMBwN7fCjA+oetOtLFFw6SQczBetu+YbJqsNpbkZ691H93vOugjXD1ucY0KQJyJ0R1B69gTSWWkURp9to045rz3w1NR2G+R7LhOLA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "DAZN 4",
-        "uri": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZgwE1de/4cTVIkp2C6tRAtYgSvOB6jhbOC/UMt74y5ZgSIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
@@ -2873,7 +2889,7 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIWsbqpXhLMDpJ2pvfddLS1H4oqo+qxLs9encleCugIWJKoBQC+LopXdN0KDFAC7kJkvjSrphogdthpWBGQI7ANPUhTW3g2HRRPRM9cvnCD3WKxu5YFGyOf6LQdEhqTv+w==",
-        "drm_data": "RjuufPywXjIgqQzDS3LnU1VrgzXvP1/p8WR/YFmFCHQsClSLG4D+997EYysGjBEEDNaqwPik0rTPaWkUR3sKiMsIE7LX+croNygldUDamCq45cFaW95cJK32fKtvOg7A/5sMTpURcQo910FTfG23vNWGX7t124QFvjS3MsngPqGWYy41wNMEF/sxVdxqMbO1v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6vjZ1Iwso/+yHo77hsvaoBvS1ZnlwmdRx+Atba2ha9SyU"
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLTBCgB4wScl6I7Tfzf1cFzqJXgXGIIMSbIzLNNvVO9+bZQCgGwsLLZF2h5t7kAq+2PdpQuG2VEu5VqtuKK4h9HT/mwxOlRFxCj3XQVN8bbe81YZfu3XbhAW+NLcyyeA+oYtHDdTnRov+WOYyAIzliZuUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
         "name": "prueba 5 origin ANDOID",
@@ -2881,7 +2897,7 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIWsbqpXhLMDpJ2pvfddLS1H4oqo+qxLs9encleCugIWJKoBQC+LopXdN0KDFAC7kJkvjSrphogdthpWBGQI7ANPUhTW3g2HRRPRM9cvnCD3WKxu5YFGyOf6LQdEhqTv+w==",
-        "drm_data": "RjuufPywXjIgqQzDS3LnU1VrgzXvP1/p8WR/YFmFCHQsClSLG4D+997EYysGjBEEDNaqwPik0rTPaWkUR3sKiMsIE7LX+croNygldUDamCq45cFaW95cJK32fKtvOg7A/5sMTpURcQo910FTfG23vNWGX7t124QFvjS3MsngPqGWYy41wNMEF/sxVdxqMbO1v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6vjZ1Iwso/+yHo77hsvaoBvS1ZnlwmdRx+Atba2ha9SyU"
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLTBCgB4wScl6I7Tfzf1cFzqJXgXGIIMSbIzLNNvVO9+bZQCgGwsLLZF2h5t7kAq+2PdpQuG2VEu5VqtuKK4h9HT/mwxOlRFxCj3XQVN8bbe81YZfu3XbhAW+NLcyyeA+oYtHDdTnRov+WOYyAIzliZuUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
         "name": "prueba 6 origin ANDOID",
@@ -2901,8 +2917,16 @@
       },
       {
         "name": "test",
-        "uri": "gvuZ39gDgv25mT0cbuHVGhliJwQoy3D7UudB8j3LHUqhQcH+yZ6xcVcxXublRH+c",
+        "uri": "7Km0DiR3RofENkp/OU8zjKhAHjYeR9mjWJNYo8ylHR28vL27eWVY6arAQ17FvVhxCXAIcnsByw2/YvidUFRIUZBRocKiokq/zk+QczF/EBcbR9058RLrCT0sZKme+3Pk",
         "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png"
+      },
+      {
+        "name": "MIX TV",
+        "uri": "+MfnLcFKX9s8iwaddVSeoz7+G2eMKi14zQ+YnTRTTDQ2sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTwp+UXLqInw+sO0mvXb6i/xXzceqgHhc40OGp7SLET145EpM/kh4YYyinFj9KY8qWUI52cSlKJm1yLhIvjBpmXjvz6ck2HcYLyW4Oyu9OmSCf5m9mtyTnCc0IplkYkGixhzI1O2nZG4uGqSrYOuEv7oNMebIHXfIbr8A0FYS/w8yQT+5EHYyEAIRMTwc2DNC4ibf6S45mvXIP7sXaBfaGZfsngtBt6+WwjHQ02HQpdgKhHqQXYuDfSAr1AkXNPn4BGoTNVg46y0TVpGAC12v8+C1u5dkaqvtYkXS2fD9hpcWPiBHb1iLzlHsF36SMeGf7xHNSk7TwuSMLBEhW/6wi1LeamfZ+52XIMqOY7eZDDHMX7VP43kpYdoi7UPss9k+UWKsuaIUD0aLSZ2728hY26qNLL8LMIUZIZovOOgJGch2AtHq+E4pz5jKOzciW/uwtfYHtRXfzJJcTCbec8X3RHNQ2GCHIktAGl6gSe2OYQDTaXK1RZ2bC/bVHTRBoKGnsiWPJFIuImroc0R9gUD/ZQy0SUCxyxTsmfevOWemePjh+v9Fmz+Y6YcniTDkSZHsYgT3hKneZNEG/pv5/xo5D10aHc18nZIiZJom4Jf9u/Zn6Do01IJIcRc2h2Uk7V48eRSiMm287k+QVgI7RYAZFkzwc1prmpV3kNa0KT/p+NdVQ==",
+        "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEs0flUWutRnW2v80H5dERDp8xRqNXJWdwxFNQITNzMLqtCqi+ZLmhZm2inozblKRzXZuXGMH8n8TYb8SME5zrcbA8R//BKU9UMM6w0osjoe5aeOQC5B3HMPhPFrje2g56Q==",
+        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
       },
       {
         "name": "test",
