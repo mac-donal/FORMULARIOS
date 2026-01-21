@@ -638,7 +638,7 @@
       },
       {
         "name": "CHAMAME TV CORRIENTES",
-        "uri": "3v9JL2E/406Wq0crWfq0HlELwUN8EZ1LaMEO+S+c2pK7dEP/BJRPIASo5lZw8jI6snpgvpMov6BRa9vsBfVmzA==",
+        "uri": "+kfBOTsk52GWyak8jX/IjVELwUN8EZ1LaMEO+S+c2pJPGhi0Kbf8RrohoUQ6nCtExwQwXV7gmUvtsFLErJau8g==",
         "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
       },
       {
@@ -1399,6 +1399,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "MOTOGP",
+        "uri": "0ipYaoFqnENeyM05hPTYRE1VJ/QB6Ejmdvdw9+1bQ1V60GqHQ1rKH9uImUk+1Dg+rjeom7WYC/CCLOrLm0C4TElMjYo9rxKuRlzmfFO4imSUYBkgUevuzSw9buuw2hgj",
+        "icono": "https://image.roku.com/developer_channels/prod/cdf9ed55851282b7ea12fdc17b1df86242b8835929399186d991214967c31230.png"
       },
       {
         "name": "DAZN COMBAT",
@@ -2682,7 +2687,7 @@
     "samples": [
       {
         "name": "Radio Master 96.7",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwexHgJsBQ8LKnrT3d0Dfq42cK2wVwcn4pnvuIWUXmxAkDxEgqrbFA7F/u3kXx3qVBCZXA4s5r53JhnBsFHzUYiT9",
+        "uri": "+ruPc0I2D3nPxraJ7YmTgDb2lSt2yTlItYelnQQcJXi85h/wVuEV1VuqmQuHWzab",
         "icono": "https://i.ibb.co/8n06qN2k/123.jpg"
       },
       {
