@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS2",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -1018,6 +1018,13 @@
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "🟢 EVENTOS PY🇵🇾",
+        "uri": "sxXEGQzshLzQJ3R1CX75CNOYWusYDG9+zLhpLD3RBCJqjcHVq4hc5Vb6tMCO6HosCivOimoJom/QBgA52oWClHYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
         "name": "🟢 EVENTOS PY 1 🇵🇾",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
@@ -1036,6 +1043,12 @@
   {
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
+      {
+        "name": "Justin Gaethje vs Paddy Pimblett",
+        "uri": "9SWaUJyb+ZbJGFlv5cu/udxRe5C4gTSOkLzbrRLwFasrupACj1U5RRTpa2M7lADnWl3CPw4JcaKb6vriTbz7EraNOOa898NTUdhvkey4Tiw=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWkU9xnSz_JyLBgWAg6n3nqOn6fC0b4ucJz6w_ozYrXKPNvgTKah60cRcCbZEP-m5izKm4W8YoSW-Ha8TPyX2mDtRR-ltDmXLh5sKLgWYusRNJgylPicGrt5RekYMQJPovU2flBNgPk-XmUGafW4doccVVREtrnDrsZeNy0Ew5AAXGnyJDum20bCMSTrT/s1600/Justin%20Gaethje%20X%20Paddy%20Pimblett.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
+      },
       {
         "name": "MLS",
         "uri": "Vzl1lIT3+FOqCx9Sf7PaFncwfX57b78iaUwmB08iZwQqLzKASchXy0C1Ryu+9GeWaeOQC5B3HMPhPFrje2g56Q==",
