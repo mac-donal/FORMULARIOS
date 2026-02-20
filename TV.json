@@ -2532,45 +2532,49 @@
     "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
       {
-        "name": "VTV",
-        "uri": "+bCFMBueFestusBNmsqk2yPLgKgQbtCFHewXelNF+pqNdNjugNwS5inLEUSdCoQRU02zRObfFWs0etFwJZNENQQpWkrIaH2AWIYgvkZBqiw=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
-      },
-      {
         "name": "VTV PLUS",
         "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqkIQa0skPGxc3OpkgahOGLT",
         "icono": "https://i.ibb.co/CKf1T9hf/IMG-20201023-WA0080.jpg"
       },
       {
         "name": "CANAL 10",
-        "uri": "T5F0PbpSyjIVIheaZlTmJH2HSEaN2GCAYQlhYqRqFOu2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png"
-      },
-      {
-        "name": "TELEDOCE ",
-        "uri": "N7r8NrqHbEU6OxvMjec2l4geN6HLtfUkwrCm/MddJMQPMMuREdrCBGeKHXyvLf6t",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png"
-      },
-      {
-        "name": "TV CIUDAD",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK/5xDexcKUa7LQO0/tnra5yPmSAC3j4ASFNTJ7XuaE1Ny+S0sfFP+fm9LRmz+I4OX01iupa6tYCGX7xmzPOXyy",
-        "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGj9ZB7WUN9LENqGPtt6vmdncZJhvFpzg7ePNi7L6SS4j9snYJ0BHg+9JZOlhzLuSv",
+        "icono": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1q2NFVrg4/xuT6/ZHqOtwOF",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzoIykB87UCPqgGBolI54/zFbZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBzjj/LCot3Xmb62vqqr9yO61nIw9MKOUoH8JRsJNSoaTQEtH0vCPKDtCuHDSS1e7nHX0xpwi3A5S3y/rpgqFCQW1nLIfE2bAZpYnl/Tr4SGRcZUAa0CotWCVU9lujY/sWdoLr780A23oX8UfKqHMl1VYYcB+Zwc5FCT8DstaSO6yyw6QiMfinByHj1MHo+zKCx2Ho3y7SVcRDs75JP1uE1x"
+        "drm_license_uri": "MEdKZfCXWXsIHUNexCiSdXzom0ZKzv1H0FJiNkGvSQ4303qYO6SPsGvLjTPBbGnoV4ng5yXGqbCbAiwVCAhXzN/PKT7jwlbdkwkkQ1yOoeTvyfe3BLU4tYedVtufy0xNHe/mmr9Jzyt/UpM/Y7bgzfnKV/woA6W+ae2c3tbOzPE=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "TELEDOCE",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGK1sKH0AxruIEu8L0a/OL8sUbIu+v8Dk4Yi9MM0Pqh+GMyLKHoT5mA2Wq3CloKUPF",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "MEdKZfCXWXsIHUNexCiSdXzom0ZKzv1H0FJiNkGvSQ4303qYO6SPsGvLjTPBbGno0JvMox68mYPrMngvDA3oIB+hk5xmVRN/JtAavtnOkH57GYgAGhqLmkGUQ/KPe5JVWAykK5ZnxMfJpZcndvXXpRgaWu7dL+FOegcXXtEzxBE=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
         "name": "CANAL 4",
-        "uri": "+bCFMBueFestusBNmsqk2yPLgKgQbtCFHewXelNF+pqNdNjugNwS5inLEUSdCoQRU02zRObfFWs0etFwJZNENRo7FRWSm7nD7uES/hjQiFw=",
-        "icono": "https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg"
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGZFqNwcC4kxfZP7icyCydkvUXldcC4Z99Z7g2cDWYLMShH3kT4d44778JZmAtXFBb",
+        "icono": "https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "MEdKZfCXWXsIHUNexCiSdXzom0ZKzv1H0FJiNkGvSQ4303qYO6SPsGvLjTPBbGnoYAs1mwWJB7ZE7uHRwNrFN/T7O7U5LUcls2fKqYU+kk8xoEcZMEON1T2jYslGaBwYvPGbvQt93lFFVxZNNoeKQTRVy6i6Jz7UgWbrbs7gbxI=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       },
       {
         "name": "CANAL 5",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ+Dq0SNU5sLCvh2FLjW4yGW7pnt9zM1wdBWVrP1o0x/yIDiVjIYzb5U1OWwCgcLXKg2y/U5TiGbAx9kxcnXsfaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccMOsn5aGvAROw93x1FFi2HL",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzoIykB87UCPqgGBolI54/zFbZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBzjj/LCot3Xmb62vqqr9yO61nIw9MKOUoH8JRsJNSoaTQEtH0vCPKDtCuHDSS1e7nHX0xpwi3A5S3y/rpgqFCQW1nLIfE2bAZpYnl/Tr4SGRcZUAa0CotWCVU9lujY/sWdoLr780A23oX8UfKqHMl1VYYcB+Zwc5FCT8DstaSO6yyw6QiMfinByHj1MHo+zKCx2Ho3y7SVcRDs75JP1uE1x"
+        "drm_license_uri": "MEdKZfCXWXsIHUNexCiSdXzom0ZKzv1H0FJiNkGvSQ4303qYO6SPsGvLjTPBbGno8T3q4SIF0gTtui2A2n/y1x35Au/snYKolE6cylfFXPBSyTrDURIoLMczw3BSV5GmPng0QbKSeA3VznxM6ZZDuEWmu8bm11c3WRRwtY9u/kc=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "TV CIUDAD",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK/5xDexcKUa7LQO0/tnra5yPmSAC3j4ASFNTJ7XuaE1Ny+S0sfFP+fm9LRmz+I4OX01iupa6tYCGX7xmzPOXyy",
+        "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "MEdKZfCXWXsIHUNexCiSdXzom0ZKzv1H0FJiNkGvSQ4303qYO6SPsGvLjTPBbGnoDUAabftc4VxffsFvUkU8ubyUN7NO5hY8eURL3+/Xan+eP4Rj4iCDBFXeIywr62oRb/TBuVhSD3BLQChsDGBZFgZxuv7QZel44mWV6U3hncI=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
       }
     ]
   },
@@ -2610,7 +2614,7 @@
       {
         "name": "Chilevision Contigo",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL+whyqstcNRSJwjM0LNx0/F6IY+JPmjCeIFgvzg8ykx2OYPJOu++myDPyCO7f9u82MJsskEhpTV72EG6tsMNNB",
-        "icono": "https://cpng.pikpng.com/pngl/s/330-3306197_chilevision-logo-clipart.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_TV_Chile_%282004-2010%29.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEuqgSqPGirTvA9er8pWOTO9Iji9egVfxJIJw33/2BD8+pugWE2jcscZkHzrEb7NcPQttM5qQHW1/Hc0Ee+HeTcbA8JgpxZEy5/rxzQ3/+4FlaeOQC5B3HMPhPFrje2g56Q==",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBzeoAPppiZBlagt0JWDEx5Y1nIw9MKOUoH8JRsJNSoaTQEtH0vCPKDtCuHDSS1e7nHX0xpwi3A5S3y/rpgqFCQW1nLIfE2bAZpYnl/Tr4SGRcZUAa0CotWCVU9lujY/sWdoLr780A23oX8UfKqHMl1VYYcB+Zwc5FCT8DstaSO6yyw6QiMfinByHj1MHo+zKCx2Ho3y7SVcRDs75JP1uE1x"
