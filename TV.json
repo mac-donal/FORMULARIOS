@@ -1033,7 +1033,7 @@
       },
       {
         "name": "LPF PLAY 1",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkY6d1uhfMIHpwVO/cs0rap01wpN6YHm4PsEDavYCigNk0cBk3lh1WU9utTyfYesgVBN7m1micpErqnAghb2+aRtGiWeUQKWEsl+KrNlrce8olB5cYpqhdcqzhyjSwOpJT",
+        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3Qk5tXcJmdtOTT0spyfSaUA0YNRct8wDQxxyJ/gvUuESErmYHerikMOpdv0k1OXM5ph3Wdw6znr3YZkIG76+RpOeDgN/uxRxn/wtZMN8G8r+HwlB5cYpqhdcqzhyjSwOpJT",
         "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
       },
       {
@@ -1181,9 +1181,15 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "🟢Progreso vs Nacional",
+        "uri": "0Sg5z1DSjJpOGspTfovzcXFrF8F544Mq9V/sF4wiFQLkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGfeciCLY7ZuGYH7y_SgJ3WH1Bhvx0A4YaSqXwyLh2r2s8THzASU-LdyyHbKqfOCDFlKjrJ8pOh2EQnvH3jgScXGFtmVj5KHKiPZRwfH6WerUV-TFUierae_fsI3xKNQuxKW6IhxFvvxFIMiA_db5ZwaLpWD3DHYPL0w9hHkHHAfmM8y9LgSgq0Qb-mE/s1600/Progreso%20X%20Nacional.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
+      },
+      {
         "name": "MLS",
         "uri": "N4aclJxwMslpoBIMHhMjtzyghEe51K1T5QmJMTcvap1OZr6YrN92393uFoH1GSx3dh4nvUY/9Pra0FMrFcKZaA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/454px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
       }
     ]
