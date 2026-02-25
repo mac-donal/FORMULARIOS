@@ -841,6 +841,31 @@
     ]
   },
   {
+    "name": "GH_2026",
+    "samples": [
+      {
+        "name": "GH 24 Horas",
+        "uri": "uqoJkTu9rOneZ6lQCK6eDl0s+7SjyfcGgWk4+EjHwIANc8y+kWAZfPmEToyyaCRi/ElHIG0ckRgBM2QTW2XFA7kbkHWrT7UwIKQU7gv/xDtp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gran_Hermano_24h.png"
+      },
+      {
+        "name": "Camara 1",
+        "uri": "uqoJkTu9rOneZ6lQCK6eDl0s+7SjyfcGgWk4+EjHwID1fKOBle+Sht/UF3673meR2JAB6aEJaPRWysVMq0cRTHoNd8A3VSgQQgy6xInlhxpp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gran_Hermano_24h.png"
+      },
+      {
+        "name": "Camara 3",
+        "uri": "uqoJkTu9rOneZ6lQCK6eDl0s+7SjyfcGgWk4+EjHwIDPXZ64BmNvfM4IsrXh5ZcMGPpflLDkH+uX1JRxrArxxeHPgUQzm6dO8OBSWEqSVfBp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gran_Hermano_24h.png"
+      },
+      {
+        "name": "Multicam",
+        "uri": "uqoJkTu9rOneZ6lQCK6eDl0s+7SjyfcGgWk4+EjHwICQ6Tc59ps4dShepV1836gKO0jBfdkEE+Px1EZ9pFcMRoIuQxISA+zcvqMBD9QjUDxp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gran_Hermano_24h.png"
+      }
+    ]
+  },
+  {
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
@@ -2727,14 +2752,6 @@
       {
         "name": "MIX TV",
         "uri": "+MfnLcFKX9s8iwaddVSeo51SYaqCHX/A2+PaUzBx11I2sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTwyqRIlplOTLRm9sjGGS6dHNLs4Rljlakkme+fn7BGWdlfdm5h7XJc16ZYMlQ0Br/l7m7cRno+yUQI2G3G4twhZyiZQ0rK+mXHJC3O79yKdWSAW4DMHuc/v/+95j7WFweRwdUxZIRDBHUx4FVmxNXuD6elVocljmY05N+GTmKTeCJxaLmCIWT0idfSogBx8ODZgugBGaEsRtokP6HxPvfym9KfKEWCjW0ei4bQte2Z9qOxhcECB5wafILaYUuxoPE6xv51JAEOJzg7Fp/VW4DTKhy2Ekk7GexWU4TZL0nj6GuqNcfK0nHcH+oywE20UHBZFgQaaoqWw9t8UsE+DyVMyrM8KW3EfWBlfiq6B7otTaouLo/TZSgif9zr8ZX3LUcpQj3OUOAMTCy0Zp0WLlVX3e5G75e8wyIlpnLjOWFldhRPjmB7+js/rAhc/ETBtLAjeop7sK9B/NQF+CdJ0UaFkg1GKklPFZ54Rfeo3z4NnxJaEKlxNjanE9H7FUCGbFJtCeJbubbABkTMvcEBGI7vJ5aZ9iBQcpVPklDgLccqYkKy1h2iIkIBa8aIIgHZeBT5mxw3dgpEgVcEHllUACv2TdXh5G6d5knnyPJyI6/9Znt0bySWzHRXaUlGyQP3KSPnH3mW9dJbHVN3mUYZFf11+",
-        "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
-        "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
-      },
-      {
-        "name": "MIX TV",
-        "uri": "KusJ5ShfomSLrFIJxHev/m7irzqvLNDCPGS01NHVcItS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrUMi2UpxJt4uUnJY7KR27dg9MSqeM8yYh0Tk4zBKLr8/dnq852n+w4UFCenMku54Xr/jwB4olytXwPvK+AT+rKBMaW6YB3ZeML73qzHrM9SQsCutUaVtApTqXj6utMp8M3zMS21dh6dnQhVNVbIMTXqeRgwMS3pyy4nNS2nkkyk2t7zIq+88P9jZG6fzdSMDhB0WEFT/QOyzYMeN+NamAL9LrTKY66Yoa0VU63e4hPjxU+ZJcrVgUd8cT4RAhtEAs2+9QoOPNOC3/NliDgl3m+xeFk+cDJt/3hEw/egWZFJ4rOo0cgPzsN3vki5oAgYsEAMwQ3jJuPgNx3s8sVwXArgm5LvRe+EtpacoNG1PCmonXAO6Fz6ouk5HROpfPB2ZmVVyCSSbOu+Ay88CNuMcTNEMwONcEUW+e79GhjXhGpLdHmbbWp+NtdmUc7AmkkKGbsht99LhsO50VhTHfSf+4oY/00e2RVY3+cW1YiyfMjS2mrv8ZklTvQLlc7P4oNPoUA6UiDkDh9V89jA0x6IPlInSGkTetvZTyFw1nZCnAWoqKcwx5yW54pqL82GVFjqtoowz1ec5gD7tOZLYotMJL5Ci/QK367S/1yktXOTP185EFOlUr4EGKdE8PY978DOAkNvsR8jciZcLPlfucc3mCw3knACWI2g94C30O+LzyKurg==",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
