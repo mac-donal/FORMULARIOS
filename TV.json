@@ -3,13 +3,6 @@
     "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
-        "name": "EL DESTAPE",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
-        "icono": "https://i.ibb.co/FbZRY3Hz/eldestape.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBO5/GaK7PmM5lHaFxR6uDYDga2q/sTPUpTTnNtHyv9y7A=="
-      },
-      {
         "name": "PERFIL TV",
         "uri": "8ZJw0UUv0Xe/ExtodpANulyaILLTimdJ6W8JBI2S22CS7v2cqmY2XdndF9DuaR/0OZbziikZC3Fj0FXq4399qkhnAJlC+5clagOx48lpU17Jt/dfLeWA9CB1T5+MT7YG",
         "icono": "https://i.postimg.cc/wBRSs1Wp/photo-2025-07-10-16-14-57.jpg"
@@ -875,14 +868,13 @@
     "samples": [
       {
         "name": "DSports",
-        "uri": "XyMeXLpqpvQ8BIW8RL8PY/5ZQFG5Liief9Z7j/eZRBbljCglXLSrokXZhHBt5ezkXFR6R7auzTIm4USrCYq/Tw==",
+        "uri": "SnjtKzdGB569ZKZza8KQv262J8G61Ebk8U+D9LMs7DlS8KH3BA9IIZyX9dfMK5LK",
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
       {
         "name": "DSports 3",
-        "uri": "zmOa6R/i7Dxiq2woU+O6zSUYFPZoHTv9sk+wrfZRjKxDVogqHFtyElmSRQqJ0hY4",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
-        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
+        "uri": "XyMeXLpqpvQ8BIW8RL8PY/5ZQFG5Liief9Z7j/eZRBbLMYXVlr7vIw0YAStXEHn9GxYtzbRNrI1MgZRsrtnmxg==",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
       {
         "name": "TNT SPORTS PREMIUM HD",
@@ -2010,9 +2002,24 @@
     "name": "👫 SERIES ANIMADAS",
     "samples": [
       {
+       "name": "ALF",
+        "uri": "gvuZ39gDgv25mT0cbuHVGjc2aD5yUElQgTv89XBKSoLvXh0Uk4SwokCEP8bfbvYxlGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
         "name": "LOS PITUFOS",
         "uri": "Bd8xwwcdSMEPoMYitgWvPpPYJKQMfZiSWQid6Stq0/B6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck0733wKgvgwNVX8h/zFN1N9tvmsRM731DeE45eP184Q6pRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg"
+      },
+      {
+        "name": "EL CHAVO",
+        "uri": "WL1IlirmqpF9aBrXvpvJwvcZDzXp8PCXIp3Au3pZbWuGrA3hgJ6CmJ2FnyXnaPgA",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "Cantinflas",
+        "uri": "T5F0PbpSyjIVIheaZlTmJMtBIpEwQKtyL1dQbeCREje2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://images.squarespace-cdn.com/content/v1/6785c13c6532ac22fa914294/e69050cf-8bc5-4808-9284-bcf0a614e8d3/mario-moreno-cantinflas-png-rgp.png"
       },
       {
         "name": "BOB ESPONJA",
@@ -2552,6 +2559,11 @@
   {
     "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
+      {
+        "name": "VTV",
+        "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqmDuO5AsGtaHQoFEPIZxHw8",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/8f/VTV_Logo_2010.png/revision/latest?cb=20210429025526&path-prefix=es"
+      },
       {
         "name": "VTV PLUS",
         "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqkIQa0skPGxc3OpkgahOGLT",
