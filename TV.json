@@ -898,8 +898,8 @@
         "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
       },
       {
-        "name": "LPF PLAY 3",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3Qk3PPrh9rAgIvKy9ici8G0NNT4QUtWV+ktBJt/y6hBOChdSvWGZf93Pwyc/fWbp4RbtkwS8vlFZHsLm8Di+fQkWA+e1uGFH7oROc6ql1et3Sa2jTjmvPfDU1HYb5HsuE4s",
+        "name": "LPF Gimnasia (J) vs. Quilmes",
+        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkBrVGM6JP2nUjMDI+kEw8DyjDeyxEzSLY5LsrF2DIt5+PI4n0oD4UY76vN30Ttj8KMKG6HraDib8cuZAVTjlRDvmx5eXK9vY+EI3t945Qsa22jTjmvPfDU1HYb5HsuE4s",
         "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
       },
       {
@@ -1012,13 +1012,19 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢MLS",
-        "uri": "eOl1QWmj5fdgzwUZhA1Pd9sCmjY9WqeXscJW85oSZK3kbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "name": "🟢 Nacional vs Peñarol",
+        "uri": "fNnRfB/IApFR5dkUtjnGg/qSUfSngLOxcYarAkvvCNzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       },
       {
-        "name": "MLS",
+        "name": "🟢 Nacional vs Peñarol",
+        "uri": "WL1IlirmqpF9aBrXvpvJworBMSvwO+qv253M41kmCOCRvpPfgQn84PmiJGvPLol3",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
+      },
+      {
+        "name": "🟢 MLS",
         "uri": "eOl1QWmj5fdgzwUZhA1Pd9sCmjY9WqeXscJW85oSZK3kbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
