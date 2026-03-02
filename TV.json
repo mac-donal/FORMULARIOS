@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "PERFIL TV",
@@ -1170,14 +1170,26 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢MLS",
-        "uri": "eOl1QWmj5fdgzwUZhA1Pd9sCmjY9WqeXscJW85oSZK3kbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "name": "🟢 Nacional vs Peñarol",
+        "uri": "fNnRfB/IApFR5dkUtjnGg/qSUfSngLOxcYarAkvvCNzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
+      },
+      {
+        "name": "🟢 Nacional vs Peñarol",
+        "uri": "WL1IlirmqpF9aBrXvpvJworBMSvwO+qv253M41kmCOCRvpPfgQn84PmiJGvPLol3",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
+      },
+      {
+        "name": "🟢 MLS",
+        "uri": "yJCdIxUYEpRUjIpwuEYTyBNDXQZ+e0tKjyGL6A68NHzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       },
       {
-        "name": "MLS",
-        "uri": "eOl1QWmj5fdgzwUZhA1Pd9sCmjY9WqeXscJW85oSZK3kbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "name": "🟢 MLS",
+        "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
       }
