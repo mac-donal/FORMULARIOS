@@ -1369,23 +1369,17 @@
     "name": "⚽DAZN",
     "samples": [
       {
-        "name": "FORMULA 1 HD",
+        "name": "FORMULA 1 ",
+        "uri": "WlQJicNExM1Nk3TMzu+X9aNQHaTqFANLIQw4MCF6vXG2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "drm_data": "BSZkn05B2XhlHFPZgHJx6jwqAZF6tfMg19D+oD8Y9pY0dh/ChsinBhsodJ0lXBhXdDwde6CuZ5LwyQWovwHi9hxyhr/8QdAm0k2vU2aFNIFX0zvQcEtkkJvmLljFMNFCcrLAy4+aAoz6+LcJW5pH3gfnHpBr4IKcOAzhSNAyAYdluKQ+4lPxAkYJ/ST6EUZAxnHEiOIV2JXDcMWPmA5kOWUtrrIPUyBcNkh4lf5BsFXAAEyT+wau/kH13GMGb7/JLhZgqYQpyf+kYjIH38a+5PSw3qUtrKa1Yy4LkQPXLWUdUVxjHF5A194L7GhWmyMSFIC47IV6LOOqj7n7GZDOYfDUF9yyZ34GTMPteDewg+6vGMBgyerZ0YZVny6DaQ3QcJumCQ3DEmmybBzh2ErDWiMC77ikQH/tmwE5q4U+cGcR+RkASZVMnwdw2pGoUM73o/WPziH/Lmt8AeBC+rWoQf8T7RS1rLW+Tf03piyGnCYLWOsPKYaxWRpzRT9okJjwQZA7WU6C5wvRNziPoGBxJVszrG9A99gWcvzF2H29XmnwJTKASJPy1WaXaz8QJEEPb5YB1U0S7rEAYTQucfQ1sBm8mf/AL/G3DN8Po2POGV3mUjnUFXJtZ/W6k9Fperk/7r3GIZgAHwTO2syjlefR9W+gQl4jCzd2CXO7DBE742qWlmUqpIPAayZ8jzf5rQHHB8WGaxRyrN6UIobv0xiwHWVGZwD2VnaZj8+F/6sRAd2SlprCptdIhETRasPDX+5DyyExntDpcdDRnVbt8ajjY1Q2kaimcJvsBb5UVZTvyWGGIab870PWi6NxBc5VHO2D"
+      },
+      {
+        "name": "FORMULA OPC 2",
         "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqmjkHBct2MhRRinwvr3qtOW",
         "drm_scheme": "clearkey",
         "drm_license_uri": "2i4K8L85ffj+zzjS6nDhng==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "FORMULA 1 PLUTO",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZjjt6B+U6scUd9tm/EJQlZK+O6hQVD4Dq0mEGAwOynWmeLpo04YBlIJ/cuA0alb5LoLSnaRaSzfm3mA2dxd//PGjGaCnBlRIqujF+QtUhoMnEZeHrv27k6Pp2yW8yaqgl77dczvhZNwF1YOifelotW1rwBQCT9ho7fnART6Io5ZE6AOTUgfgRwDtx4WQAtS5fFsh9dZcSVKba8K+uvK+G2OMuNx0htV5vcDZwhW4KOM87Og3LbF44KCKvu5Ujh+k8Hh9bmnva4HfFPuIE1vBpioSJiUbTRe2bdtMVDUsaCp9zg4jniOAjWJJ1yAWFFM9",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsbCRkc7riGJvyzYKlq7+2U=",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "MOTOGP",
-        "uri": "iPVrP1TA+K+f79jcXdMHOrKm6YKqQ7kWkIKW4zQnTF+kf0dQPUM6AVr+B5+uLGeu7rn+sprPVDGmXb58YeCLAA==",
-        "icono": "https://image.roku.com/developer_channels/prod/cdf9ed55851282b7ea12fdc17b1df86242b8835929399186d991214967c31230.png"
       },
       {
         "name": "DAZN COMBAT",
@@ -1594,19 +1588,19 @@
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBzeoAPppiZBlagt0JWDEx5Y1nIw9MKOUoH8JRsJNSoaTQEtH0vCPKDtCuHDSS1e7nHX0xpwi3A5S3y/rpgqFCQW1nLIfE2bAZpYnl/Tr4SGRcZUAa0CotWCVU9lujY/sWdoLr780A23oX8UfKqHMl1VYYcB+Zwc5FCT8DstaSO6yyw6QiMfinByHj1MHo+zKCx2Ho3y7SVcRDs75JP1uE1x"
       },
       {
+        "name": "GOLDEN EDGE ",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87BjOeGonmHIuCRA7WiJDMRu1HBv5nFi0jFwGnasI/ei3cpZ/+sP65TjNsiZvkFx2WU=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGCMFPwzBqNb0xwk1YZk6KNQBdiAkWJbsAzCK85cLu1rAQ5WepsIGzMYyLLZHJYbXnxs6mCDLgZjN8qT3p1I56DNCw/o0zqZmFcVItDmKU9JM="
+      },
+      {
         "name": "GOLDEN",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJn1DPgVWaJk09CNv+CJ6VvOwYgz08PGyS/XBF0b4wj2+3TcWDyuiFqZB2k7dzoIPRp45ALkHccw+E8WuN7aDnp",
         "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGgxXRBHqbn848cTTq2LimUu/L8zFOYpRKQl0DI0yqFSu",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBzeoAPppiZBlagt0JWDEx5Y1nIw9MKOUoH8JRsJNSoaTQEtH0vCPKDtCuHDSS1e7nHX0xpwi3A5S3y/rpgqFCQW1nLIfE2bAZpYnl/Tr4SGRcZUAa0CotWCVU9lujY/sWdoLr780A23oX8UfKqHMl1VYYcB+Zwc5FCT8DstaSO6yyw6QiMfinByHj1MHo+zKCx2Ho3y7SVcRDs75JP1uE1x"
-      },
-      {
-        "name": "GOLDEN EDGE ",
-        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87BjOeGonmHIuCRA7WiJDMRu1HBv5nFi0jFwGnasI/ei3cpZ/+sP65TjNsiZvkFx2WU=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGCMFPwzBqNb0xwk1YZk6KNQBdiAkWJbsAzCK85cLu1rAQ5WepsIGzMYyLLZHJYbXnxs6mCDLgZjN8qT3p1I56DNCw/o0zqZmFcVItDmKU9JM="
       },
       {
         "name": "COPS en Español",
@@ -2665,7 +2659,7 @@
       },
       {
         "name": "MIX TV",
-        "uri": "+MfnLcFKX9s8iwaddVSeo3eAkU1btXV67MdrJJ/WH802sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTwqGJ0I7uvyvhuUoLL7bJMXdJX1C1coIKYyXi/C2lpavjY8xr+FnrzwAmW8LibwwxR6J/UxrCNNKQOXGbuC2im0m+qClBn7C+z5XT8/IoEr1cwcO+hnpmIsFnlohzRL7+a9sckmoSs3D0IVZhK5yJW0cHVMWSEQwR1MeBVZsTV7g+npVaHJY5mNOTfhk5ik3gjp8S0s5BhiOVNagmUdZ1cIXZiym4EweDJk5Y2GTt41sSAO55g6SEjTtixDIB2KGHPsYXBAgecGnyC2mFLsaDxOsb+dSQBDic4Oxaf1VuA0yocthJJOxnsVlOE2S9J4+hrqjXHytJx3B/qMsBNtFBwWRYEGmqKlsPbfFLBPg8lTMqzPCltxH1gZX4quge6LU2qLi6P02UoIn/c6/GV9y1HKA+Dfpx8gfT1lbCyIor0k8OiCA3nm8+xk0XyXE6qgwOk3cqvDNY7N1mqNP5AWkj5/HZcj4o0jQNbKT0wcSi1XC/2ulExsWdlFgP01bQuw65bundhvs+ZlIV/QhM3BD4NPS52bURmBV/+sdGtl7t94ZWlRrZlmInC8MowDHHkjIVFvi+qrmPw32C55H/9U+cL9S5vXKkvfBEfRQzXemFsGCXV4eRuneZJ58jyciOv/WZ7dG8klsx0V2lJRskD9ykj5x95lvXSWx1Td5lGGRX9dfg==",
+        "uri": "+MfnLcFKX9s8iwaddVSeo3eAkU1btXV67MdrJJ/WH802sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTwi7+GjM29jXkOKb777FQ4CXzceqgHhc40OGp7SLET140YQ6+aWWum16andNjvLJrt6J/UxrCNNKQOXGbuC2im0IMGljc1CicAIEcQoeL5itm6kQ5EzMpSNQUPDXxrFT9vXoL41CBPJ3OPs8SUmKXWFXlQtr7yC6bJyFOLbKCxbmaIhBMZg5fDZvrxBNuM7MuLm77YOoujLJ649zpCcLrOvMQ+6PLCyctfwZZ//4Tb5BAIXx4wWekV/sG+oxR0qLORhSRhX02rh5AQ55Vv92sJ0UGS3GYoSKmIAtsHsERFzk/0l1H94bv9q9fH6Ox7LnWWSBcliGpPrvYE9wPaFqicqQH//Oupz/Gg4q85w7M0gbgpkk8EDmtntjHfJaRF8jbSOOtpPqJwAG+NQoXEjRiRf6o1x8rScdwf6jLATbRQcFkWBBpqipbD23xSwT4PJUzKszwpbcR9YGV+KroHui1Nqi4uj9NlKCJ/3OvxlfctRylCPc5Q4AxMLLRmnRYuVVfd7kbvl7zDIiWmcuM5YWV2FE+OYHv6Oz+sCFz8RMG0sCN6inuwr0H81AX4J0nRRoWSSb8yAJ1EeX+GDJHV2q+pCKoyGay1rpk9SjelCeRbVE78OkeppADLlYF8U0A8K7ZXAXroSFH7LPb/ETmfjxmAu1FJGdCHo0JyOmTqP1B7DWE6n59SoyDnF9xGS+sTYzyl1eHkbp3mSefI8nIjr/1me3RvJJbMdFdpSUbJA/cpI+cfeZb10lsdU3eZRhkV/XX4=",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
@@ -2673,7 +2667,7 @@
       },
       {
         "name": "TEST3",
-        "uri": "XUWj3igQnfPxNUHd8K+wOE1UrBHowZVnb9hzeRgd/KdhdpE74SpOY2cyB77AMMvkwju9oIXEUGAPfCR8h4zCEQ==",
+        "uri": "WlQJicNExM1Nk3TMzu+X9b6pHKoEO6syMGEmJucUfDqmJ/2zdwc9Cn7C6/N55M0odgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGn77L1nva65kEYkwsYnGxml1sxMmIja4SSgVJtA5AKQr3OYdl0hSJoW1icbQXvfcv8MhTLCUiAH1602OBD5eotlq2G685mQ6eU2TDXqEJ9qU="
