@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA SOS123",
+    "name": "🇦🇷 CANALES DE ARGENTINA SOS",
     "samples": [
       {
         "name": "PERFIL TV",
@@ -2267,29 +2267,6 @@
     ]
   },
   {
-    "name": "🇨🇱 CANALES DE CHILE",
-    "samples": [
-      {
-        "name": "Chilevision Contigo",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL+whyqstcNRSJwjM0LNx0/F6IY+JPmjCeIFgvzg8ykx2OYPJOu++myDPyCO7f9u82MJsskEhpTV72EG6tsMNNB",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_TV_Chile_%282004-2010%29.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGx8HfWd9XAFzawd5p2DhdT0QcJsZtmb+cZrrhttAbTBmhPPMRRKA7ypimPWmq1PTuboa6QQ+CMkgzz24YEq0CNIt+Z0sU77Uan34/N6wyM28=",
-        "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
-      },
-      {
-        "name": "TVN 3",
-        "uri": "MPyTvcd0a4RldnJzh5NdlJ8x85SIiM/MJHN12NdG7taH+rrFKGFE0iIgwjXrvZvAPa3rwOXqFzDzefkXSLOLWbaNOOa898NTUdhvkey4Tiw=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png"
-      },
-      {
-        "name": "ADN",
-        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7+pQ+bVIWlosxRL0R0SEASRSQNVNHieHk1OcgimKiRr1veITwRhX8aUS78OgZMkZtAhl0WV/O+YaPslP/9qJ38wE9peXTKysi3XLOkoP4xAM9/kOU14YCiLUjzOgJRmuHIUeGTBhFvxjPYxi8Dx2/s",
-        "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg"
-      }
-    ]
-  },
-  {
     "name": "🇵🇪 CANALES DE PERU",
     "samples": [
       {
@@ -2375,21 +2352,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGjpnQ5+n3Vo7IwI5Gppci4ymE+0T+yoi5Q+4t0VtIq2eLpn4YaaTs9Iqf/EGcyxOgYRVxySXmWGJveMQeGlgqK7iZHVcp1GhSYIDFYQtbJmU=",
         "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
-      },
-      {
-        "name": "MIX TV3",
-        "uri": "LX46EnLWmPsTQWzzE5C2pHAmDkjc+H742arlvHZIC1raYG04GY75ihEAZnCEG6kiR7/6cDZjSH5ej496wG4xbiSYyYQNFsu7iXynb3qSo62W/QK6PlGEUqH+OrHKtzvvQuFKpL+PNBsx/+pkXUlMpXDukCFD+f9KRwm8FeDeUhFpgAcpz7s0EG1d92ZUvDDCYC9qFfLC9oqnAXXEISO/DyLhc2/yKJHc2BZaKxrtxROk3miXEjy4xolppTCnfifPBsO5oKid4ckCNXOi3MWd2H8yrxtZE8DNUhN+s7icNsERZMI3Sn8Kh1RHBdS0K0QrmpWMixWRYm/tWkoi7Nktmwpf6JOXN6C4jzbNxcVsZBPwlLzKnCDWvSvmfGyfa2eyz7gIYuIvTW0rmJcKW65vGsn4zm6c67TmwtyYbVKLAeAPEulKUvLXSmoBQu0pZrMFGE/8J5WKEikzyRwAsi0DePw947IiSYD4gIuTYAYCn0kbmc7RZ7skgez1EzFawOnwuw00wx5Ve7UxhhTOpcd5cD914pXOLpLZwhJr2NRQjaqyg3LMvHJcCAgC2r/U0l4W2PWcqOCMgB5911xTG+kRAsZs1HHsHdAq8b10Uc4oU0pgB3/QTFlBWixS2ybj7mVv7G5GXSzYrd7fHV9ntargcyYX4JlS0pJrRkc/WhF9s8wS8r6jDIKMkEjQwAcK2ONfw/5YAhQMDyixkt8QXzLqbxOEThcxYwIUuyKEq9Hn7EsY2WbVFWW8DvmyhOQvvpsN3DG6gqHoBaeWm+q1ZQ+Pd+TtKzRnkNPJwgSSujW2M9RAHDLn4NGx5LtThYjOdyXsLOJmEvUndyYCNFbB3vsUOCWHDBDNYtNyFPlZOkSuQ7NzNBAirB5QRb7deV6Kf0Ul",
-        "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
-        "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
-      },
-      {
-        "name": "TEST3",
-        "uri": "XUWj3igQnfPxNUHd8K+wOE1UrBHowZVnb9hzeRgd/KdhdpE74SpOY2cyB77AMMvkwju9oIXEUGAPfCR8h4zCEQ==",
-        "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGn77L1nva65kEYkwsYnGxml1sxMmIja4SSgVJtA5AKQr3OYdl0hSJoW1icbQXvfcv8MhTLCUiAH1602OBD5eotlq2G685mQ6eU2TDXqEJ9qU="
       }
     ]
   }
