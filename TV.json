@@ -810,17 +810,17 @@
       },
       {
         "name": "13 MAX TELEVISIÃ“N",
-        "uri": "+Z2+hWd52l8tnz3QKAcg7oiquukL+UoG2vvlrwS9SRXjOcQCB9igvtbqf61wD3b4DQvAylxtLq9WmO/Y2bwqG/SVVOlopzWB6ZAw3w8eURU=",
+        "uri": "pY43QXLmW1W5Hz4WuCLX/p67znOeQvikCLCFkfbNGkiXiqVqjsCso71lSyQxSGRUTvtxX3Tz1M0swKFqlPXFH0QVquWonxi9PlKDlBGfAcI=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"
       },
       {
         "name": "EL 8 SAN JUAN",
-        "uri": "EvW7YPrr5OCcySqSS/3KZLI2arBb26zR2JlbxlYIE6Q8eusujyp/23Jj3RWHuQ8ijCbLJBIaU1e9hBurbDDTQQ==",
+        "uri": "WlQJicNExM1Nk3TMzu+X9b6pHKoEO6syMGEmJucUfDqmJ/2zdwc9Cn7C6/N55M0odgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png"
       },
       {
         "name": "El Siete TV",
-        "uri": "EvW7YPrr5OCcySqSS/3KZLI2arBb26zR2JlbxlYIE6Q8eusujyp/23Jj3RWHuQ8ijCbLJBIaU1e9hBurbDDTQQ==",
+        "uri": "WlQJicNExM1Nk3TMzu+X9b6pHKoEO6syMGEmJucUfDrzWAVMj3ur7ks+UrH1Liu7dgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp"
       },
       {
@@ -1170,28 +1170,22 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢 Nacional vs Peñarol",
-        "uri": "fNnRfB/IApFR5dkUtjnGg/qSUfSngLOxcYarAkvvCNzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
+        "name": "🟢 UFC - Paramount+",
+        "uri": "KiOFgtD4yILSl7O8rxxH1Rvloi1HPe68TeM3mYK/A2MuAktubELUzt6UxDlzT7YBditpUFboYG8qB7B6+WevavFyKtogCSefpnCfHQuIIO4=",
+        "icono": "https://www.totalmedios.com/img/noticias/2025/10/690181d5b8124_838x390.jpg",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       },
       {
-        "name": "🟢 Nacional vs Peñarol",
-        "uri": "WL1IlirmqpF9aBrXvpvJworBMSvwO+qv253M41kmCOCRvpPfgQn84PmiJGvPLol3",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5CyX5roema7CIOYanbtMCzR84INHgSeuIL7CvmSf1QLsMfaENMInI9jKUtrHHZVIoa6siM6wdgSiTsvSAe2y0o_cmlqqsTzjTI37v1dq-dhQg7k92cjE5JVlOn1z1hzPDnDWffbu6f1gKqK5EQyI5gDHaedy_z2ETTaePk9uuW9oGTyb1cpJPNZM0g53/s1600/Nacional%20X%20Pe%C3%B1arol.png",
+        "name": "🟢Peñarol vs Danubio",
+        "uri": "KiOFgtD4yILSl7O8rxxH1Rvloi1HPe68TeM3mYK/A2MuAktubELUzt6UxDlzT7YBa8JOVlHqyWWPSBDMdXt/U/FyKtogCSefpnCfHQuIIO4=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fC7mSlLuqNXJXE3y1SDtBHNCMbPz3grpAf7w-Buk5VqHJldwTvR8wg4M1lZcL739SHIqAuNUmPH9sYkxlj7yUYJHMyxJm_pa_jrmGcolkRozmlWcnJPIFiVLLhEDSXO_YNiS2EqtJjvv0Wq8LRbnYJiWyyfuN3T2P45ycy333Cs23dlED9gGrLFIs4o/s1600/Pe%C3%B1arol%20X%20Danubio.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       },
       {
-        "name": "🟢 MLS",
-        "uri": "yJCdIxUYEpRUjIpwuEYTyBNDXQZ+e0tKjyGL6A68NHzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
-      },
-      {
-        "name": "🟢 MLS",
+        "name": "🟢 UFC - Paramount+",
         "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
+        "icono": "https://www.totalmedios.com/img/noticias/2025/10/690181d5b8124_838x390.jpg",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       }
     ]
   },
@@ -1369,7 +1363,7 @@
     "name": "⚽DAZN",
     "samples": [
       {
-        "name": "FORMULA OPC 2",
+        "name": "FORMULA",
         "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqmjkHBct2MhRRinwvr3qtOW",
         "drm_scheme": "clearkey",
         "drm_license_uri": "2i4K8L85ffj+zzjS6nDhng==",
