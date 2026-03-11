@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA SOS1",
+    "name": "🇦🇷 CANALES DE ARGENTINA SOS",
     "samples": [
       {
         "name": "PERFIL TV",
@@ -757,6 +757,12 @@
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
       {
+        "name": "🟢 BOCA VS SAN LORENZO",
+        "uri": "7yDFEV1rmvUgmMHpDYTdg6WeXGuZMAQtAxokPSA/j6JOZr6YrN92393uFoH1GSx3dh4nvUY/9Pra0FMrFcKZaA==",
+        "icono": "https://i.ytimg.com/vi/6m5XTqHg2a0/hq720.jpg?v=69b0f4ec&sqp=COSHx80G-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU0HHksZ3j6_jjRQIG_H_s5tJxbg",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
+      },
+      {
         "name": "TNT SPORTS PREMIUM HD",
         "uri": "+MfnLcFKX9s8iwaddVSeo85+qPqzROzkzezp/HGXxls2sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTx3fR1SJhTyCRrHp6Cdh6NeHRJ1d3F/dxfQa0AHrYx+usOheRl+GHO59mAd/Sm87/56J/UxrCNNKQOXGbuC2im0+w7trR+0WTQq4RAXmDcHVOpKIedHQDXoB1Btpqctbfyo01sqdR5E+Y6fl+EqQCF+9tdyyiMS/H+Zhmgh4tUb3t4QmgssZB0JnVZTuE/2TwTQUSBzNVuld3dQ6W0jY8Sy7TGG14ZIEgBiOANO/CKUDJLXbfwv7COO2d8bBIgU4jd5JyWxZYjIQC9tfBuwxl7YACgLay/SO/R2PvkmvpVYXARtH/HL2IRWHiVKaiGM4Jz7jiseZP+FTFth7NJDf7WdzquzJqv0LwJoyJd/Or00GrDWV9VaygEBeNE5+AOrM3DmK2X8WsmXXXp4w/Nge/lAF75G23f70H+tP+g9W4/Z0gRd/jCVpFQk+ASexKOmSekEZEDAmdkwU+Fs4rrLG4QtgCxe5jR/6bbP7JkKLS+LmkRg3awa1uqk7+iq1FfE1srtxYDRJ3c/iDYPWUntKYrvxInNJVBjNKwDyY6TzQqpDGD8bI/FsBwrBBRjKsjlej+5+48JGAZGWdy3nlQWYaPPNxz602vrE2beRMRus0xZkbeafC1dbjrsw2+4w9DNLG7kaZB7doqmppmWSnVBvgPS7v8/EAFGjP5L2gmBCEgAJA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
@@ -999,13 +1005,13 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢MLS44",
-        "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
+        "name": "🟢 Nashville vs Inter Miami",
+        "uri": "wmcpawJDw5iVzh6kyREfXzWDml5H8SmG958gN/I24sBOZr6YrN92393uFoH1GSx3dh4nvUY/9Pra0FMrFcKZaA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLQ45J16k2XdvZlapiFdZD48KwQTykmxepAmB+tHUqdHtPM+Xq+qXf4IsbYb4iAd5ioP4ZBGV11eacy/eqTZTesflAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tdh6N8u0lXEQ7O+ST9bhNcQ=="
       },
       {
-        "name": "MLS12222222222222255555",
+        "name": "SIN EVENTOS",
         "uri": "WL1IlirmqpF9aBrXvpvJwltEUNmU//A3IGSI3kLqPlBsK8pxJn3dCuDjH5yWOfm7",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/500px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11eeLX5eAZiwgcI7fi2Ju5uJHeda9ez6f7GtCLREd/xlA=="
