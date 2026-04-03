@@ -1190,11 +1190,31 @@
     "name": "⚽DAZN",
     "samples": [
       {
-        "name": "FORMULA OPC 2",
-        "uri": "WL1IlirmqpF9aBrXvpvJwonhopAVZZN8hO82cl9vaqmjkHBct2MhRRinwvr3qtOW",
+        "name": "🟢F1",
+        "uri": "g0zAO5ZFpUNa5t3onTq3jptmarScnAErkBb8A3r590LkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
+      },
+      {
+        "name": "FORMULA",
+        "uri": "LKY06lOhOyBwZjSJvWMZ1PsAne+ZKl16Y3sUFbZgsSe/4Zr563f6k7Ise0EBi5yOg0BFWhBaZtstR4UyaActrw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "2i4K8L85ffj+zzjS6nDhng==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "FORMULA 1",
+        "uri": "s5xhuLsIXSRs1y6+yeZc6Tello0VpSuSIxfztJFZbOobhkQjv98kb5e5yA1V+bLRAqdw987qRfxD5rmWDR04lfcWJRh24f5T7jxyBKnaSaGt2ItRRitQZODrbOidLhZCwbP1eFBeYJtcXBDhLU72Nc4H7pvZPhcDb7FalcXwkD31csqYTuvodJnPsq7i9sdC",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGsaZPvu2pNlzwq2dW7Rj2d/dOPFAMtLEvxRBgeLyRm3oojCnWSMHsfZDDhZQ2B9OCwDEVjyLgPEM5RYNC0pip7zbZhX3+j+0Sfwtb2JpFprs=",
+        "icono": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png"
+      },
+      {
+        "name": "FORMULA 1",
+        "uri": "kxT9Wd0XclULhBeHFhkEFYa3fkNq4n5lGwFrW8zXSLCgsDCYDRYJ+z3lT0o6FsyegqGZVhpPCKhBnyDqH7z3brLlBo6w8OpAq/k8RPxhC8ZZzi/kR5q4PK5EVDQiQ50cyoqW0pdIrJvYe1e+RBHQg3xckF8/og9liDiglFUQSK8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwG1wHEMeo/tsZs1OxE1ssCWFpKE9fESbo65DW69Wd/+Qxmx+hQqccqYxwbGzz059GhAHfkBmDBkj3BV0RXs0xxCjrWsBp/HeBxg0f4sJazwng=",
+        "icono": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png"
       },
       {
         "name": "DAZN COMBAT",
@@ -1516,7 +1536,7 @@
       {
         "name": "EUROPA EUROPA",
         "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87CprLi90U4NnF/JiO6HemM0WMazCwwEJ6Cr/qhc47YyE11njLGK5R3Dju4i7JvQVYs=",
-        "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg",
+        "icono": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGSSEdz1vnRwUsfsKd8TqIuywSAi98Wf/00rkQzjqzPWKu7JxtDmIbrx0kysSDYkNWOBga0mPgXYiQxEjUgUUFfNhcbQGpy2va1BG0Hl2LDnI=",
         "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
@@ -1580,7 +1600,7 @@
       {
         "name": "Plim Plim",
         "uri": "Xu75lqEcgu+M4S8HYl8KQVAU830sYHV7/eg2/Is1uCtNkbIc6FXIqPZwXc5cH0cQ",
-        "icono": "https://www.ecuadortv.ec/wp-content/uploads/2023/05/plim_plim.jpg"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s"
       },
       {
         "name": "CARTOON NETWORK",
@@ -1595,7 +1615,7 @@
       {
         "name": "Disney Channel",
         "uri": "Xu75lqEcgu+M4S8HYl8KQc+TEo6GNYpVR4SUhYp0ahab0NebwjG7Y6CvHFQeo7KMaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/275/CH_LOGO/512/512/0/0/13885222074367.png"
+        "icono": "https://lokos.pages.dev/webp/logos/disney.webp"
       },
       {
         "name": "Nick Jr",
@@ -2069,6 +2089,11 @@
   {
     "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
+      {
+        "name": "DSPORTS CHARRUA",
+        "uri": "BaWb1QkplR3tNOTTfiEOi3knuqbXiwFnMoQa8w2e7Dc5e1wfZgNHYdN17h2SO0Ku",
+        "icono": "https://i.postimg.cc/Z5WScRS0/Direc-TVSports2018-(1).png"
+      },
       {
         "name": "CANAL 10",
         "uri": "xA/xOXBagaoZyvwJS1b6fgE6K7uopoA7VFbJCiYdSfAbKpkLpGiBxpedBFqIVolAMLxnbjR41ZfcqjsQn/IXCxcvUNFpRcwhytJ52YX/OtN67qJBVbLdlwTR4EpYe27OnC8vwywwsuYu8vQKlu3pqdtiitiQqy0lN0aHAoCjOl3ibxsLF3v/+efm2PExhgOtwsq+rOcaY14DUekoPT+C+lCT4aaHN6I+Kwj+YKOgXqDaaxGifjOD4NJjQ2qgEnXMM0s9F2cL8gxB7QZPYcZbYL2w7siZeMrXKai3B+Y1CDKHvhaIln9Ztr49jxUdxxTbsmAc3UG4CJl1LsZT2c2TQYTjY1P8hdbRF2exuPD1U8u8zWGtt4idaAruyQsDzZDzHA1eJPinHL6drolVi6VUbox65GOAoIkvhZgojtfTKVtbzkTr66fLTxjjEFrx2ba1kcR2JduJ4XJe9nC3HLoMqYw3WAopGBJFL6eo2FcCM7iQIdO8siPCV71wP5fgd18p7cjVTqKO6C8CADXkDCQAp6YkgKsAUXBEmS/b6904t8afvnRLZzpi6HdzZGtIoBPp6L2IKR1FZSEUCno9lbgudfISYRHDnQGWL6nKiN6SdFNdQLKAGD58OlwUzRCvSYNSN6Hcjf9sD2g6Ie6SRK1eQihrSQhb4x435IsSQc5u7iwEjmRJZQsWoJUM5TU0PtXRrIlPPAiptfa/StjgfJX9g9YpwhrgxSwK+ZZmUuxy5dYAAcT5+zVoLFxrfoJ28ITQaSLU8j+R4S7beBuz2O9D1a1MQjJ6rYdoR8hGo2IcYlRnQMaWkVNhUjVLpoKtEpugLshmlXLO20k1LimHnFwtRfFrA58skH7GS0RBD9jJ6G2MJsskEhpTV72EG6tsMNNB",
