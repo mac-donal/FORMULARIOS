@@ -791,6 +791,13 @@
     "samples": [
       {
         "name": "🟢 Blooming vs River Plate",
+        "uri": "GGdWt+LZT1BER1Ph+qdMJAXrWIrDy9C9tY4bSP9AM+ARBrw6vbkJG2i3PVRPdGNhipH/LhfCkOdBpNmKYIjd9nAplCIDxVeJ9bpBRylrDM/1VqkLQlvYs9eNwjqnZMW4LfvG2Gi3+EBAdFCIdzJOh0gGd7Gf11Cp3+7rYUuxXz5NA/iBvQ85uriGB1Xrn1Fa",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwG2QDYhhqzeire6o/+ruWrOaKWJPk6tgJ6W2J4sX/9MySLw3VB42eE0jMNe7W8Xxcz5yEX7W1pTGTDwZksYVinA/ZWp7NgwNQCFQkVOMgAMO0=",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
+      },
+      {
+        "name": "🟢 Blooming vs River Plate",
         "uri": "bsfomfCdPqVVauwIadnx2hVlG5VvVeJ/xcQBLxWvT1jkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
@@ -1083,7 +1090,7 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-          "name": "🟢Nacional vs Central",
+        "name": "🟢Nacional vs Central",
         "uri": "+ETlaYVhyRY/E3NKlwLtKpN0VL6TGicXmU5UbhYE6ZDkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3i-mOFOzb1FvUh2p10r0fjN2LmE6k3hwnYl-84cXWBmXLK7oQCSu4cJi0ZwT6k8po1sPnHkGgXaqzO4qsmkBA-e8_2X7nGERBOv1arFdKHeAJLQZc4fvqh8xUtcgACnuSPzWVhKnrjkd_e61RufnoIkqjDblsDDQiKQhp9Lbv7OBRpYtJI3G2zdRNTp7B/s1600/Nacional%20X%20Central%20Espa%C3%B1ol.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
@@ -1093,7 +1100,7 @@
         "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3i-mOFOzb1FvUh2p10r0fjN2LmE6k3hwnYl-84cXWBmXLK7oQCSu4cJi0ZwT6k8po1sPnHkGgXaqzO4qsmkBA-e8_2X7nGERBOv1arFdKHeAJLQZc4fvqh8xUtcgACnuSPzWVhKnrjkd_e61RufnoIkqjDblsDDQiKQhp9Lbv7OBRpYtJI3G2zdRNTp7B/s1600/Nacional%20X%20Central%20Espa%C3%B1ol.png"
       },
-      { 
+      {
         "name": "🟢NYC vs Inter Miami",
         "uri": "6LANTdj49psm/H+7tMQ9TGK4Vh7nN10xY+maVTULdpCMp0p5TqLhWE7ZtxCfT0ACGQOjmbzYfj7AoX1X6+09cPmO1LuCgaKjoqDOcGQxvjM+o7IfhzNztvrO2Ngfe374n9b9lnr6dfH9hClXmNQXsw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/960px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
@@ -1197,20 +1204,20 @@
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
       {
-       "name": "🟢tTIGO 🇵🇾",
+        "name": "🟢tTIGO 🇵🇾",
         "uri": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyR3r7IZlHHaRh4oAiwwFDDdk1ZM4PA8EdvqWnKCc1750A==",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
-      { 
-       "name": "🟢tTIGO 🇵🇾",
+      {
+        "name": "🟢tTIGO 🇵🇾",
         "uri": "gilbar2hrh/FkBXJnQb65G2E81TsBgpSuwBJy56tUKkZ5dsQIO17k9l/cpGW6lmv",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
-      {  
+      {
         "name": "🟢 EVENTOS PY 1 🇵🇾",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
