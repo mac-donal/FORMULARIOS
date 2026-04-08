@@ -8,7 +8,7 @@
         "icono": "https://i.postimg.cc/wBRSs1Wp/photo-2025-07-10-16-14-57.jpg"
       },
       {
-        "name": "MIX TVVV",
+        "name": "MIX TV",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ2r6n718G3axu/wYcoE2Ug2QEbnibndq1vfz7MXDXm5aefu4TrY9ZZWFsu5jhhdY=",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_scheme": "clearkey",
@@ -790,40 +790,10 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-        "name": "🟢LPF Patronato vs Colón",
-        "uri": "gvuZ39gDgv25mT0cbuHVGo6Cyp6cx64EgBtsNGjeMmwq+FzyAmgcRGsJ+YEDU8O3uOep+csFwQ68+SE1hqqU7pzAiPsYIs+4LC4ytHeMOB5O9N24U7y9ijPM+a94lnZbFlYRbCPkZtk8z3N+k7qi7e+BhnHadIo8fmVp0KAEM6WPYvU+EZhW82dP5Mk6YItfxJKTPPpHSRzbRIALf6c6rucoov2H0gOK83yZhbmwFo2+Ok6rzH1QEJB9bM2j7PT0BpX4NeU0oFhtKUIvgI8xkg==",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "🟢LPF Patronato vs Colón",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkY38+Xiw+zKr9NYFRwN1+cC4SbVeKNRBF8scMSlfQF+I2ja/DHczShfID/my9hZcGOdcIhvxCUIijCU8LOa4LcEecV3sV0cni9qxeUFTX8RK2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "🟢LPF Dep.Maipu Vs Godoy Cruz",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkNjpfQwIf9iBER/i9Hh/OPuhN4Sy9cp8/3ePoOuHic9ukYEm0kmdP6cEffAXpuIc7rU0lGH4SB86aqZracYwyvUoKR1B/F3q0i2kAFa0Vm3q2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "🟢Gimnasia y Tiro vs. Central Norte ",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3Qk99MLyC+yG5Y4Xcei3+LKsO2ScDuDPpCme3My/VMIUgiNeFoTBflg4R0PMrOUiKVk9GQCGp2giyvc8otxVofKnfQ1NrnGmJkMeS2B0rLwaOa2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "🟢LPF",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkY38+Xiw+zKr9NYFRwN1+cC4SbVeKNRBF8scMSlfQF+I2ja/DHczShfID/my9hZcGOdcIhvxCUIijCU8LOa4LcEecV3sV0cni9qxeUFTX8RK2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jhkcvArxDzHZcYW0c7xmanjWEpKFlJI9jTglhVtW3gJ2rdC-2gdONeJFhCVI-7aU8xwis0SSsNUNzdxqCu_snjli7-9so-vhFbd6BM6mOjTUVYRzt_aJl5kb7DjKAyRzO9NFhZNhBhyZAOJHU3LhHrk9_E8GFcC3GAiUwRZj21m-hmqVg6YJGkJQBS8/s1600/Bolivia%20X%20Surinam.png",
+        "name": "🟢 Blooming vs River Plate",
+        "uri": "bsfomfCdPqVVauwIadnx2hVlG5VvVeJ/xcQBLxWvT1jkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
-      },
-      {
-        "name": "DSports",
-        "uri": "efsSouKAlcl5k+DLnVkIgzGSrkEOhok4PA1hLlPaxzocht0tUn3KwW/NVflYINpNk1ZM4PA8EdvqWnKCc1750A==",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
-      },
-      {
-        "name": "DSports",
-        "uri": "SnjtKzdGB569ZKZza8KQv262J8G61Ebk8U+D9LMs7DlS8KH3BA9IIZyX9dfMK5LK",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
       {
         "name": "DSports 2",
@@ -1227,6 +1197,13 @@
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
       {
+       "name": "🟢tTIGO 🇵🇾",
+        "uri": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyR3r7IZlHHaRh4oAiwwFDDdk1ZM4PA8EdvqWnKCc1750A==",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
+      },
+      { 
        "name": "🟢tTIGO 🇵🇾",
         "uri": "gilbar2hrh/FkBXJnQb65G2E81TsBgpSuwBJy56tUKkZ5dsQIO17k9l/cpGW6lmv",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
