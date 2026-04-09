@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "PERFIL TV",
@@ -800,6 +800,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwG2QDYhhqzeire6o/+ruWrOaKWJPk6tgJ6W2J4sX/9MySLw3VB42eE0jMNe7W8Xxcz5yEX7W1pTGTDwZksYVinA/ZWp7NgwNQCFQkVOMgAMO0=",
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
+      },
+      {
+        "name": "🟢 Blooming vs River Plate",
+        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1qy/T923hV8gYVNV6sGUKK5"
       },
       {
         "name": "DSports 2",
