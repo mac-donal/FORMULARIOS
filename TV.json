@@ -747,29 +747,10 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-        "name": "🟢LPF Jujuy vs. Patronato",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkCg414NuxcYoJzwL1QBeb4IzRAXQAo+nI4R27DRTTWOmbdk2sDv2VLYIdxlgjznZhYUnhZtQ8q0VH/An2S81Wbiw2HEqtG2PeQVyihgMSXjUlB5cYpqhdcqzhyjSwOpJT",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "DSports",
-        "uri": "efsSouKAlcl5k+DLnVkIgzGSrkEOhok4PA1hLlPaxzocht0tUn3KwW/NVflYINpNk1ZM4PA8EdvqWnKCc1750A==",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
-      },
-      {
-        "name": "DSports 2",
-        "uri": "efsSouKAlcl5k+DLnVkIg0LO4URmvxqB7vwsKROKZHCoUzTjsFyrWIejhhpPW/Ei2rfWgwfeQJXCeNmF6BtKbQ==",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
-      },
-      {
-        "name": "DSports charrua",
-        "uri": "BaWb1QkplR3tNOTTfiEOi3knuqbXiwFnMoQa8w2e7Dc5e1wfZgNHYdN17h2SO0Ku",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
-      },
-      {
-        "name": "Win Sports",
-        "uri": "XS9ths/sbky66QMAFB7dECzjTL5tsW11CpFXOtt7vDKT4kZQ5Rj2IfHmc5EOE1I7mja/ZH3vM8rtsdHIkPcd4ts5dmtjkXB0OJCFNhXgwRkib4EDQT87OyZXZJf2M/YXC1RAnXDRWkrsuTL3RTZeooNdbI1CjEXpTkgtAlCIpSe7zWOLM2q5ws/Zgrb7mPVq2A01mPCFGaPWXMr0wm4pGRnSHrIZ1fDPt1bBTY3j6RIRmdMeB0Wnr3yN7tvIh3OcYSe+vltBUaTp3zwZwoZMHYTkrn0MMN584P8VthHnLIv1yMaLcKTIZKExcnNI4HzJW82qn5stYUQWSUsv8p/wfhBLoveuqmRmwFhPljFuKil/AlXYMQXRbiMvnK1gAwLhJKXuVxWyjkAzgqk1oEEJ4AjfGjO2VQscPAudEXoSPPzoHzsdQ1D8ezuT+fKzIFpK7vItKjkU2f1TEfMrXSxygqvT4jiwRHXsM/l3HGxyGlh9lUuqtuQlsrDR9sXKt1LF45X2erK+VJjyHkOhiVojiGQvgzYVCxakIs2d6muJvgQcpw83RoBndQ/H2r/dIllD",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png"
+        "name": "🟢 Boca Juniors vs Independiente",
+        "uri": "ZI+tsewro2GezPLz2WVtrycr7hjB8YG6w1a6pZtUtj9JXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYt3goARhJTsfcb8LXaAWhttyadfQoNYCEYbeOiZP-VwEmeqQCuxfGsef3VGf6utmqnZDZR6xCtq17XzoRav_3EvXjM-syGZ3gKXPdl0iNWgKqS5tw_1AmjuMo08nZeuNFBLDYEocVD1zFuOk3A_mXySItk6eiTnXwBM7NNl0z64tlh01JO77zWhoXuJi8/s1600/Boca%20Juniors%20X%20Independiente.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
         "name": "TNT SPORTS PREMIUM HD",
@@ -1006,9 +987,9 @@
     "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢Universitario vs Alianza Lima",
-        "uri": "cA96UbBgtNCC5EPk39UeIh/6Drud/CpF2csYyJMZQDlJXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGRlIt67oxCa2wSsUR97WtHdwYVB6r1HTsBOOrjX_d3hRnRnWBVXrhw5nwaHeieyIKSomuxR8TiRXwyWqZw-xE9nxXI8V8FE1Naqv9pxsVnHrk_4580r3hBSZxP_AebHnqwa1ww9QpxIOfllNfpBFs6UjJZB7j1xoB0HTlfNRnNLzt9Xh9h7adh5paOOT5/s1600/Universitario%20X%20Alianza%20Lima.png",
+        "name": "🟢 Deportivo Maldonado vs Nacional",
+        "uri": "ALzjfYaY+Q2kDRKqS5pKv5VidvQkVRW+CdPcaZeNF9tJXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgidwxk897bOnz7g1RtAkvmqLE1gbUN1JoxlvYNXbAKghSv12uwPHHha4kVjqDSnHNJb8CEehqb8pW4X7IEyiOMx8Z5o8Ku3NdsRkvbvw_j1m38DfuSJY1HZrA1_LGEpl-ycwfcNTxBBW00-7WFoZZ6_dS2HQBczcNlACTMUd-WkGp441dGFGTGQFXd1o5U/s1600/Deportivo%20Maldonado%20X%20Nacional.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
@@ -1018,8 +999,8 @@
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
-        "name": "🟢NYC vs Inter Miami",
-        "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
+        "name": "🟢Inter Miami vs New York RB ",
+        "uri": "18Ka7/XNiY3OhRIuLRtFlEXxt6u7pG8tGAG4Q9Ce2cxJXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/960px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       }
@@ -2209,12 +2190,20 @@
         "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
       },
       {
-        "name": "MIX TV",
-        "uri": "LX46EnLWmPsTQWzzE5C2pGF780YRaj6TEsSITxVbCiFS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrV86MIILYTm4I1rY6vPTa32kc5uIrk7M3amaVGFVtV2mruAh3riaS83VgvjDlo2g44owOWF5Gkq1hdjiFl9rzEOTj6KA8qBhAIjlLXhv2d1g02Uxbx9eouXNveccBj98Y075EHShGv6IIItX4GdPIISL+TtXBmGyPsdbSnhyTnxfTifahdSGpjICZTUqL/ub5RaObznQKWUj4+37AGqrz34I2qy26wZTGWUSRmSdAIN4+CBlBwqQw07uY6b1efdLfgTGRepvlRHmUgiCjae4aae3f0ANKdt9puiA9452nF3DmDnrnwci+z+r1XU7ffXvYAkWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1cedYmXCijqJveJdgmw3bWA4baY5Sgc5eBZUlcDvuZUr0Ks/MYR8sPyEk9k2jOvUZI4Aht99LhsO50VhTHfSf+4oYctyxAP7zpBRVeql1bjKiouzhOOp1bDTYljr8y1t3NvoneNGQkr8gp/5LUZYb0ZbMJ2n1qF38uFndiTg9KrQ8mQuQ6/9kPYqqPgKK/YjZFXqzsMYHtOnhc34vtkN77Aa4aztp9xpFQBt+0E4j9gryIWL9HV76jUCuV8FC5Xj599mAcc9phQnqfP7XC99gvolMw2PP/TjCj2djRgwwcbM81uRS4Di3ZsiTEWvBXK0hB3Y=",
+        "name": "MIX TVee",
+        "uri": "LX46EnLWmPsTQWzzE5C2pCxEqwUhS/gSRaO5Z1t6HItS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrUacSz+z85RiAbbqXvx/5mUu2fyRPRY5/rmlkQQ7Na6J7uAh3riaS83VgvjDlo2g44owOWF5Gkq1hdjiFl9rzEOTj6KA8qBhAIjlLXhv2d1g02Uxbx9eouXNveccBj98Y075EHShGv6IIItX4GdPIISL+TtXBmGyPsdbSnhyTnxfTifahdSGpjICZTUqL/ub5S72Q/e0VBrEQp0pfv1YOSvHgKIQLKDjFE0+EDS8OocTuCBlBwqQw07uY6b1efdLfgTGRepvlRHmUgiCjae4aae3f0ANKdt9puiA9452nF3DmDnrnwci+z+r1XU7ffXvYAkWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1cedYmXCijqJveJdgmw3bWA4baY5Sgc5eBZUlcDvuZUr0Ktghl4VnPp3MOsTTrX0UIBkht99LhsO50VhTHfSf+4oYctyxAP7zpBRVeql1bjKiou6nD0bkAaHivMIaBgA1FiRyOdpHvuPNWrT1/UOMvjMNEdxnWk8edsbthc9sjax2O2sMxfcdwfke3FF1Ve15PpxRLvGMCRpIwkTnR15z0TcDIWN26QoQLj2qcmBmK71+q1gO3w52bj3u3oDUJhAFnQ+Acc9phQnqfP7XC99gvolMw2PP/TjCj2djRgwwcbM81uRS4Di3ZsiTEWvBXK0hB3Y=",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
         "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
+      },
+      {
+        "name": "🟢 UFC On Paramount Plus",
+        "uri": "rJH+Vnq+qi9E2VLHK6a7Yq9NdTyYY/K73IDv6w5oZDdfy0p/QtLMgnDWoOG8PoCI3MDsPXmte7T1EO68UIP1+7MnSqbF+y3KEm+hQo8tsGRcO4SUstl5LLIOO4oOqHBz24uhf2Fmo/2jV6bDJ6u5ImGQrLcsvwGvUGBGkitgE67N/aOd9iQ8i7lEun2U/4Je+eCxF+qdKrP0mCI6RRrL+mDEamSgoQy1b2hlMvxKSeVMDEwsQqOVia2/cBlfX8TzlnRho+w71azP4jdl42KwWp/mSl7z+8zYAnZS0AVxanj283xl5w+ZPFwf5wxBVj8ql4eZ+BPK/EKaacEznZlYsIRCvV5O77UZqWOwMT47puw=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNmM4MmU3NGUtYjk2Yi00NDg5LTk5ZjEtODgxNWUzNTRkNDkxXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,500,281_.jpg",
+        "type": "WIDEVINE",
+        "drm_license_uri": "AbPX0ujUvyCXP2TAEz1i9KGgYWJ+eP3XlZfucP4p3Av+WecY2NPYtlA28tRAWguDHJ52mhxIQtr6h5Etfn5z8Aew8J5SjX8QVl7yjUtarvF4gDWWcJVOD3BvNAEUKdUobLELyPUlUt7p8vQ45cbGy22yMPGUn77t+ZEeBgicoSOG6ujsAjT73cbrgaAA7W/+WGlhICpMnsuM3iviXKaA2Q==",
+        "drm_data": "Jr7TwzGmOaFtUqHV49tQyeEfD29TApEmA4WTIZAwbYP8ywKVK3qUTpPrfweu66pOAyJAM31n/W4jXLNSwf4d9qHm86ou4RUa67+Xr4BQtIL/yTo7lsUydJt/GWXUHE1dx9SQsmUOwCrdARrQsWLFFkgR9pwhmLAn4AgKmdBHbVYUwQ+qoMuJDkbIujQCM0xOM4BiMp7BubfaAUn9qDKuzJLDlPmsYTq6D0jJGn+smahdK7qJ47ggOkDuqcFgBKgo13a5PAaT/9PAecK3oGt9pUr0cYd3YD/vpPgkNYxPprSbxn6W9R3bTf2GlaiNVXm6fhty7SpD+qFVGGULHqUZgJa6ubhiStR99EfmmmFf5mtp4gPHTwNY9nNGL7lJVRIcgkc9qC54gi0pA3S6DqPsyYZdT2r6NGRlXwudUr+viETpfQempg5ETz1tBPCrXcreCtk9po2Zo5lAEdYlGrB8BkJG4vDXRxQWfRGdkND2olIRQElK0EhOncUL7DwfVSC9ZmUeQr9wyxfMzUdgZqPCKaR+kwgiPeB1F95FJCmwfX9wKazVeDKZ/VYsiH/BtRQ2fyTznTfHkPWLKr/qeOwz5sy78fGLlJuh/dZ0FLUIeps948yfMeoMDdG3iN4WPJA3wspQ5rK7H4cCPc0ZiFOy6sRsckK0RgD0s/qtYpLzQNblAKZawQNA45p8R/QrxP2Pjh0DIDS8pojQEa+JW0GNdAmOOvYEApzjyy0i8AT3BRP6AOCTs6bl332+SAj5gcbc4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPqRPUZ6hYTuteWQqBMk85tWJTHXJr0VCs7ZSgzEyZuiskB627q6hbGyo7DKESCJAXjVH2FN0XOJGe2RrF19FtuEu9sTFXMYXhT8TjTpTggrF1xgbIROZhMGZeQoD31K3h7Rh1ZKAt0a6IgAFqzowZS8RdVh3dxBWjozrcgzs6tQsrHTO8fcXBSw+ZkRoz8vT8APv8C3QuBFpIqdkY+FKEye36JDqhx++ZbTWLjNoiZZRI8sucPRfAKRz0W3ZCRRZ0="
       },
       {
         "name": "Chilevision Contigo",
