@@ -747,8 +747,8 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-        "name": "🟢LPF Jujuy vs. Patronato",
-        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3QkCg414NuxcYoJzwL1QBeb4IzRAXQAo+nI4R27DRTTWOmbdk2sDv2VLYIdxlgjznZhYUnhZtQ8q0VH/An2S81Wbiw2HEqtG2PeQVyihgMSXjUlB5cYpqhdcqzhyjSwOpJT",
+        "name": "🟢LPF COLON VS RACING",
+        "uri": "pU721bR7pvzGpDu5sDTAVJXP+ZBYcpPhFs2XlI2NZ+YYWnjrQ+/KvztliF9pgGfXE1viWJYCQEymG8jDo1FnZF/2JNd6gu1oXAHRTlT4sx7o5aEW8AcI67r67yNo4Xrecfr2YWFE5RkVVtrztemnRygqi0aM3whKhLEz6F8ag/k8zOejFWT1HC4ogo12r3Qk93VVwpANq6fi84BgpidbXROUWKQqigJ/tM3c0DGYA8KjM6sI/OidsEPyQC2CPLsSaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
       },
       {
@@ -1708,9 +1708,12 @@
     "name": "🐢 CANALES CULTURALES",
     "samples": [
       {
-        "name": "HISTORY",
-        "uri": "qTs0Qzmcbc8eu+657xpysBybvj6tIwxhonbPmfDRg/08C+kJpdQJUPy79a9Hb8k2txGnbCCADYZEfF0R6mEgxCIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://uploads.dailydot.com/2020/05/history_channel_logo.jpg"
+        "name": "HISTORY 1",
+        "uri": "Xu75lqEcgu+M4S8HYl8KQbG07tqvEjMXOT8LTsBBRdi0wFowy+JEVWbnHlS39q5C",
+        "icono": "https://uploads.dailydot.com/2020/05/history_channel_logo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGqMUBVQW9nO4ao6u2Hsuqbq9JjqyVgMk6aN6Q8sdJ5vxRxaBTFGyIZ4lFuQmeVtowBzn6aNSSsTSLJk/2TFD0R+MmlpZATpB3N9vCTQ4AmnA=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYmRie+QO7kbnxdW9mVxsbdEH8uFDoy9QgKx0pTQH9EfO360Byq88XowzlykDCkJKKbc+7Gp4Okto7foludboeM0hD0EHhuNjLM0SjjPsOq9FdfMJgY7MoZ8zS+u4+m3UwSLXuX9McP4relHvCoivb2hyYmTwUhTr2csk3NJPaDFuR/O6Gmf6gBLwI1q2nDMQRyb3MRxD0CcdA37y0OP+Yc6Q1BGUOWBUjdwJzfW2BqDYg1Gtjz1ot0Caiv3S33gJLNIOUqmlUc7X+QWsPNcCMWg="
       },
       {
         "name": "HISTORY 2",
@@ -1796,11 +1799,11 @@
       },
       {
         "name": "E!",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQaVqyEjzDNDzzKIIB8zOS0X6a5tqbsxOGf97TmXAYy6w",
+        "uri": "AbWDpiiuPyo+YGsdtbFby2AuyZZAnclrYfkFZAa3tgyKFYCp9Z/kXOZdES54z6vHD0Fi32+EGBW705ViLo2WQITTA+8hDO9xQFFPyeoGj6Fh9n9HY/it9X7SHtqDbRG1cadTR5RCcDPaETBbaJouKZ456l8LBdDnMvRgH5GZ0kertyIjXJG+LfA7YcDTUv48jNoxPIa1O3K/RD974ILM0zQz6ArnHOeWhQppBjK4Kte3UvsGPbVHqO9mPiqw4Auos31AiLMygVLQR8k1KGJlI+eErL97rRZKgYJqDLKypOT3nQrMwoanDT60+L0Zmrg7y3tCxJGnWX20Oy49s1cUFRUkGmjDVcD3CLMbKJHlB/czPWDbM60zZDXnLSbXliYtwDzc7o0XogEy5ExY7nHcO2NgLFSJ8q6063SQ/3arsLI0QgATBd9GURyw1vXIoj+XOf5tQ3vvqCE03cYnxzFbMQnoUFumaSyT0/NVo22pl/upfsVP0omiDL/l+8c0DO0gusovwBT0HWLC8A6iJWkNvdde1QLr2hbHpDPn4Iw1O3Qtmno9QeyTtJeFTOVQt8unTZFzBPCUL9Nhe5/LZhG8rZ5FQsMCcdZk1Geo+eXv/HJgKAjY08gebxLJTofrg+ADp8Ub97QMmBpSJm8SnZp4PYjTaLVhNTBfhWkcI68uXchdOm21qRbfmnzvwrqIX9lzmvf8aFzlzAsNY7iO96Iw22vgeo1EBWaFYeHam4yjMfVCjm2nMUjwrtnq2rMT5ftNjUSxmbxwv1IdbpTsOZVZtJQKRYxaZqW9zGnMiGYnaZeJ1fHCYfjOWlNV2xg0xHRg8E4k+Q1GxGGXtm+8xYRA9sKPvYWN3LmS+a0zF9NZFr+xuI5RnhoRkC7g/dxacePOJYcMEM1i03IU+Vk6RK5Ds/iNvJ29D1eKlX67FYJ2Uuwm/y/vs+T2KKdD6IOn44z+5FLgOLdmyJMRa8FcrSEHdg==",
         "icono": "https://i.imgur.com/Pcr6ci0.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGjlfuQjPr5GVWfuzQuu9SI7rZgMMrXSvFUt1VjDAykdTT+7J/04bB/CWdA/qIKFIe6TcWj6kpfJItUnuUXIMr6sbXD9OJ3fOT5aJUr+BTYfA=",
-        "drm_data": "CrIrhfomDvwOAryxigF3uHUafiUGPJx3uiYPwL3JygQFZVKI4atYAY9Gfvp0np0T7GYpnWR5PDgOdPa25Ya7srilrtLc0WH5tuyEljyvAhKUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE12+ACR1ioB4nbMILkb9H6jnJHeda9ez6f7GtCLREd/xlA=="
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGmuNC9wJ7jSCwDqD1JupDoHEITHfkR4nGH4k/b+vcZNx",
+        "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
       },
       {
         "name": "ANIMAL PLANET",
@@ -1808,7 +1811,7 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGK/7z3zUiCSxja8qucJw9eAVQpHbUzgthpJh2cd8pIfRNFa0dDwP4N+7X695MZjw6JcZyaGy3IcVw2xTA9a611N1vvugCRjSXaqSf9HvNbhs=",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYmRie+QO7kbnxdW9mVxsbdEH8uFDoy9QgKx0pTQH9EfO360Byq88XowzlykDCkJKKbc+7Gp4Okto7foludboeM0hD0EHhuNjLM0SjjPsOq9FdfMJgY7MoZ8zS+u4+m3UwSLXuX9McP4relHvCoivb2hyYmTwUhTr2csk3NJPaDFuR/O6Gmf6gBLwI1q2nDMQRyb3MRxD0CcdA37y0OP+Yc6Q1BGUOWBUjdwJzfW2BqDYg1Gtjz1ot0Caiv3S33gJLNIOUqmlUc7X+QWsPNcCMWg="
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYk2zH/Cz33Y0AzUDGHubZo3CHRXS97z7xppM12ZmxSBSywPFQh7QrBk5a9fsA1zwHn5McjiF6UOjSGluHgW4yKBMsuyNJK87sTrQtCQ+wdTIlKW6ub7tDoZ00DtmmzJ/+nkNAA3HViIER1InuXI+GSQ1aFKQSKoopUzT5dYrr5W9NHt9mfYxbaJukJ23WNCyGD+OMh+OWhFP5gdhNEdp16BL+VHD+rMf4AkvPYqYQRNdoYtcgioEs0MVRLzTk0lDFCR3nWvXs+n+xrQi0RHf8ZQ="
       },
       {
         "name": "NAT GEOO",
