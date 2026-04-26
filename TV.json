@@ -782,8 +782,8 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-         "name": "🟢LPF OFF",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc/XffXuweaW/Vv3H7958bZ1loOwsvHpIHbjVu5fNVwF",
+         "name": "🟢LPF COLON VS GODOY CRUZ",
+        "uri": "pU721bR7pvzGpDu5sDTAVHYY3LfLsaOcEpB22FSV1la9nztIustjZpJBqNcSHbE8GKjDxJN2QGieRREobdHewQNhCXcXEAnLX7VpxtN+VAl71SouWfIzSTfx5/qRFtzUCYlTkmEF2ScYQTTa++9LK3Old5hb+xIWMgHA3fJhYAA=",
         "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
       },
       {
@@ -2383,6 +2383,12 @@
     "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
       {
+        "name": "🟢Wanderers vs Peñarol",
+        "uri": "J+B0KtFAERrbXmqUd5nZ0E84TGt4CSs7bBqwyhWet0BJXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMigNpc_mm9kdzYpElFcnJ9WV-Dx9-fgVoCVQdx2jIF63vN9m2bDqa9GDLKHs5N3oobLnPb_33F-QAGWsVGKedW_axR35GqNs1PrB8IxuzLLDdVUCRSTwd9248pbw6w5g1_XypHrOIA2VN7b58PlbjLbMYOOh-chbPfIVcxCoQ1soIxzx9pJJgf5NAVGc/s1600/Wanderers%20X%20Pe%C3%B1arol.png",
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
+      },
+      {
         "name": "🟢EVENTOS CHARRUA",
         "uri": "KJnjMPjivQQWpS7hZKn23w+qQ6Bbgrw3f9OkVRG8SxTtE+xr6gngtL1BbLRJsmcH",
         "icono": "https://i.ibb.co/yny1nBnL/EVENTOS-UY.png"
@@ -2391,12 +2397,6 @@
         "name": "🟢DSPORTS URUGUAY",
         "uri": "2esUhJfEkyFL+K+FzuNXyLXugRbgrE1AdbVVApUvHFWdFiH/YPNklAfW+rLGIWc+jVFNDEmK51ibbrEzeH5dhLOotfdkthOPyzhnFm+9vzjZgCW5RFA2fehR0sY4uTbBrkuA0u3EbYAaOsyryHLJYFABXbh5miw2A9yVHrE08h0=",
         "icono": "https://i.postimg.cc/Z5WScRS0/Direc-TVSports2018-(1).png"
-      },
-      {
-        "name": " OFF Wanderers vs Peñarol",
-        "uri": "jl53pcUPl2QIVFjiyNbpK3fW+zho3vpsZPVKo/wNpt3kbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMigNpc_mm9kdzYpElFcnJ9WV-Dx9-fgVoCVQdx2jIF63vN9m2bDqa9GDLKHs5N3oobLnPb_33F-QAGWsVGKedW_axR35GqNs1PrB8IxuzLLDdVUCRSTwd9248pbw6w5g1_XypHrOIA2VN7b58PlbjLbMYOOh-chbPfIVcxCoQ1soIxzx9pJJgf5NAVGc/s1600/Wanderers%20X%20Pe%C3%B1arol.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
         "name": "CANAL 10",
