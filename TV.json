@@ -1614,42 +1614,63 @@
       {
         "name": "SEMILLITAS",
         "uri": "dT36qzJpS/8cqnNLh6ucgbvGWgLUrvT5jskets7OgxlpQnSN7I7aGQC0j1z3ZLmf",
-        "icono": "https://i.ibb.co/LXp8XVrV/OIP.jpg"
-      },
-      {
-        "name": "PAKA PAKAA",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQXOw5gbjsOZwQSdJzk6nai02YIP36UDloiRaYwYZdTKo",
         "icono": "https://i.ibb.co/gMVsrStH/hqdefault.jpg"
       },
       {
+        "name": "PAKA PAKAA",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3pbIS0rABSjrvzDu0sss481AAnirjYTRmh70IfzOHUWt4wmyyQSGlNXvYQbq2ww00E=",
+        "icono": "https://i.ibb.co/LXp8XVrV/OIP.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGVSRrspftKB7iwDif7bnaJnTwe68BMVjsgt/YQn44qW8UCp66PofpVmijbPmFpDMbLlqlz40kDJ/GwzdAx9q6j/Qk72vsLhnvo0onzwa8s7k=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
+      },
+      {
         "name": "Plim Plim",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQVAU830sYHV7/eg2/Is1uCtNkbIc6FXIqPZwXc5cH0cQ",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s"
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJoixEfLT4649i2kDI2Yf1u5YrO++8i48ASIR1yi8XAOd4xU82iRETfX/h8i4JkLqtw==",
+        "icono": "https://www.ecuadortv.ec/wp-content/uploads/2023/05/plim_plim.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGgGkY6j75DFG40UdZNYtuGWZdRlhGwHBC+qdBH9liZDYNmSVImzW+HAvtAuHkzl0CjzUY8x0VzWlY5BoFzo6NQCSVG9/DTbrCYAm1Ow6q9Nc=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
       },
       {
         "name": "CARTOON NETWORK",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQWuumae7R9PnsgTwnJwxqqXOBqxXyZmODaKqwTs8hnF+",
-        "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png"
+        "uri": "+MfnLcFKX9s8iwaddVSeo2SL9osPKskT7JAxGrcUGRw2sLk2jPcjd9/U+pMOa40xBfyjMd3nSgi8lfDbDW5ZlDuoYCk0RjHIfI0H4+Y0xlZVvTR7/Zwo0MFQrEylyllAYxeEiqLu5iGZdlbAIPOa9aV+bUg129YKo6OBDo0JCTzvnm7KZDgmBaLNZ9OrGNDFXzceqgHhc40OGp7SLET143R5/zd9dMLQpN4XjD9GfdN7m7cRno+yUQI2G3G4twhZnWBAmtGWDdsG1HbMlWWQB222gxVWW+3YKzLqzLlRKLe2X7UCWJ7ibHz/prE7IxraYG/3sSzah1t0YAbJOUskzpuJMqgAEBwzv+yCK3JGKCBd5rQ7JEdITPsWn4YubBVnw67x9npMkc9GtzkQQGN/7KZEp2oj4TADiEtGNVxTokDvlIMBZkGreWiHZPsiqD8u3SAQfUlSBJkosv1t0g4Ni9/6v8MUWMxc7xFrb44ENVYxiqHUKMmPsCE7oYFFAvde+CsNbXwqNtKmqclZ5r/FlMzyuzAPvtZyNHrFnl/BBlLp6iKoyQjspFhAbJG3JIla+KJb86ruChWxYceoriMcp25PrOp14BNVn3722MYE1Ev/TDAJnodfiTM7arauGlbkCd2lJ+LaHeZO/EYfCY6jzQRlpGaGVDa3TTLEi0eRes4HUV/AAuurYwSTMuzIYa0xVFWHhj44jm8IDphmTCVPaQ1FQqbDJ9kfFnMoXGjcZAbts2rntBHhc1GWsT2byZaBbeUCNa6WNp2E1n5XshNIHnmxdeOoxB0RaiortsPCwjKiUPLwu4qCPRTstr8XnDV1VZMukOh7ZMe2nA8uPZKLQ5AdkkY3qZ5a40RRUWi45+1YK6XLFVfNDFWpzIg1aNJpZ+3zkxEQTOwPxxymaLUjB+tN+/HwIqxlWxGo9tKglOlp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccP0yVjaYv3gqJ9a/Z8NwbhOsfE+dmQ66wDfJ8AHQ8oZUA==",
+        "drm_data": "xOQY+mnXIAlHlT5qmDMTS3NThSxpL9nUV27Cpzp3l/Rf7Dr8JlBosrnG6GSesYYiKgxMGWVONEkF83+HXhRGFPOJcMEHJYREjo2S8lMcG63KJgxge60YPlBh16EnfvwG2Rz0vUTxLlfFFr3ZMhQEGoMw99Vml2ym4YNPFXqz8C0="
       },
       {
         "name": "CARTOONITO",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQWuumae7R9PnsgTwnJwxqqXOBqxXyZmODaKqwTs8hnF+",
-        "icono": "https://logowik.com/content/uploads/images/7354-cartoonito.webp"
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87C8TcmEOTkOuZp1p+Pfdl2jRD0LP4B+cT0Ed+KjHkZWQ7yVF80i7JT3Q9FU/apRw54=",
+        "icono": "https://logowik.com/content/uploads/images/7354-cartoonito.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGhxEnGnu+dHJPi4oLPIkHwTpD1OsrE0vUcFhX+KBnYzjWAFnBp9XUY0wVNKlGKTq1ErUB6P/PQZHFy46iaw99DevGp15AHv/jNfP3MapbwsE=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
       },
       {
         "name": "Disney Channel",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQc+TEo6GNYpVR4SUhYp0ahab0NebwjG7Y6CvHFQeo7KMaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://lokos.pages.dev/webp/logos/disney.webp"
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87Aq/XfJUe+l4ADw9RkQdtagOJ5C+y/48cSGQKq650kX/2ec+OAMljioqrqnSYpNp04=",
+        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/275/CH_LOGO/512/512/0/0/13885222074367.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwG3H9X5znhctiZH0SdSOBb3PVG5CzCZA3U5iuQXEX4tvRd5EDuZSWXVFdzOxjxLg7//pitW7oeGwatqKkodEUGRWZVGPk+yyykjR/Zem4LfZQ=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
       },
       {
         "name": "Nick Jr",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQWwA6YcSopAwH+VcS/ygspaHKnKlRkEG169hCgtuC8bN",
-        "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp"
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87BtGIDpNrToAteYTaVO1PyVsWEnSQXvQ4c69uRi1/h6qblvA+IbJ2uUK/klsyKpHmw=",
+        "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGdl3XwsSxKn8LHTmbj7wzyo8QMyCh1G0CjyAGPniunftLc4gByxWrHn2X/pE6vLtSfhDBXxMEc1dcElui/1CAbGG8VNxTCohD0fFC7i+jvH0=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
       },
       {
         "name": "Tooncast",
-        "uri": "Xu75lqEcgu+M4S8HYl8KQeGzIObM45trHSM79S1oHusIA2gqHg64YyqTcf/tXXFM",
-        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/726/CH_LOGO/512/512/0/0/43956127073681.png"
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DYOIWqX0CZll+Y8p03HOjKDLGeToOqAUuQc3k3TvaMv67OHy50iCio8r4pjfESODs=",
+        "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwG6duBkyRVzwdLN0vhNuM1QZ3ymHV0tQ7raztUKP4pFLPuh+JNJNqtLgsX8AbZNsw2rirmtlVuAknHpy8Ed7t3kO5sQmYmRIvBfoQBpi8sVpU=",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvL2TdUYJgnS0QBaHfiTij3akdTNG0H/GiHVQXsmioVLkRJuL4s2vpUG34UoIJdZ5xGNDu2ZYfg36CUIHIE99guqyxWP0tSbly42S/O940TBYckLu1dI+xGaGl6aNWFAqLO3NGu6qk5psq2fTcbT4+EG7rD4VogQ5BaNR1kcCG0cMQN660YrNn/cME9vlJ1ZLg="
       }
     ]
   },
@@ -1808,6 +1829,14 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGK/7z3zUiCSxja8qucJw9eAVQpHbUzgthpJh2cd8pIfRNFa0dDwP4N+7X695MZjw6JcZyaGy3IcVw2xTA9a611N1vvugCRjSXaqSf9HvNbhs=",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYk2zH/Cz33Y0AzUDGHubZo3CHRXS97z7xppM12ZmxSBSywPFQh7QrBk5a9fsA1zwHn5McjiF6UOjSGluHgW4yKBMsuyNJK87sTrQtCQ+wdTIlKW6ub7tDoZ00DtmmzJ/+nkNAA3HViIER1InuXI+GSQ1aFKQSKoopUzT5dYrr5W9NHt9mfYxbaJukJ23WNCyGD+OMh+OWhFP5gdhNEdp16BL+VHD+rMf4AkvPYqYQRNdoYtcgioEs0MVRLzTk0lDFCR3nWvXs+n+xrQi0RHf8ZQ="
+      },
+      {
+        "name": "GOURMET",
+        "uri": "Xu75lqEcgu+M4S8HYl8KQXUwOMX0HIlRqvwXZ5PlqP/rzl3VWj5MyQsZG0gLnEpX",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1200px-El_Gourmet_logo.svg.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsSjvLkcAYVJeOaCCWGffBPfJxq2qgat2iL1kC3S+gwGhs+gAjSSiSYo+6DhEZgygKgvYlcyJ4VSRfb2l2tffTDfhGS/HsBjIspKWIakA+v7dLXydXFXrktXw2PuSzgWmydvMa889gBmey8m8Yu8lO4=",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYmRie+QO7kbnxdW9mVxsbdEH8uFDoy9QgKx0pTQH9EfO360Byq88XowzlykDCkJKKbc+7Gp4Okto7foludboeM0hD0EHhuNjLM0SjjPsOq9FdfMJgY7MoZ8zS+u4+m3UwSLXuX9McP4relHvCoivb2hyYmTwUhTr2csk3NJPaDFuR/O6Gmf6gBLwI1q2nDMQRyb3MRxD0CcdA37y0OP+Yc6Q1BGUOWBUjdwJzfW2BqDYg1Gtjz1ot0Caiv3S33gJLNIOUqmlUc7X+QWsPNcCMWg="
       },
       {
         "name": "SUN CHANNEL",
