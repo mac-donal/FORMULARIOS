@@ -17,11 +17,9 @@
       },
       {
         "name": "TELEFE",
-        "uri": "YlSZHsM89XquDMdyRynCR91fa0iVg/SFOJrFjdbFS/v/eTarQ6Lvh6eXES3VG/9G",
+        "uri": "+o4tNJdn8ROdT53r23YumbCTE2W0IDfRQxejDTWNglzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Nwg8prx8yp9/yKH9iCtDU8BKyjvHTtMKE6vfCC4M4lPYKUIRk/0/OLUdtizwDZE0jGRfoltRYGcZRCLOzkL/nXm/jJn6tqYkNCHoOoxmJAE=",
-        "drm_data": "xOQY+mnXIAlHlT5qmDMTS//AsBvsp69npSvjSHJb/sE4Sa9029x5sG33Gj8SkRX35J4RP2ZX+FoMsWIi2BsUbzyUJ8upqCkKO3EISBBT6YGjQFxVD/KQ1goqtfrG7MzP9oTWJWMBvdgsX6+kCp3hX5PPa5xfFOHene+dJWbO9bS/w8HJHg87V+EMSDcgUZGqgyKY5G8GcmPsAzRRxPVt5Q=="
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
         "name": "EL TRECE",
@@ -742,10 +740,9 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-
-        "name": "🟢ANA MARTIN VS Atl.RAFAELA",
-        "uri": "pU721bR7pvzGpDu5sDTAVADoI/JpaKKoh5qjqKxwMZN2H+uTg72t7rS2NpVS+mUUrSkpxxLJAJ2gpoHDMhWzKqeEOFwYXNOh+TmpB1WfDgaBBmDp7nm1pEZAZN855EW5wUckzPqwmYCsK1X1FfGAM87iSucZTsg+vhizcp6PSuNp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
+        "name": "🟢Barcelona vs Boca Juniors",
+         "uri": "+o4tNJdn8ROdT53r23YumbCTE2W0IDfRQxejDTWNglzkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       {
