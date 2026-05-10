@@ -806,7 +806,7 @@
       },
       {
         "name": "TNT SPORTS PREMIUM HD",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc/XffXuweaW/Vv3H7958bZ1loOwsvHpIHbjVu5fNVwF",
+        "uri": "LX46EnLWmPsTQWzzE5C2pDZFKqlT0+UJPjECKv6wD8PaYG04GY75ihEAZnCEG6kiR7/6cDZjSH5ej496wG4xbiSYyYQNFsu7iXynb3qSo628Q8sfbjBnMuxM7L4ubIQ1eDXQWf1G9wW5+oQqkgHzx4Kr4s1nNPHtS3H9/I+MlmapCX/Ot6IAGkIM1ChK3jotgUBq67RJGZs0+Ea0O7wjOLHxzCB78aI7qfV8uu1d4Dt8t6aYqgwsZGcp+OtFudlc1DV7C+9xkK6clp+OHZgHenPXqKbyNvwJpMEjuAmJqjj52SHVJk3ZDytnM1Gp+xXOImAlnRNNMgAd2sF89CXrlIFzikkXz9Nw1o7IBqOnHYl9dKnZfSnjn4m/Qkt+aJeHhkviRo5zgNdwMxupHbvFfn5piZVrLqvuNg6Nkk7jTpyBhG4YTgpnGi3+CtqLLuRhWGOv1WN8c+dQEcB2oZypl4sK18SgngFdJUoRxjzLYoCpXqQH/wVHDdViQMUQqKFEBTuVxd4w1A1Tbgp/RRd7hl0RKckaGZdf9a4tdlD894k07OLvkBGXgu6da9T2LHMnVvJkUlKVFz6L7Kf86lNp1qHdqxJ25CE3FgXxG8kSV9oQKDaFUTP0LGAgVyVwqcpSOF+fzi+3XbB61u1N2kcO01UhqRoNrlkKSa6vp91fL/w6pjtFFABTcxa18+6LyDFn+K2WCvKwc60gnqyEB9bV9rUx98aAitTXE+OtNIEXnHYdM5Uf6WBqZWP/dhOyT58+h0GlHV1LOIiZzI6t3S10BvBAFOyonihmGQFEx/SHoHsuOxCdWqNNUcLcCZ/zkYM5tt0d04iSnwKxHmTob3rvIyrIKccOPBn0hw71We/wjhBJaVzYo3CBJ5hMZbjYOA1pmKv0QEwXHfGTiU9vmMdgROx6GAk8gmH3XK0byeppf+oIsqRhNnKvjQa7hhgPrkgVJYcMEM1i03IU+Vk6RK5Ds5b6OWYMyBCumwozK/1d6krBzWmualXeQ1rQpP+n411V",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1puN1L4kFJL6xN/bHZ6Wmf4lhTxQzkQcJ0UqL1fZt3DaA==",
@@ -1194,8 +1194,29 @@
     "name": "⚽ TIGO PORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢TIGO 🇵🇾",
-        "uri": "gilbar2hrh/FkBXJnQb65G2E81TsBgpSuwBJy56tUKkZ5dsQIO17k9l/cpGW6lmv",
+        "name": "🟢TIGO 1",
+        "uri": "9zSiR8+R600iFba4A/LFjyP4TVruTKEw9mSkdVAEMVsCUvwzJn+RTfBwKT4wZvbYuo9ROlb94FqIOEauHvjgcGUg8cTEIWQiWDxoKfaBQuw=",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
+      },
+      {
+         "name": "🟢TIGO 2",
+        "uri": "wkO2ccJp8BGZ44FLGI+9zO/mKwmAzAKUK5WK/LodlEdgox032EjoefjyySL0WJCTIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
+      },
+      {
+        "name": "🟢TIGO 3",
+        "uri": "gilbar2hrh/FkBXJnQb65G2E81TsBgpSuwBJy56tUKmu5CuNzaARQLJszuBme1Zi",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
+      },
+      {
+        "name": "🟢TIGO 4",
+        "uri": "9zSiR8+R600iFba4A/LFjyP4TVruTKEw9mSkdVAEMVsCUvwzJn+RTfBwKT4wZvbYuo9ROlb94FqIOEauHvjgcGUg8cTEIWQiWDxoKfaBQuw=",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
