@@ -787,23 +787,13 @@
     "name": "🇦🇷  DEPORTES DE ARGENTINA",
     "samples": [
       {
-         "name": "🟢OFF Boca Juniors vs Huracan",
-        "uri": "M8ChdX31LO4ZbiM/azGDvn1LQOAOXFzLjFz4PvtwethJXziwwt429XMI0XA05YZ+KVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
+         "name": "🟢LPF GODOY CRUZ VS RACING CBA",
+        "uri": "pU721bR7pvzGpDu5sDTAVHYY3LfLsaOcEpB22FSV1la9nztIustjZpJBqNcSHbE8GKjDxJN2QGieRREobdHewQaaqPyzg4ZVVAX+LUf3R4QufuH9hzYxZ2YfRw9MtH+z54YciHeLaeNm8ywpC2Al03Old5hb+xIWMgHA3fJhYAA=",
         "icono": "https://i.ibb.co/VWdwgr4P/bocaaa.png",
         "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
       },
       { 
-        "name": "🟢LPF Dep. Morón vs. Los Andes",
-        "uri": "pU721bR7pvzGpDu5sDTAVHYY3LfLsaOcEpB22FSV1la9nztIustjZpJBqNcSHbE8GKjDxJN2QGieRREobdHewa7qAeSd7y/6hVF+gwJV1QiALL8kzJJksBin6gQ4mvZFLp8ALz4+YELmep2CUSk+EnOld5hb+xIWMgHA3fJhYAA=",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "🟢LPF San Martín (SJ) vs. Patronato",
-        "uri": "pU721bR7pvzGpDu5sDTAVHYY3LfLsaOcEpB22FSV1la9nztIustjZpJBqNcSHbE8GKjDxJN2QGieRREobdHewbOvLdNMQaGogkCNYRQOXmqnajeiv9owwWkkNZC5jVAb3Mj/bp6rVLJl33nOgdp+THOld5hb+xIWMgHA3fJhYAA=",
-        "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
-      },
-      {
-        "name": "DSports",
+         "name": "DSports",
         "uri": "uNJUA+IpIOd72R/e2g5C/BR87sP1yWBQU+Y6vzuARgbhWWUUWuL0tNaJiZvsWM+M/C0+sCzvvH8eG1JrxI10fA==",
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
@@ -1204,23 +1194,18 @@
     "name": "⚽ TIGO PORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢tTIGO 🇵🇾",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyR3r7IZlHHaRh4oAiwwFDDdk1ZM4PA8EdvqWnKCc1750A==",
-        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
-      },
-      {
-        "name": "🟢tTIGO 🇵🇾",
+        "name": "🟢TIGO 🇵🇾",
         "uri": "gilbar2hrh/FkBXJnQb65G2E81TsBgpSuwBJy56tUKkZ5dsQIO17k9l/cpGW6lmv",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
       {
-        "name": "🟢Nande Portetepe 🇵🇾",
-        "uri": "VWdEmRoy9PumXUmMwi30qqbpVu8Gv99wqw745HTC57py+oBAbly4+15UX+GTaCiOs+k7+G7KvMurPlin7NDNj+Z+PtbF931LUiRBzoBnJYs=",
-        "icono": "https://i.ibb.co/0yVC0WrV/nade.png"
+         "name": "🟢TIGO 🇵🇾",
+        "uri": "BlqcNj4i055KttifrX67ngylqAV9UHuioyBQi7ip+eDPeOGfhLPcG6i7valMNuwnxwQwXV7gmUvtsFLErJau8g==",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
       {
         "name": "🟢 EVENTOS PY 1 🇵🇾",
@@ -1238,7 +1223,7 @@
       },
       {
         "name": "🟢 EVENTOS PY 3 🇵🇾",
-        "uri": "L/5viSVQd/57F42w8Jx1k5husTg7WpBiYsLlO+WKNhYiIuZe7N90KUaKo2xvhBc40JH3FoYDHlk0ffy0hDgCbblJn0cDJjhlKV1LSOJ+sqGwzNt7vO7EsQ4kL7HnfML6VZz9k/pFlM9sHUj4l5f50y0RZozrqcVLart2ElmAdYhYiHlctUZLVsTaUGntAanY4F7QeC9Czw2UnrKHCbIMhL5o8llIOKcPmgo3jIpwx1DtxxrNJHLgOJAstX1VfPDJLySLXrTxww5ga4szZZQDvg==",
+        "uri": "L/5viSVQd/57F42w8Jx1k5husTg7WpBiYsLlO+WKNhYzsNO87fvRrfDPv/O6hg/BwuegeS5meOqdTmTGMdLK7naAT3/in91aAXBe2cdykkm3KzLG16/vOzeAkp67I0DCbM3tQHbLjd9QBp7BIyAeqw==",
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pBdHCD39AVUY7kZe6gJdQq"
